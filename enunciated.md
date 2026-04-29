@@ -28,13 +28,15 @@ English orthography is notoriously poor at representing pronunciation. The Great
 
 Carney (1994) documents the complexity of English spelling-to-sound correspondences, showing that English has one of the most opaque orthographic systems among European languages. Teaching learners to "enunciate from spelling" can actually interfere with acquiring natural rhythm patterns.
 
-Moreover, prestige varieties are not more conservative or spelling-faithful. Received Pronunciation has undergone extensive vowel changes (the TRAP-BATH split, FOOT-STRUT split, and ongoing changes documented by Harrington et al. 2000), and General American has its own innovations (the Northern Cities Vowel Shift, documented by Labov, Ash, and Boberg 2006). These changes move pronunciation further from spelling, yet they are not stigmatized as "lazy" because they occur in prestige varieties.
+Moreover, prestige varieties are not more conservative or spelling-faithful. In fact, language prestige varieties tend to evolve much more rapidly and be less conservative than local or rural varieties, which may preserve older phonological patterns. Received Pronunciation has undergone extensive vowel changes (the TRAP-BATH split, FOOT-STRUT split, and ongoing changes documented by Harrington et al. 2000), and General American has its own innovations (the Northern Cities Vowel Shift, documented by Labov, Ash, and Boberg 2006). These changes move pronunciation further from spelling, yet they are not stigmatized as "lazy" because they occur in prestige varieties. Prestige is not an indicator of linguistic conservatism.
 
-## Intelligibility is bidirectional
+## Intelligibility is bidirectional: The self-bias illusion
 
 A crucial point often missed in pronunciation advice is that intelligibility is not a property of the speaker alone—it depends on the listener's experience and expectations. Munro and Derwing (1995) found that accent familiarity significantly affects comprehension, and that "foreign accent" and "comprehensibility" are distinct dimensions. A speaker can have a strong accent yet be highly comprehensible to listeners familiar with that accent pattern.
 
-This has important implications for the "clarity" argument. When someone claims their own accent is "clearer," they are often reporting their own ease of processing, which reflects their familiarity with their own speech patterns. Bradlow and Bent (2008) demonstrated that listeners show better comprehension of accents they have been exposed to, a phenomenon called "perceptual learning." This means that the supposed clarity advantage of any particular accent is partly an artifact of listener experience, not an objective property of the accent itself.
+The tendency for people to believe that their own accents are clearer, simpler, and more down-to-earth is a product of personal bias and not grounded in reality. This has important implications for the "clarity" argument. When someone claims their own accent is "clearer," they are often reporting their own ease of processing (processing fluency), which reflects their familiarity with their own speech patterns. 
+
+Everybody has an accent. The feeling that one's own accent is "neutral" or "clear" is an illusion produced by automatic processing; you do not hear your own accent because it is the baseline of your own perception. Bradlow and Bent (2008) demonstrated that listeners show better comprehension of accents they have been exposed to, a phenomenon called "perceptual learning." This means that the supposed clarity advantage of any particular accent is an artifact of listener experience and personal bias, not an objective property of the accent itself.
 
 ## Weak forms of function words
 

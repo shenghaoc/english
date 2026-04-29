@@ -42,7 +42,7 @@ Mennen (2015) reviews research on intonation in second language acquisition and 
 
 ## Prestige varieties change rapidly
 
-The claim that prestige varieties are more stable or conservative is contradicted by empirical evidence. Prestige varieties often change more rapidly than non-prestige varieties because they are used in wider social networks and are more exposed to contact and innovation.
+The claim that prestige varieties are more stable or conservative is contradicted by empirical evidence. In fact, language prestige varieties tend to evolve much more rapidly and be less conservative than local or rural varieties, as they are used in wider, more fluid social networks and are more exposed to contact, fashion, and innovation. Prestige is not a marker of linguistic stability or conservatism.
 
 Labov (2001) found that sound changes in progress in American English were often led by speakers in the upper middle class, not the working class. This contradicts the stereotype that linguistic change is driven by "careless" or "uneducated" speech. Prestige speakers innovate, and their innovations are then adopted by others because of their prestige.
 
@@ -50,11 +50,13 @@ In British English, Harrington et al. (2000) documented vowel changes in Queen E
 
 The intonational changes in contemporary English are similarly rapid. Uptalk has spread across multiple English varieties in just a few decades. The use of high pitch on discourse markers like *so* and *like* has become common in North American English. These changes are not signs of linguistic decay; they are normal language change, and they are happening in prestige varieties as well as non-prestige varieties.
 
-## The processing fluency illusion
+## The processing fluency illusion: Personal bias in intonation
 
 One of the most insidious aspects of accent bias is the processing fluency effect: speech that is easier to process is perceived as more credible, more intelligent, and more correct. Dragojevic and Giles (2016) show that this effect operates independently of the actual content of the speech. When listeners find an accent easy to process (usually because it is familiar), they attribute positive qualities to the speaker. When they find it difficult to process (usually because it is unfamiliar), they attribute negative qualities.
 
-This means that the perception that one's own accent is "clearer" is partly an artifact of processing ease. You find your own accent clear because you are maximally familiar with it, not because it has objectively superior acoustic properties. Listeners from other backgrounds would find their own accents clearer for the same reason.
+The tendency for people to believe that their own accents (and intonation patterns) are clearer, simpler, and more down-to-earth is a product of personal bias and not grounded in reality. This means that the perception that one's own accent is "clearer" is an artifact of processing ease and familiarity. 
+
+Everybody has an accent. You find your own accent "clear" because you are maximally familiar with it and it requires the least cognitive effort for you to process; it is your perceptual default. This is not an objective property of the speech signal. Listeners from other backgrounds would find their own accents clearer for the same reason, and would find yours marked or "accented." The feeling that one's own variety is "normal" is a psychological byproduct of familiarity, not a linguistic fact.
 
 Importantly, processing fluency can be changed through exposure. Bradlow and Bent (2008) showed that listeners improve at understanding unfamiliar accents with relatively brief exposure. This means that "clarity" is not fixed—it depends on the listener's experience, and it can be improved by increasing exposure to diverse accents rather than by demanding that everyone converge on a single prestige variety.
 
