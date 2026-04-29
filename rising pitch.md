@@ -58,15 +58,38 @@ This means that the perception that one's own accent is "clearer" is partly an a
 
 Importantly, processing fluency can be changed through exposure. Bradlow and Bent (2008) showed that listeners improve at understanding unfamiliar accents with relatively brief exposure. This means that "clarity" is not fixed—it depends on the listener's experience, and it can be improved by increasing exposure to diverse accents rather than by demanding that everyone converge on a single prestige variety.
 
+## Listener-dependent perception of rising pitch
+
+Experimental evidence confirms that the same rising contour is perceived differently depending on the listener's own variety and expectations. Guy, Horvath, Vonwiller, Daisley, and Rogers (1986) studied Australian English uptalk and found that listeners unfamiliar with the pattern interpreted rising declaratives as questions, while listeners from Australian English communities processed them as ordinary statements with discourse-management functions. The "confusion" was in the listener, not the signal.
+
+Fletcher and Loakes (2006) examined the phonetic details of Australian English rising declaratives and found that they differ acoustically from yes/no questions in measurable ways: different alignment of the pitch peak, different pitch range, and different timing relative to the accented syllable. Listeners attuned to the variety use these cues to distinguish the two functions. The claim that rises in statements are "confusing" holds only for listeners who are not familiar with the system—which is a statement about the listener's experience, not about the speaker's competence.
+
+This aligns with the broader finding that everybody has an accent and perceives unfamiliar patterns as deviant. A British English speaker who hears Australian uptalk as "sounding like a question" is having the same experience as an Australian English speaker who hears a British English low-rise continuation contour as "sounding abrupt" or "unfriendly." Each listener is measuring the other's intonation against their own internalized system and finding a mismatch. Neither system is objectively clearer; each is clear to its own community.
+
+## Rising declaratives in contact varieties
+
+In many contact varieties of English, rising declaratives are natural, substrate-influenced features with well-established discourse functions—not errors or signs of confusion.
+
+In Singapore English, the intonation system is shaped by substrate influences from Hokkien, Malay, Mandarin, and other languages. Deterding (2007) describes Singapore English intonation as having a generally narrower pitch range than British or American English, with frequent rises at the ends of declaratives. These rises function as discourse markers of engagement and are not interpreted as questions by speakers of the variety. Prescriptive advice that tells Singapore English speakers to "use falling intonation for statements" is imposing an exonormative standard that does not match the local system.
+
+Similarly, in Hong Kong English, rising declaratives are common and reflect influence from Cantonese tone and intonation patterns. Setter, Wong, and Chan (2010) document the intonation of Hong Kong English and show that it is systematic and internally consistent, even when it diverges from British or American norms. Telling Hong Kong English speakers that their intonation is "wrong" is a judgment about prestige, not about communicative effectiveness.
+
+Indian English presents another case. Pickering and Wiltshire (2000) found that Indian English has distinctive intonation patterns, including different uses of rises and falls in declaratives, that reflect influence from languages like Hindi, Tamil, and Bengali. These patterns are systematic and do not impair intelligibility among speakers familiar with the variety. The claim that Indian English intonation is "unclear" reflects the listener's unfamiliarity, not an objective property of the speech.
+
+These contact varieties also demonstrate that prestige varieties are not conservative intonational baselines. As English is used in new communities, new intonation systems develop that are adapted to local communicative needs and linguistic ecologies. These systems are innovations, and they are no less valid than the innovations that have occurred within British and American English. The spread of uptalk within "inner circle" varieties, documented by Warren (2016), shows that even traditionally prestige varieties are undergoing rapid intonational change. Prestige does not mean stability.
+
 ## References
 
 - Bestelmeyer, P. E. G. (2024). "Regional accents: Spontaneous biases toward speakers who sound like us." *Journal of Language and Social Psychology*, 43(5-6). https://doi.org/10.1177/0261927X241287189
 - Bradlow, A. R., & Bent, T. (2008). "Perceptual adaptation to non-native speech." *Cognition*, 106(2), 707-729. https://doi.org/10.1016/j.cognition.2007.04.005
 - Chen, M. Y. (1987). "The syntax of Xiamen tone sandhi." *Phonology Yearbook*, 4, 109-149. https://doi.org/10.1017/S0952675700000798
 - Cruttenden, A. (1997). *Intonation* (2nd ed.). Cambridge University Press. https://doi.org/10.1017/CBO9781139524711
+- Deterding, D. (2007). *Singapore English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748625444.001.0001
 - Dragojevic, M., & Giles, H. (2016). "I don't like you because you're hard to understand: The role of processing fluency in the language attitudes process." *Human Communication Research*, 42(3), 396-420. https://doi.org/10.1111/hcre.12079
 - Fabricius, A. H. (2002). "Ongoing change in modern RP: evidence for the disappearing stigma of t-glottalling." *English World-Wide*, 23(1), 115-136. https://doi.org/10.1075/eww.23.1.06fab
+- Fletcher, J., & Loakes, D. (2006). "Patterns of rising and falling in Australian English." In P. Warren & C. I. Watson (Eds.), *Proceedings of the 11th Australasian International Conference on Speech Science and Technology* (pp. 42-47). University of Auckland.
 - Gussenhoven, C. (1984). *On the Grammar and Semantics of Sentence Accents*. Foris. https://doi.org/10.1515/9783110859263
+- Guy, G. R., Horvath, B., Vonwiller, J., Daisley, E., & Rogers, I. (1986). "An intonational change in progress in Australian English." *Language in Society*, 15(1), 23-51. https://doi.org/10.1017/S0047404500011635
 - Harrington, J. (2006). "An acoustic analysis of 'happy-tensing' in the Queen's Christmas broadcasts." *Journal of Phonetics*, 34(4), 439-457. https://doi.org/10.1016/j.wocn.2005.08.001
 - Harrington, J., Palethorpe, S., & Watson, C. (2000). "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen's Christmas broadcasts." *Journal of the International Phonetic Association*, 30(1-2), 63-78. https://doi.org/10.1017/S0025100300006666
 - Jeong, S. (2018). "Intonation and sentence type conventions: Two types of rising declaratives." *Journal of Semantics*, 35(2), 305-356. https://doi.org/10.1093/semant/ffy001
@@ -75,8 +98,10 @@ Importantly, processing fluency can be changed through exposure. Bradlow and Ben
 - Lakoff, R. (1975). *Language and Woman's Place*. Harper & Row.
 - Lev-Ari, S., & Keysar, B. (2010). "Why don't we believe non-native speakers? The influence of accent on credibility." *Journal of Experimental Social Psychology*, 46(6), 1093-1096. https://doi.org/10.1016/j.jesp.2010.05.025
 - Mennen, I. (2015). "Beyond segments: Towards a L2 intonation learning theory." In E. Delais-Roussarie, M. Avanzi, & S. Herment (Eds.), *Prosody and Language in Contact* (pp. 171-188). Springer. https://doi.org/10.1007/978-3-662-45168-7_9
+- Pickering, L., & Wiltshire, C. (2000). "Pitch accent in Indian-English teaching discourse." *World Englishes*, 19(2), 173-183. https://doi.org/10.1111/1467-971X.00168
 - Pierrehumbert, J., & Hirschberg, J. (1990). "The meaning of intonational contours in the interpretation of discourse." In P. R. Cohen, J. Morgan, & M. E. Pollack (Eds.), *Intentions in Communication* (pp. 271-311). MIT Press. https://doi.org/10.7551/mitpress/3839.003.0016
 - Queen, R. (2001). "Bilingual intonation patterns: Evidence of language change from Turkish-German bilingual children." *Language in Society*, 30(1), 55-80. https://doi.org/10.1017/S0047404501001033
+- Setter, J., Wong, C. S. P., & Chan, B. H. S. (2010). *Hong Kong English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748635955.001.0001
 - Ward, G., & Hirschberg, J. (1985). "Implicating uncertainty: The pragmatics of fall-rise intonation." *Language*, 61(4), 747-776. https://doi.org/10.2307/414489
 - Warren, P. (2016). *Uptalk: The Phenomenon of Rising Intonation*. Cambridge University Press. https://doi.org/10.1017/CBO9781316403570
 - Zhang, J. (2007). "A directional asymmetry in Chinese tone sandhi systems." *Journal of East Asian Linguistics*, 16, 259-302. https://doi.org/10.1007/s10831-007-9016-2

@@ -115,6 +115,16 @@ For example, in Singapore English, glottal stops occur as part of the local phon
 
 This suggests that as English diversifies globally, the social meanings of particular features may become more localized and less tied to British or American norms. This could lead to a more pluralistic understanding of English pronunciation, where different varieties are valued for their own systematicity rather than judged against a single prestige standard.
 
+## Perceptual dialectology and the self-bias illusion
+
+The evaluation of glottal stops cannot be separated from the broader phenomenon of perceptual dialectology—how non-linguists perceive, categorize, and evaluate linguistic variation. Preston (1999) established that ordinary speakers carry detailed mental maps of where "good" and "bad" English is spoken, and that these maps are driven by social stereotypes rather than by acoustic analysis. Speakers consistently rate their own region's speech as clearer, more correct, and more pleasant, while rating unfamiliar or socially stigmatized varieties as unclear or incorrect.
+
+This self-bias is directly relevant to glottal stops. A speaker from a variety where word-final /t/ is typically released will hear glottal replacement as "dropping the consonant" and interpret it as sloppy or unclear. But the same speaker routinely produces unreleased final stops, flapped intervocalic /t/, or other allophonic variants that a speaker of a glottalling variety might equally find unusual. Neither is noticing their own variation, because familiar variation is processed automatically and transparently. Niedzielski (1999) demonstrated this experimentally: when listeners were told a speaker was from their own dialect region, they categorized ambiguous vowel tokens differently than when they were told the speaker was from elsewhere. Social expectations literally changed what listeners heard.
+
+This has a direct implication for the claim that "everybody has an accent." Speakers who stigmatize glottal stops are not operating from a position of phonetic objectivity. They are operating from the position of their own accent—an accent they experience as accentless precisely because it is maximally familiar to them. The belief that one's own realization of /t/ is the default, and that glottal replacement is a deviation from that default, is a product of personal bias and not grounded in phonetic reality. Every variety of English has a specific allophonic distribution for /t/ and every other consonant; none of those distributions is "no accent."
+
+Preston (2002) further shows that language attitude research consistently finds that "correctness" judgments track social prestige rather than any objective linguistic measure. Varieties spoken by socially powerful groups are rated as more correct, clearer, and more pleasant, regardless of their actual phonetic properties. The trajectory of /t/-glottalling into RP (Fabricius, 2002) is a live demonstration: as the social associations of the feature change, so do the "clarity" judgments, even though the acoustic signal has not changed at all.
+
 ## References
 
 - Browman, C. P., & Goldstein, L. (1992). "Articulatory phonology: an overview." *Phonetica*, 49(3-4), 155-180. https://doi.org/10.1159/000261913
@@ -124,7 +134,10 @@ This suggests that as English diversifies globally, the social meanings of parti
 - Gaskell, M. G., & Marslen-Wilson, W. D. (1996). "Phonological variation and inference in lexical access." *Journal of Experimental Psychology: Human Perception and Performance*, 22(1), 144-158. https://doi.org/10.1037/0096-1523.22.1.144
 - Lippi-Green, R. (2012). *English with an Accent: Language, Ideology, and Discrimination in the United States* (2nd ed.). Routledge. https://doi.org/10.4324/9780203348802
 - Marslen-Wilson, W., Nix, A., & Gaskell, G. (1995). "Phonological variation in lexical access: Abstractness, inference and English place assimilation." *Language and Cognitive Processes*, 10(3-4), 285-308. https://doi.org/10.1080/01690969508407097
+- Niedzielski, N. (1999). "The effect of social information on the perception of sociolinguistic variables." *Journal of Language and Social Psychology*, 18(1), 62-85. https://doi.org/10.1177/0261927X99018001005
 - Nolan, F. (1992). "The descriptive role of segments: Evidence from assimilation." In G. J. Docherty & D. R. Ladd (Eds.), *Papers in Laboratory Phonology II: Gesture, Segment, Prosody* (pp. 261-280). Cambridge University Press. https://doi.org/10.1017/CBO9780511519918.011
+- Preston, D. R. (1999). *Handbook of Perceptual Dialectology* (Vol. 1). John Benjamins. https://doi.org/10.1075/z.hpd1
+- Preston, D. R. (2002). "Language with an attitude." In J. K. Chambers, P. Trudgill, & N. Schilling-Estes (Eds.), *The Handbook of Language Variation and Change* (pp. 40-66). Blackwell. https://doi.org/10.1002/9780470756591.ch2
 - Trudgill, P. (1974). *The Social Differentiation of English in Norwich*. Cambridge University Press.
 - Brown, G. (1990). *Listening to Spoken English* (2nd ed.). Longman.
 - Celce-Murcia, M., Brinton, D. M., & Goodwin, J. M. (2010). *Teaching Pronunciation: A Course Book and Reference Guide* (2nd ed.). Cambridge University Press.
