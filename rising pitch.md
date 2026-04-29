@@ -16,16 +16,67 @@ Prestige does not freeze a variety in an older or more conservative state either
 
 Use rising pitch when it matches the intended English function: continuation, list structure, checking, politeness, engagement, or a variety where rising declaratives are ordinary. For plain statements in a variety where final falls are expected, do not assume that a rise makes the statement clearer.
 
+## Intonational meaning is variety-specific
+
+English intonation is not universal across varieties. Cruttenden (1997) documents substantial differences in intonation patterns across British, American, Australian, and other English varieties. What signals a question in one variety may signal continuation or politeness in another. The claim that any particular intonation pattern is "clearer" ignores this variation.
+
+For example, the high rising terminal (HRT), often called "uptalk," is a systematic feature of Australian English, New Zealand English, and increasingly of North American and British English, particularly among younger speakers. Warren (2016) shows that HRT has multiple discourse functions: checking understanding, holding the floor, marking discourse structure, and signaling engagement. It is not a sign of uncertainty or incompetence—it is a grammaticalized intonational feature with specific pragmatic functions.
+
+The stigmatization of HRT, particularly when used by young women, is a well-documented case of linguistic sexism. Lakoff (1975) identified rising intonation in declaratives as one of several features stereotypically associated with "women's language" and stigmatized as tentative or unassertive. However, empirical studies have found that men and women use HRT at similar rates in varieties where it is common, and that its functions are the same regardless of speaker gender (Warren 2016). The perception that it is a female feature or a sign of insecurity is a social stereotype, not a linguistic fact.
+
+## The ideology of "neutral" intonation
+
+Prescriptive advice often presents one intonation pattern as "neutral" or "standard" while treating others as marked or problematic. This is an ideological move, not a linguistic one. All intonation patterns carry meaning; there is no such thing as meaningless or neutral intonation.
+
+Ladd (2008) provides a comprehensive overview of intonational phonology, showing that intonation is a structured linguistic system with phonological categories, not just random pitch variation. Different varieties of English have different intonational phonologies, just as they have different segmental phonologies. Claiming that one variety's intonation is "clearer" is like claiming that one variety's vowel system is "clearer"—it confuses familiarity with objectivity.
+
+Moreover, the varieties often held up as having "clear" or "neutral" intonation are typically prestige varieties. But prestige varieties are not intonationally simpler or more conservative. Pierrehumbert and Hirschberg (1990) analyzed American English intonation and found a complex system of pitch accents, phrase tones, and boundary tones that combine to create nuanced meanings. British English has its own complex system, documented by Gussenhoven (1984) and others. These systems are not simpler than the intonational systems of other varieties; they are just more familiar to speakers of those varieties and more extensively documented.
+
+## Cross-linguistic influence and multilingual intonation
+
+When learners transfer intonation patterns from their first language to English, the result is often stigmatized as "foreign accent" even when it is perfectly systematic and communicatively effective. Queen (2001) studied the intonation of Turkish-German bilinguals and found systematic patterns that differed from monolingual German but were consistent and meaningful within the bilingual community.
+
+The claim that certain intonation patterns are "clearer" often masks an expectation that learners should sound like monolingual native speakers of a prestige variety. But this expectation is unrealistic and arguably undesirable. Multilinguals develop their own systematic intonation patterns that reflect their linguistic repertoires. These patterns are not defective; they are different.
+
+Mennen (2015) reviews research on intonation in second language acquisition and bilingualism, showing that intonational transfer is common and that bilinguals often develop intonation patterns that differ from both their L1 and L2 monolinguals. Crucially, these patterns do not necessarily impair intelligibility. Intelligibility depends on whether the listener can recover the intended meaning, and listeners familiar with multilingual speech are often very good at this.
+
+## Prestige varieties change rapidly
+
+The claim that prestige varieties are more stable or conservative is contradicted by empirical evidence. Prestige varieties often change more rapidly than non-prestige varieties because they are used in wider social networks and are more exposed to contact and innovation.
+
+Labov (2001) found that sound changes in progress in American English were often led by speakers in the upper middle class, not the working class. This contradicts the stereotype that linguistic change is driven by "careless" or "uneducated" speech. Prestige speakers innovate, and their innovations are then adopted by others because of their prestige.
+
+In British English, Harrington et al. (2000) documented vowel changes in Queen Elizabeth II's speech over several decades, showing that even the most prestigious speaker of the most prestigious variety was not immune to language change. Harrington (2006) found similar changes in happY-tensing. These changes were not stigmatized because they occurred in the Queen's speech, but they demonstrate that prestige does not equal stability.
+
+The intonational changes in contemporary English are similarly rapid. Uptalk has spread across multiple English varieties in just a few decades. The use of high pitch on discourse markers like *so* and *like* has become common in North American English. These changes are not signs of linguistic decay; they are normal language change, and they are happening in prestige varieties as well as non-prestige varieties.
+
+## The processing fluency illusion
+
+One of the most insidious aspects of accent bias is the processing fluency effect: speech that is easier to process is perceived as more credible, more intelligent, and more correct. Dragojevic and Giles (2016) show that this effect operates independently of the actual content of the speech. When listeners find an accent easy to process (usually because it is familiar), they attribute positive qualities to the speaker. When they find it difficult to process (usually because it is unfamiliar), they attribute negative qualities.
+
+This means that the perception that one's own accent is "clearer" is partly an artifact of processing ease. You find your own accent clear because you are maximally familiar with it, not because it has objectively superior acoustic properties. Listeners from other backgrounds would find their own accents clearer for the same reason.
+
+Importantly, processing fluency can be changed through exposure. Bradlow and Bent (2008) showed that listeners improve at understanding unfamiliar accents with relatively brief exposure. This means that "clarity" is not fixed—it depends on the listener's experience, and it can be improved by increasing exposure to diverse accents rather than by demanding that everyone converge on a single prestige variety.
+
 ## References
 
 - Bestelmeyer, P. E. G. (2024). "Regional accents: Spontaneous biases toward speakers who sound like us." *Journal of Language and Social Psychology*, 43(5-6). https://doi.org/10.1177/0261927X241287189
+- Bradlow, A. R., & Bent, T. (2008). "Perceptual adaptation to non-native speech." *Cognition*, 106(2), 707-729. https://doi.org/10.1016/j.cognition.2007.04.005
 - Chen, M. Y. (1987). "The syntax of Xiamen tone sandhi." *Phonology Yearbook*, 4, 109-149. https://doi.org/10.1017/S0952675700000798
+- Cruttenden, A. (1997). *Intonation* (2nd ed.). Cambridge University Press. https://doi.org/10.1017/CBO9781139524711
 - Dragojevic, M., & Giles, H. (2016). "I don't like you because you're hard to understand: The role of processing fluency in the language attitudes process." *Human Communication Research*, 42(3), 396-420. https://doi.org/10.1111/hcre.12079
 - Fabricius, A. H. (2002). "Ongoing change in modern RP: evidence for the disappearing stigma of t-glottalling." *English World-Wide*, 23(1), 115-136. https://doi.org/10.1075/eww.23.1.06fab
-- Harrington, J., Palethorpe, S., & Watson, C. (2000). "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen's Christmas broadcasts." *Journal of the International Phonetic Association*, 30(1-2), 63-78. https://doi.org/10.1017/S0025100300006666
+- Gussenhoven, C. (1984). *On the Grammar and Semantics of Sentence Accents*. Foris. https://doi.org/10.1515/9783110859263
 - Harrington, J. (2006). "An acoustic analysis of 'happy-tensing' in the Queen's Christmas broadcasts." *Journal of Phonetics*, 34(4), 439-457. https://doi.org/10.1016/j.wocn.2005.08.001
+- Harrington, J., Palethorpe, S., & Watson, C. (2000). "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen's Christmas broadcasts." *Journal of the International Phonetic Association*, 30(1-2), 63-78. https://doi.org/10.1017/S0025100300006666
 - Jeong, S. (2018). "Intonation and sentence type conventions: Two types of rising declaratives." *Journal of Semantics*, 35(2), 305-356. https://doi.org/10.1093/semant/ffy001
+- Labov, W. (2001). *Principles of Linguistic Change, Volume 2: Social Factors*. Blackwell.
+- Ladd, D. R. (2008). *Intonational Phonology* (2nd ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511808814
+- Lakoff, R. (1975). *Language and Woman's Place*. Harper & Row.
 - Lev-Ari, S., & Keysar, B. (2010). "Why don't we believe non-native speakers? The influence of accent on credibility." *Journal of Experimental Social Psychology*, 46(6), 1093-1096. https://doi.org/10.1016/j.jesp.2010.05.025
+- Mennen, I. (2015). "Beyond segments: Towards a L2 intonation learning theory." In E. Delais-Roussarie, M. Avanzi, & S. Herment (Eds.), *Prosody and Language in Contact* (pp. 171-188). Springer. https://doi.org/10.1007/978-3-662-45168-7_9
+- Pierrehumbert, J., & Hirschberg, J. (1990). "The meaning of intonational contours in the interpretation of discourse." In P. R. Cohen, J. Morgan, & M. E. Pollack (Eds.), *Intentions in Communication* (pp. 271-311). MIT Press. https://doi.org/10.7551/mitpress/3839.003.0016
+- Queen, R. (2001). "Bilingual intonation patterns: Evidence of language change from Turkish-German bilingual children." *Language in Society*, 30(1), 55-80. https://doi.org/10.1017/S0047404501001033
 - Ward, G., & Hirschberg, J. (1985). "Implicating uncertainty: The pragmatics of fall-rise intonation." *Language*, 61(4), 747-776. https://doi.org/10.2307/414489
 - Warren, P. (2016). *Uptalk: The Phenomenon of Rising Intonation*. Cambridge University Press. https://doi.org/10.1017/CBO9781316403570
 - Zhang, J. (2007). "A directional asymmetry in Chinese tone sandhi systems." *Journal of East Asian Linguistics*, 16, 259-302. https://doi.org/10.1007/s10831-007-9016-2
