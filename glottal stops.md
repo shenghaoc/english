@@ -53,6 +53,68 @@ Docherty and Foulkes (1999) studied glottal variants of /t/ in Tyneside English 
 
 The practical implication is that learners should aim to match the target variety's pattern, not to avoid glottal stops entirely. If the target is a variety that uses glottal reinforcement or replacement in certain positions, using it appropriately is part of sounding natural in that variety.
 
+## Pedagogical implications: Teaching connected speech
+
+Traditional pronunciation teaching often focuses on isolated words, which can create a mismatch between classroom speech and natural connected speech. Brown (1990) argues that teaching connected speech processes explicitly helps learners develop more natural rhythm and intelligibility. However, this must be done without stigmatizing learners' existing patterns.
+
+A common problem is that learners are taught to avoid glottal stops entirely, which can make their speech sound stilted and unnatural in varieties where glottal stops are common. Instead, teachers should explain the phonological conditioning: when glottal stops occur, where they are optional vs. obligatory, and how they interact with other connected speech processes.
+
+Celce-Murcia, Brinton, and Goodwin (2010) recommend a "top-down" approach to pronunciation teaching that starts with prosody and connected speech before moving to segmental details. This helps learners develop natural rhythm and intonation patterns that accommodate connected speech processes like glottalization.
+
+Importantly, teachers should be aware of their own accent biases. A teacher who stigmatizes glottal stops may be imposing their own variety's norms rather than teaching the target variety's actual patterns. Teacher education should include sociolinguistic awareness to prevent accent discrimination in the classroom.
+
+## Cross-linguistic perspective: Glottal stops in world languages
+
+Glottal stops are phonemic in many languages, including Arabic (where /ʔ/ is a separate consonant), Hawaiian, and many indigenous languages of the Americas. In these languages, glottal stops are not stigmatized; they are ordinary consonants with distinctive function.
+
+Even in languages where glottal stops are not phonemic, they often occur as allophones or as prosodic markers. In German, glottal stops mark vowel-initial words (*ein* [ʔaɪn] vs. *nein* [naɪn]). In Danish, the stød (a kind of glottalization) is a prosodic feature that distinguishes words (*hun* [hun] "she" vs. *hund* [hunʔ] "dog").
+
+This cross-linguistic perspective highlights the arbitrariness of stigmatizing glottal stops in English. The same phonetic feature that is ordinary or even prestigious in one language is stigmatized in another, not because of its acoustic properties, but because of social associations.
+
+## Historical development of glottal stops in English
+
+Glottal stops are not a recent innovation in English. Evidence suggests they have existed in English for centuries, though their social evaluation has changed over time.
+
+Wells (1982) notes that glottal stops were documented in English as early as the 18th century, though they were often described as "vulgar" or "provincial." Their spread in the 20th century, particularly in urban British varieties, reflects broader social changes including urbanization, increased social mobility, and changing attitudes toward traditional prestige norms.
+
+Milroy and Milroy (2012) argue that linguistic change often spreads through social networks, with innovations moving from working-class to middle-class speech and eventually into prestige varieties. The trajectory of glottal stops—from stigmatized working-class feature to increasingly accepted feature in RP—follows this pattern.
+
+This historical perspective shows that what is considered "correct" pronunciation is not fixed but changes over time. Features that were once stigmatized can become accepted, and features that were once standard can become stigmatized. This undermines claims that any particular pronunciation is inherently "correct" or "clear."
+
+## Acoustic and perceptual studies of glottal stops
+
+Acoustic studies show that glottal stops are perceptually salient and can actually enhance intelligibility in certain contexts. Kohler (1994) found that glottal reinforcement of voiceless stops can make them more perceptible in noisy conditions.
+
+Dilley, Shattuck-Hufnagel, and Ostendorf (1996) studied glottalization in American English and found that it often occurs at prosodic boundaries, serving as a cue to phrase structure. Listeners use glottalization to parse speech into phrases, which can aid comprehension.
+
+These findings contradict the common assumption that glottal stops reduce clarity. In fact, when used systematically as part of a variety's phonological system, glottal stops can provide important prosodic cues that aid speech processing.
+
+## The role of media and popular culture
+
+Media representations play a significant role in shaping attitudes toward glottal stops and other accent features. In British media, glottal stops have moved from being associated primarily with working-class characters to being used by a wider range of speakers, including celebrities and public figures.
+
+Coupland (2007) analyzes how media representations of accents can either reinforce or challenge stereotypes. When glottal stops are used by respected public figures, they become less stigmatized. This demonstrates that accent prestige is socially constructed and can be changed through representation.
+
+The spread of glottal stops in media also reflects changing social attitudes. As traditional class distinctions become less rigid, linguistic features that were once strongly class-marked become more neutral. This process is not unique to glottal stops; similar changes have occurred with other features like H-dropping and postvocalic /r/.
+
+## Implications for language policy and education
+
+The stigmatization of glottal stops has implications beyond pronunciation teaching. It reflects broader issues of linguistic discrimination and social inequality.
+
+In educational settings, students who use glottal stops may be unfairly judged as "lazy" or "unintelligent" based on their accent rather than their actual abilities. This can affect their educational outcomes and life chances.
+
+Language policies that privilege certain accents over others can reinforce social inequalities. For example, requiring teachers to use a particular accent can exclude qualified teachers from certain backgrounds and reduce linguistic diversity in education.
+
+A more equitable approach would recognize that all systematic accents are valid and that intelligibility depends on listener familiarity as much as speaker production. Educational materials should represent a range of accents, and teachers should be trained to recognize and challenge their own accent biases.
+
+## Future directions: Glottal stops in global Englishes
+
+As English becomes a global language with many varieties, attitudes toward features like glottal stops are changing. In many World Englishes, glottal stops are not stigmatized because they are not associated with particular social groups in those contexts.
+
+For example, in Singapore English, glottal stops occur as part of the local phonological system without the social stigma they carry in British English. Similarly, in many African varieties of English, glottal stops are ordinary features without negative associations.
+
+This suggests that as English diversifies globally, the social meanings of particular features may become more localized and less tied to British or American norms. This could lead to a more pluralistic understanding of English pronunciation, where different varieties are valued for their own systematicity rather than judged against a single prestige standard.
+
 ## References
 
 - Browman, C. P., & Goldstein, L. (1992). "Articulatory phonology: an overview." *Phonetica*, 49(3-4), 155-180. https://doi.org/10.1159/000261913
@@ -64,3 +126,10 @@ The practical implication is that learners should aim to match the target variet
 - Marslen-Wilson, W., Nix, A., & Gaskell, G. (1995). "Phonological variation in lexical access: Abstractness, inference and English place assimilation." *Language and Cognitive Processes*, 10(3-4), 285-308. https://doi.org/10.1080/01690969508407097
 - Nolan, F. (1992). "The descriptive role of segments: Evidence from assimilation." In G. J. Docherty & D. R. Ladd (Eds.), *Papers in Laboratory Phonology II: Gesture, Segment, Prosody* (pp. 261-280). Cambridge University Press. https://doi.org/10.1017/CBO9780511519918.011
 - Trudgill, P. (1974). *The Social Differentiation of English in Norwich*. Cambridge University Press.
+- Brown, G. (1990). *Listening to Spoken English* (2nd ed.). Longman.
+- Celce-Murcia, M., Brinton, D. M., & Goodwin, J. M. (2010). *Teaching Pronunciation: A Course Book and Reference Guide* (2nd ed.). Cambridge University Press.
+- Coupland, N. (2007). *Style: Language Variation and Identity*. Cambridge University Press. https://doi.org/10.1017/CBO9780511755064
+- Dilley, L., Shattuck-Hufnagel, S., & Ostendorf, M. (1996). "Glottalization of word-initial vowels as a function of prosodic structure." *Journal of Phonetics*, 24(4), 423-444. https://doi.org/10.1006/jpho.1996.0023
+- Kohler, K. J. (1994). "Glottal stops and glottalization in German: Data and theory of connected speech processes." *Phonetica*, 51(1-3), 38-51. https://doi.org/10.1159/000261958
+- Milroy, J., & Milroy, L. (2012). *Authority in Language: Investigating Standard English* (4th ed.). Routledge. https://doi.org/10.4324/9780203124666
+- Wells, J. C. (1982). *Accents of English* (3 vols.). Cambridge University Press. https://doi.org/10.1017/CBO9780511611759
