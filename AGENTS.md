@@ -1,6 +1,6 @@
-Never add any point to README.md.
+CRITICAL: Never add any point, section, or link to README.md under any circumstances. This is an absolute constraint.
 
-For each point in README.md, there should be a corresponding .md file that elaborates the point detail.
+For each existing point in README.md, there should be a corresponding .md file that elaborates the point detail.
 
 The bolded word in each point should be used to name the .md file.
 
