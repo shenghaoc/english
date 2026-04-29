@@ -17,3 +17,5 @@ I will write only the main points and leave the details to AI.
 1. For English-like stress rhythm, unstressed syllables are often reduced rather than fully **[enunciated](enunciated.md)** from the spelling.
 2. Connected speech is not slurring; it is regular coarticulation, linking, assimilation, and reduction across word boundaries. Word-final **[glottal stops](<glottal stops.md>)** are one possible accent feature, not the whole explanation.
 3. A final **[rising pitch](<rising pitch.md>)** can be meaningful in English, but it is not inherently clearer, simpler, or better for statements.
+4. Perceived clarity depends on both the speech signal and listener expectations; judgments are often shaped by **[expectation bias](<expectation bias.md>)**.
+5. Prestige accents are not fixed conservative baselines: documented **[prestige change](<prestige change.md>)** shows that high-status varieties also innovate.
