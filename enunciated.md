@@ -28,7 +28,7 @@ English orthography is notoriously poor at representing pronunciation. The Great
 
 Carney (1994) documents the complexity of English spelling-to-sound correspondences, showing that English has one of the most opaque orthographic systems among European languages. Teaching learners to "enunciate from spelling" can actually interfere with acquiring natural rhythm patterns.
 
-Moreover, prestige varieties are not more conservative or spelling-faithful. In fact, language prestige varieties tend to evolve much more rapidly and be less conservative than local or rural varieties, which may preserve older phonological patterns. Received Pronunciation has undergone extensive vowel changes (the TRAP-BATH split, FOOT-STRUT split, and ongoing changes documented by Harrington et al. 2000), and General American has its own innovations (the Northern Cities Vowel Shift, documented by Labov, Ash, and Boberg 2006). These changes move pronunciation further from spelling, yet they are not stigmatized as "lazy" because they occur in prestige varieties. Prestige is not an indicator of linguistic conservatism.
+Moreover, prestige varieties are not necessarily more conservative or spelling-faithful. They can innovate quickly when change is supported by mobile, high-status networks, while some local or rural varieties may preserve older phonological patterns. Received Pronunciation has undergone extensive vowel changes (the TRAP-BATH split, FOOT-STRUT split, and ongoing changes documented by Harrington et al. 2000), and General American has its own innovations (the Northern Cities Vowel Shift, documented by Labov, Ash, and Boberg 2006). These changes move pronunciation further from spelling, yet they are not stigmatized as "lazy" because they occur in prestige varieties. Prestige is not an indicator of linguistic conservatism.
 
 ## Intelligibility is bidirectional: The self-bias illusion
 
@@ -64,10 +64,22 @@ However, these metrics also show that English varieties differ among themselves.
 
 This variation also demonstrates that prestige varieties are not rhythmically conservative baselines. Changes in vowel reduction patterns, as documented in the ongoing evolution of RP and General American, show that the prestige target is itself a moving standard. Listeners who feel that their own variety's rhythm is the natural or default pattern are experiencing familiarity, not objectivity.
 
+## No single native baseline
+
+The background described in `AGENTS.md` is a textbook case where the ordinary label "native speaker" becomes analytically unhelpful. A child who moves from China to Singapore, loses regular command of a home Chinese variety, does not acquire Mandarin as a fully dominant home language, hears Singlish daily without sharing all of its substrate languages, and learns English through school plus international media is not well described as a defective version of a monolingual speaker. The better description is multilingual competence distributed across domains.
+
+Grosjean (1989) argues against treating bilinguals as two monolinguals in one person. Cook's multicompetence framework makes the same point for second-language users: knowing more than one language creates a specific linguistic system, not a set of failed monolingual systems. Heritage-language work also helps here. Polinsky and Kagan (2007) and Benmamoun, Montrul, and Polinsky (2013) describe heritage speakers along continua shaped by exposure, dominance, and use, rather than as people who simply "failed" to acquire the home language.
+
+That matters for "enunciation" advice. If a speaker does not have one unbroken native phonological baseline, the advice to "just speak naturally" is empty. The realistic task is to choose a target. RP and General American may feel easier not because they are inherently more natural, but because they are more heavily documented and widely available in news, dictionaries, pronunciation guides, and broadcast media. Standard Singapore English is real, but its spoken target is sociolinguistically more variable and less consistently specified for a learner who did not acquire Singlish as an in-group vernacular.
+
+This does not make an RP- or GA-leaning accent more authentic than a Singaporean one. It simply makes it a more explicit learning target. For this background, "natural accent" should mean the stable outcome of a multilingual history, not a mythical pure accent that would have emerged if the speaker had belonged unambiguously to one speech community.
+
 ## References
 
 - Bradlow, A. R., & Bent, T. (2008). "Perceptual adaptation to non-native speech." *Cognition*, 106(2), 707-729. https://doi.org/10.1016/j.cognition.2007.04.005
+- Benmamoun, E., Montrul, S., & Polinsky, M. (2013). "Heritage languages and their speakers: Opportunities and challenges for linguistics." *Theoretical Linguistics*, 39(3-4), 129-181. https://doi.org/10.1515/tl-2013-0009
 - Carney, E. (1994). *A Survey of English Spelling*. Routledge. https://doi.org/10.4324/9780203192696
+- Cook, V. J. (1992). "Evidence for multicompetence." *Language Learning*, 42(4), 557-591. https://doi.org/10.1111/j.1467-1770.1992.tb01044.x
 - Cruttenden, A. (2014). *Gimson's Pronunciation of English* (8th ed.). Routledge. https://doi.org/10.4324/9780203785447
 - Cutler, A., & Carter, D. (1987). "The predominance of strong initial syllables in the English vocabulary." *Computer Speech & Language*, 2(3-4), 133-142. https://doi.org/10.1016/0885-2308(87)90004-0
 - Cutler, A., & Norris, D. (1988). "The role of strong syllables in segmentation for lexical access." *Journal of Experimental Psychology: Human Perception and Performance*, 14(1), 113-121. https://doi.org/10.1037/0096-1523.14.1.113
@@ -76,12 +88,14 @@ This variation also demonstrates that prestige varieties are not rhythmically co
 - Flemming, E., & Johnson, S. (2007). "Rosa's roses: reduced vowels in American English." *Journal of the International Phonetic Association*, 37(1), 83-96. https://doi.org/10.1017/S0025100306002817
 - Fuchs, R. (2016). *Speech Rhythm in Varieties of English: Evidence from Educated Indian English and British English*. Springer. https://doi.org/10.1007/978-3-662-47818-9
 - Grabe, E., & Low, E. L. (2002). "Durational variability in speech and the rhythm class hypothesis." In C. Gussenhoven & N. Warner (Eds.), *Papers in Laboratory Phonology 7* (pp. 515-546). Mouton de Gruyter. https://doi.org/10.1515/9783110197105.515
+- Grosjean, F. (1989). "Neurolinguists, beware! The bilingual is not two monolinguals in one person." *Brain and Language*, 36(1), 3-15. https://doi.org/10.1016/0093-934X(89)90048-5
 - Harrington, J., Palethorpe, S., & Watson, C. (2000). "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen's Christmas broadcasts." *Journal of the International Phonetic Association*, 30(1-2), 63-78. https://doi.org/10.1017/S0025100300006666
 - Labov, W. (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.
 - Labov, W., Ash, S., & Boberg, C. (2006). *The Atlas of North American English: Phonetics, Phonology and Sound Change*. Mouton de Gruyter. https://doi.org/10.1515/9783110206838
 - Munro, M. J., & Derwing, T. M. (1995). "Foreign accent, comprehensibility, and intelligibility in the speech of second language learners." *Language Learning*, 45(1), 73-97. https://doi.org/10.1111/j.1467-1770.1995.tb00963.x
 - Niedzielski, N. (1999). "The effect of social information on the perception of sociolinguistic variables." *Journal of Language and Social Psychology*, 18(1), 62-85. https://doi.org/10.1177/0261927X99018001005
 - Picheny, M. A., Durlach, N. I., & Braida, L. D. (1986). "Speaking clearly for the hard of hearing II: Acoustic characteristics of clear and conversational speech." *Journal of Speech and Hearing Research*, 29(4), 434-446. https://doi.org/10.1044/jshr.2904.434
+- Polinsky, M., & Kagan, O. (2007). "Heritage languages: In the 'wild' and in the classroom." *Language and Linguistics Compass*, 1(5), 368-395. https://doi.org/10.1111/j.1749-818X.2007.00022.x
 - Ramus, F., Nespor, M., & Mehler, J. (1999). "Correlates of linguistic rhythm in the speech signal." *Cognition*, 73(3), 265-292. https://doi.org/10.1016/S0010-0277(99)00058-X
 - Rubin, D. L. (1992). "Nonlanguage factors affecting undergraduates' judgments of nonnative English-speaking teaching assistants." *Research in Higher Education*, 33(4), 511-531. https://doi.org/10.1007/BF00973770
 - Smiljanić, R., & Bradlow, A. R. (2009). "Speaking and hearing clearly: Talker and listener factors in speaking style changes." *Language and Linguistics Compass*, 3(1), 236-264. https://doi.org/10.1111/j.1749-818X.2008.00112.x

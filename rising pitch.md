@@ -40,9 +40,9 @@ The claim that certain intonation patterns are "clearer" often masks an expectat
 
 Mennen (2015) reviews research on intonation in second language acquisition and bilingualism, showing that intonational transfer is common and that bilinguals often develop intonation patterns that differ from both their L1 and L2 monolinguals. Crucially, these patterns do not necessarily impair intelligibility. Intelligibility depends on whether the listener can recover the intended meaning, and listeners familiar with multilingual speech are often very good at this.
 
-## Prestige varieties change rapidly
+## Prestige varieties also change
 
-The claim that prestige varieties are more stable or conservative is contradicted by empirical evidence. In fact, language prestige varieties tend to evolve much more rapidly and be less conservative than local or rural varieties, as they are used in wider, more fluid social networks and are more exposed to contact, fashion, and innovation. Prestige is not a marker of linguistic stability or conservatism.
+The claim that prestige varieties are automatically more stable or conservative is contradicted by empirical evidence. Prestige varieties can change rapidly because they are used in wider, more fluid social networks and are exposed to contact, fashion, and innovation. This does not mean every prestige variety always changes faster than every local variety; it means prestige is not a reliable marker of linguistic stability or conservatism.
 
 Labov (2001) found that sound changes in progress in American English were often led by speakers in the upper middle class, not the working class. This contradicts the stereotype that linguistic change is driven by "careless" or "uneducated" speech. Prestige speakers innovate, and their innovations are then adopted by others because of their prestige.
 
@@ -80,28 +80,45 @@ Indian English presents another case. Pickering and Wiltshire (2000) found that 
 
 These contact varieties also demonstrate that prestige varieties are not conservative intonational baselines. As English is used in new communities, new intonation systems develop that are adapted to local communicative needs and linguistic ecologies. These systems are innovations, and they are no less valid than the innovations that have occurred within British and American English. The spread of uptalk within "inner circle" varieties, documented by Warren (2016), shows that even traditionally prestige varieties are undergoing rapid intonational change. Prestige does not mean stability.
 
+## The Minnan resemblance in Singapore
+
+The personal observation in `AGENTS.md` that English or Singlish intonation can sound strikingly similar to Minnan should be treated as a serious hypothesis, but not as a simple one-cause explanation. Singapore English developed in a multilingual ecology involving English, Malay, Bazaar Malay, Mandarin, Hokkien/Minnan, Teochew, Cantonese, Tamil, and other languages. Platt's continuum model, Gupta's diglossia account, Alsagoff's cultural-orientation model, and Leimgruber's indexical approach all point in the same direction: Singapore English is not just imported British English with mistakes, but a local system shaped by contact, identity, and domain.
+
+Deterding (1994) specifically notes that the intonation of Singapore English had been less fully documented than segmental features, even though suprasegmentals contribute strongly to what listeners hear as the distinctive accent. That under-documentation matters for this repo's problem. If a local prosodic system is real but insufficiently codified, learners who did not acquire it natively may be told to imitate "normal Singapore English" without being given a stable description of what the pitch system is doing.
+
+Minnan influence is plausible because Hokkien/Minnan has been historically prominent in Singapore's Chinese linguistic ecology, and Minnan tone sandhi is strongly domain-sensitive. But English intonation is not lexical tone sandhi. A final rise in English does not become "Minnan sandhi" simply because it resembles phrase-final tonal prominence. The safer claim is that a speaker exposed to Singapore English may perceive, and perhaps acquire, pitch habits that are consistent with a contact variety in which Sinitic tonal systems helped shape local prosody.
+
+This matters especially for someone whose own Chinese dialect group is small in Singapore and who does not fully command the dominant local dialects feeding Singlish. The listener may hear the Minnan-like pattern clearly without having native access to the substrate system that makes it socially ordinary for others. In that situation, preferring RP or GA as a learning target is not self-hatred or snobbery; it may simply be a preference for a documented target over an ambient but under-specified one.
+
+The impartial conclusion is still the same: a rising statement contour is not inherently better or worse. In Singapore English, some rises may be locally meaningful and fully natural. In an RP- or GA-oriented target, the same rise may carry different pragmatic meanings. The right evaluation is target-relative, not prestige-relative.
+
 ## References
 
+- Alsagoff, L. (2010). "English in Singapore: Culture, capital and identity in linguistic variation." *World Englishes*, 29(3), 336-348. https://doi.org/10.1111/j.1467-971X.2010.01658.x
 - Bestelmeyer, P. E. G. (2024). "Regional accents: Spontaneous biases toward speakers who sound like us." *Journal of Language and Social Psychology*, 43(5-6). https://doi.org/10.1177/0261927X241287189
 - Bradlow, A. R., & Bent, T. (2008). "Perceptual adaptation to non-native speech." *Cognition*, 106(2), 707-729. https://doi.org/10.1016/j.cognition.2007.04.005
 - Chen, M. Y. (1987). "The syntax of Xiamen tone sandhi." *Phonology Yearbook*, 4, 109-149. https://doi.org/10.1017/S0952675700000798
 - Cruttenden, A. (1997). *Intonation* (2nd ed.). Cambridge University Press. https://doi.org/10.1017/CBO9781139524711
+- Deterding, D. (1994). "The intonation of Singapore English." *Journal of the International Phonetic Association*, 24(2), 61-72. https://doi.org/10.1017/S0025100300005077
 - Deterding, D. (2007). *Singapore English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748625444.001.0001
 - Dragojevic, M., & Giles, H. (2016). "I don't like you because you're hard to understand: The role of processing fluency in the language attitudes process." *Human Communication Research*, 42(3), 396-420. https://doi.org/10.1111/hcre.12079
 - Fabricius, A. H. (2002). "Ongoing change in modern RP: evidence for the disappearing stigma of t-glottalling." *English World-Wide*, 23(1), 115-136. https://doi.org/10.1075/eww.23.1.06fab
 - Fletcher, J., & Loakes, D. (2006). "Patterns of rising and falling in Australian English." In P. Warren & C. I. Watson (Eds.), *Proceedings of the 11th Australasian International Conference on Speech Science and Technology* (pp. 42-47). University of Auckland.
 - Gussenhoven, C. (1984). *On the Grammar and Semantics of Sentence Accents*. Foris. https://doi.org/10.1515/9783110859263
 - Guy, G. R., Horvath, B., Vonwiller, J., Daisley, E., & Rogers, I. (1986). "An intonational change in progress in Australian English." *Language in Society*, 15(1), 23-51. https://doi.org/10.1017/S0047404500011635
+- Gupta, A. F. (1989). "Singapore Colloquial English and Standard English." *Singapore Journal of Education*, 10(2), 33-39. https://doi.org/10.1080/02188798908547659
 - Harrington, J. (2006). "An acoustic analysis of 'happy-tensing' in the Queen's Christmas broadcasts." *Journal of Phonetics*, 34(4), 439-457. https://doi.org/10.1016/j.wocn.2005.08.001
 - Harrington, J., Palethorpe, S., & Watson, C. (2000). "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen's Christmas broadcasts." *Journal of the International Phonetic Association*, 30(1-2), 63-78. https://doi.org/10.1017/S0025100300006666
 - Jeong, S. (2018). "Intonation and sentence type conventions: Two types of rising declaratives." *Journal of Semantics*, 35(2), 305-356. https://doi.org/10.1093/semant/ffy001
 - Labov, W. (2001). *Principles of Linguistic Change, Volume 2: Social Factors*. Blackwell.
 - Ladd, D. R. (2008). *Intonational Phonology* (2nd ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511808814
 - Lakoff, R. (1975). *Language and Woman's Place*. Harper & Row.
+- Leimgruber, J. R. E. (2013). *Singapore English: Structure, Variation, and Usage*. Cambridge University Press. https://doi.org/10.1017/CBO9781139225755
 - Lev-Ari, S., & Keysar, B. (2010). "Why don't we believe non-native speakers? The influence of accent on credibility." *Journal of Experimental Social Psychology*, 46(6), 1093-1096. https://doi.org/10.1016/j.jesp.2010.05.025
 - Mennen, I. (2015). "Beyond segments: Towards a L2 intonation learning theory." In E. Delais-Roussarie, M. Avanzi, & S. Herment (Eds.), *Prosody and Language in Contact* (pp. 171-188). Springer. https://doi.org/10.1007/978-3-662-45168-7_9
 - Pickering, L., & Wiltshire, C. (2000). "Pitch accent in Indian-English teaching discourse." *World Englishes*, 19(2), 173-183. https://doi.org/10.1111/1467-971X.00168
 - Pierrehumbert, J., & Hirschberg, J. (1990). "The meaning of intonational contours in the interpretation of discourse." In P. R. Cohen, J. Morgan, & M. E. Pollack (Eds.), *Intentions in Communication* (pp. 271-311). MIT Press. https://doi.org/10.7551/mitpress/3839.003.0016
+- Platt, J. T. (1975). "The Singapore English speech continuum and its basilect 'Singlish' as a 'creoloid'." *Anthropological Linguistics*, 17(7), 363-374.
 - Queen, R. (2001). "Bilingual intonation patterns: Evidence of language change from Turkish-German bilingual children." *Language in Society*, 30(1), 55-80. https://doi.org/10.1017/S0047404501001033
 - Setter, J., Wong, C. S. P., & Chan, B. H. S. (2010). *Hong Kong English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748635955.001.0001
 - Ward, G., & Hirschberg, J. (1985). "Implicating uncertainty: The pragmatics of fall-rise intonation." *Language*, 61(4), 747-776. https://doi.org/10.2307/414489
