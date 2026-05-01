@@ -31,3 +31,13 @@ The repo owner does not technically speak English natively, but grew up in Singa
 The repo owner's Chinese dialect group is Hockchia (Fuzhou/Fuqing), which is the smallest one that is separately identified in Singapore's census (17,070 people or approximately 0.57% of the Chinese resident population in 2020).
 
 The repo owner has noticed that the intonation pattern of English/Singlish is strikingly similar to the Minnan dialect.
+
+---
+
+The repo owner relies on IPA transcriptions for pronunciation. Therefore, he immediately notices when English is spoken as stress-timed but with the wrong syllables stressed.
+
+The repo owner is uncertain about sentence stress in English.
+
+The repo owner cannot reliably distinguish the pre- and post-nasal consonants in Mandarin Chinese.
+
+The repo owner cannot reliably distinguish long and short vowels in English.
