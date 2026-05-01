@@ -28,6 +28,6 @@ The repo owner does not speak Singlish natively, he hears it every day but all n
 
 The repo owner does not technically speak English natively, but grew up in Singapore where English is "the primary working language, medium of instruction, and administrative language". He learned to understand Received Pronunciation and General American by watching Channel 4 News and PBS NewsHour, which have been freely available on the Internet for many years. He believes that his natural accent should be his imitation of RP, which would very naturally deviate from the natural version due to his own linguistic background. His imitation of Singapore Standard English is constrained by the fact that it is ill-defined, it can be anywhere between Singlish and one of the more widely-documented varieties of English, all of which are equally unnatural to him. He finds RP and GA easier because they are widely documented and used in the media, so there is no need for guesswork.
 
-The repo owner's Chinese dialect group is the smallest one that is separately identified in Singapore's census.
+The repo owner's Chinese dialect group is Hockchia (Fuzhou/Fuqing), which is the smallest one that is separately identified in Singapore's census (17,070 people or approximately 0.57% of the Chinese resident population in 2020).
 
 The repo owner has noticed that the intonation pattern of English/Singlish is strikingly similar to the Minnan dialect.
