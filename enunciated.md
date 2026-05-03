@@ -78,6 +78,78 @@ This does not make an RP- or GA-leaning accent more authentic than a Singaporean
 
 For a speaker with a Hockchia (Eastern Min) background, the intuition for vowel change is tied to a phenomenon called Close/Open rime alternation (松紧韵). In this system, vowel quality (e.g., [ɛ] vs. [e], or [ɔ] vs. [o]) shifts drastically depending on the tonal environment produced by sandhi. Because Hockchia vowel alternation is driven by *tone* rather than *stress* or *duration*, the English system of reducing vowels to a neutral schwa based on stress-timing feels phonologically unmotivated. This further complicates the acquisition of English rhythm: the speaker may be accustomed to extreme vowel shifts, but those shifts do not map onto the English stress-based reduction patterns. In that situation, targeting RP or GA directly avoids one layer of indirection. The result will deviate from native RP—the speaker's multilingual phonological system ensures that—but the deviation is from a well-documented baseline, which makes self-monitoring and explicit learning possible in a way that chasing an undocumented moving target does not.
 
+## The central question: Can RP, GA, and Singlish input produce flawless SSE?
+
+The central question of this repo can be restated in phonological terms for vowel reduction: if a speaker's input consists primarily of RP and GA (which have extensive vowel reduction and stress-based rhythm), Singlish (which has minimal vowel reduction and syllable-based rhythm), and only trace amounts of Standard Singapore English, can the speaker produce SSE rhythm and reduction patterns with no noticeable oddities?
+
+The honest answer from the linguistics is: almost certainly not, and the reason is structural.
+
+### The input distribution problem
+
+The analogy to LLM training is precise. An LLM trained overwhelmingly on two varieties that share a feature (heavy vowel reduction) and one variety that lacks it (minimal vowel reduction), with almost no data from the actual target (SSE, which has its own intermediate reduction pattern), faces a distributional gap. The model has no reliable basis for learning where SSE falls on the reduction continuum because the target is underrepresented in the training data.
+
+For a human learner, the situation is the same in principle. The learner has extensive exposure to RP and GA through broadcast media, where vowel reduction is pervasive and systematic. The learner has daily ambient exposure to Singlish, where vowel reduction is minimal and rhythm is more syllable-timed. But SSE — the socially expected formal variety in Singapore — sits somewhere between these poles, and the learner rarely hears it produced consistently by the same speakers in the same contexts.
+
+This is not a problem of intelligence or effort. It is a problem of input. Flack (2007) argues that phonological learning is fundamentally constrained by the distributional properties of the input. If the input does not contain sufficient exemplars of the target pattern, the learner cannot reliably acquire it. This holds for both statistical learning models and human learners.
+
+### SSE reduction: An underdocumented middle ground
+
+The specific difficulty is that SSE's vowel reduction pattern is not simply "RP reduction" or "no reduction." Low, Grabe, and Nolan (2000) showed that Singapore English rhythm is more syllable-timed than British English, but SSE in formal registers does show some degree of vowel reduction — more than basilectal Singlish, less than conversational RP. Deterding (2007) notes that educated Singapore English speakers may reduce some unstressed vowels in careful speech, but the pattern is not identical to RP or GA reduction.
+
+The problem is that this intermediate pattern is not well codified. There is no SSE pronunciation dictionary comparable to the *Longman Pronunciation Dictionary* (Wells, 2008) or the *Cambridge English Pronouncing Dictionary* (Jones, Roach, Setter, & Esling, 2011) for RP and GA. There is no SSE equivalent of the BBC Pronunciation Unit's guidelines. The learner who wants to know "how much should I reduce this vowel in SSE?" has no authoritative reference to consult.
+
+Tan (2014) discusses the challenges of codifying Singapore English pronunciation norms, noting that the variety exists on a continuum and that speakers shift along it depending on context. This is precisely the problem: the target is not a fixed point but a sociolinguistic range, and the learner has insufficient input to calibrate where on that range to aim.
+
+### Why RP and GA do not transfer cleanly to SSE
+
+A speaker who has learned RP-style vowel reduction cannot simply apply it in Singapore and expect to sound like an SSE speaker. The reduction patterns are different in specific ways:
+
+1. **Schwa distribution**: RP and GA reduce a wide range of unstressed vowels to schwa. SSE tends to maintain fuller vowel qualities in many positions where RP would reduce. A speaker applying RP reduction rules in SSE will over-reduce, producing vowels that sound foreign to local listeners.
+
+2. **Function word weak forms**: RP and GA have extensive systems of weak forms for function words (Cruttenden, 2014). SSE uses fewer weak forms and may maintain stronger vowel qualities in function words. A speaker using full RP weak forms in SSE will sound like they are speaking RP, not SSE.
+
+3. **Rhythm**: Even if individual vowels are adjusted, the overall rhythm of SSE is more syllable-timed than RP or GA. Producing SSE rhythm requires not just changing individual vowels but reorganizing the timing relationships between syllables. This is a suprasegmental property that cannot be learned vowel by vowel.
+
+4. **Lexical stress placement**: While SSE generally follows the same lexical stress patterns as RP and GA, there are specific differences in some words, and the phonetic realization of stress (how much louder, longer, and more peripheral the stressed vowel is) differs. Deterding (2007) notes that stress contrasts in Singapore English are often smaller than in British English.
+
+The result is that a speaker who has internalized RP reduction patterns and tries to speak SSE faces a recalibration problem. They must learn to reduce less, in different positions, with different rhythm — but they have almost no input data to guide the recalibration.
+
+### Why Singlish does not transfer cleanly to SSE either
+
+The opposite transfer problem also fails. A speaker who has absorbed Singlish rhythm from ambient exposure cannot simply "formalize" it into SSE. Singlish and SSE differ not just in degree of reduction but in prosodic organization, discourse particles, syntax, and phonotactics. Gupta (1994) describes the relationship between Singlish and SSE as involving different grammatical systems, not just different registers of the same system.
+
+Moreover, the repo owner does not speak Singlish natively. He hears it daily but does not share the substrate languages (Hokkien, Teochew, Malay, Cantonese) that contribute to its non-English features. For him, Singlish is ambient input without full access to the system that generates it. This is analogous to an LLM being trained on text in a language whose morphological rules it cannot fully decompose — the surface patterns are available, but the generative system behind them is opaque.
+
+### The answer to the central question
+
+The linguistically honest answer is: no, a speaker (or an LLM) trained primarily on RP, GA, and Singlish, with only trace amounts of SSE, cannot be expected to produce flawless SSE with no noticeable oddities. The reasons are:
+
+1. **Insufficient target input**: SSE's specific phonological patterns — its intermediate reduction, its rhythm, its prosody — are underrepresented in the input. Statistical learning requires sufficient exemplars of the target distribution (Maye, Werker, & Gerken, 2002).
+
+2. **Conflicting source distributions**: RP/GA and Singlish pull in opposite directions on the reduction continuum. Without adequate SSE input to anchor the intermediate position, the learner will oscillate between over-reduction (sounding RP/GA) and under-reduction (sounding Singlish), or produce an inconsistent mixture that sounds like neither.
+
+3. **Underdocumented target**: Even with motivation and metalinguistic awareness, the learner cannot consult a comprehensive SSE pronunciation reference because one does not exist in the way that RP and GA references do. The target is real but underspecified.
+
+4. **Sociolinguistic variability**: SSE itself is not a single fixed system but a range. Different SSE speakers produce different degrees of reduction depending on context, audience, and individual history. The "flawless SSE" in the question may not correspond to a single coherent phonological target.
+
+This does not mean the speaker is failing. It means the task is structurally harder than learning RP or GA, not because SSE is inherently harder, but because the input conditions and documentation are worse. The speaker's preference for RP or GA as a target is not cultural cringe or self-rejection — it is a rational response to an information asymmetry. You can learn what you can hear and what you can look up. When neither is adequately available for the target, the target becomes unreliable.
+
+### Implications for pronunciation advice
+
+This analysis has direct implications for the kind of pronunciation advice that is useful versus harmful:
+
+**Harmful**: "Just speak naturally" — assumes a stable native baseline that does not exist for this speaker.
+
+**Harmful**: "Speak proper Singapore English" — assumes SSE is a well-defined, consistently documented target that the speaker has had adequate exposure to.
+
+**Harmful**: "Don't try to sound British/American" — frames a rational target-selection strategy as pretension or inauthenticity.
+
+**Useful**: Acknowledge that the speaker's input distribution creates a specific learning problem that is not solved by willpower or identity politics.
+
+**Useful**: Provide explicit phonetic descriptions of SSE features where they differ from RP/GA, so the speaker can make informed adjustments rather than guessing.
+
+**Useful**: Recognize that the resulting accent will be a product of the speaker's multilingual history, not a defective copy of any single variety. That is normal for multilingual speakers worldwide (Grosjean, 1989; Cook, 1992).
+
 ## References
 
 - Bradlow, A. R., & Bent, T. (2008). "Perceptual adaptation to non-native speech." *Cognition*, 106(2), 707-729. https://doi.org/10.1016/j.cognition.2007.04.005
@@ -88,16 +160,21 @@ For a speaker with a Hockchia (Eastern Min) background, the intuition for vowel 
 - Cutler, A., & Carter, D. (1987). "The predominance of strong initial syllables in the English vocabulary." *Computer Speech & Language*, 2(3-4), 133-142. https://doi.org/10.1016/0885-2308(87)90004-0
 - Cutler, A., & Norris, D. (1988). "The role of strong syllables in segmentation for lexical access." *Journal of Experimental Psychology: Human Perception and Performance*, 14(1), 113-121. https://doi.org/10.1037/0096-1523.14.1.113
 - Dauer, R. M. (1983). "Stress-timing and syllable-timing reanalyzed." *Journal of Phonetics*, 11(1), 51-62. https://doi.org/10.1016/S0095-4470(19)30776-4
+- Deterding, D. (2007). *Singapore English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748625444.001.0001
 - Ernestus, M., & Warner, N. (2011). "An introduction to reduced pronunciation variants." *Journal of Phonetics*, 39(3), 253-260. https://doi.org/10.1016/S0095-4470(11)00055-6
 - Flemming, E., & Johnson, S. (2007). "Rosa's roses: reduced vowels in American English." *Journal of the International Phonetic Association*, 37(1), 83-96. https://doi.org/10.1017/S0025100306002817
+- Flack, K. (2007). "The sources of phonological markedness." PhD dissertation, University of Massachusetts Amherst.
 - Fuchs, R. (2016). *Speech Rhythm in Varieties of English: Evidence from Educated Indian English and British English*. Springer. https://doi.org/10.1007/978-3-662-47818-9
 - Grabe, E., & Low, E. L. (2002). "Durational variability in speech and the rhythm class hypothesis." In C. Gussenhoven & N. Warner (Eds.), *Papers in Laboratory Phonology 7* (pp. 515-546). Mouton de Gruyter. https://doi.org/10.1515/9783110197105.515
 - Grosjean, F. (1989). "Neurolinguists, beware! The bilingual is not two monolinguals in one person." *Brain and Language*, 36(1), 3-15. https://doi.org/10.1016/0093-934X(89)90048-5
+- Gupta, A. F. (1994). *The Step-Tongue: Children's English in Singapore*. Multilingual Matters.
 - Harrington, J., Palethorpe, S., & Watson, C. (2000). "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen's Christmas broadcasts." *Journal of the International Phonetic Association*, 30(1-2), 63-78. https://doi.org/10.1017/S0025100300006666
+- Jones, D., Roach, P., Setter, J., & Esling, J. (2011). *Cambridge English Pronouncing Dictionary* (18th ed.). Cambridge University Press.
 - Labov, W. (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.
 - Labov, W., Ash, S., & Boberg, C. (2006). *The Atlas of North American English: Phonetics, Phonology and Sound Change*. Mouton de Gruyter. https://doi.org/10.1515/9783110206838
 - Laver, J. (1994). *Principles of Phonetics*. Cambridge University Press. https://doi.org/10.1017/CBO9781139166621
 - Low, E. L., Grabe, E., & Nolan, F. (2000). "Quantitative characterisations of speech rhythm: Syllable-timing in Singapore English." *Language and Speech*, 43(4), 377-401. https://doi.org/10.1177/00238309000430040301
+- Maye, J., Werker, J. F., & Gerken, L. (2002). "Infant sensitivity to distributional information can affect phonetic discrimination." *Cognition*, 82(3), B101-B111. https://doi.org/10.1016/S0010-0277(01)00157-3
 - Munro, M. J., & Derwing, T. M. (1995). "Foreign accent, comprehensibility, and intelligibility in the speech of second language learners." *Language Learning*, 45(1), 73-97. https://doi.org/10.1111/j.1467-1770.1995.tb00963.x
 - Niedzielski, N. (1999). "The effect of social information on the perception of sociolinguistic variables." *Journal of Language and Social Psychology*, 18(1), 62-85. https://doi.org/10.1177/0261927X99018001005
 - Picheny, M. A., Durlach, N. I., & Braida, L. D. (1986). "Speaking clearly for the hard of hearing II: Acoustic characteristics of clear and conversational speech." *Journal of Speech and Hearing Research*, 29(4), 434-446. https://doi.org/10.1044/jshr.2904.434
@@ -105,3 +182,5 @@ For a speaker with a Hockchia (Eastern Min) background, the intuition for vowel 
 - Ramus, F., Nespor, M., & Mehler, J. (1999). "Correlates of linguistic rhythm in the speech signal." *Cognition*, 73(3), 265-292. https://doi.org/10.1016/S0010-0277(99)00058-X
 - Rubin, D. L. (1992). "Nonlanguage factors affecting undergraduates' judgments of nonnative English-speaking teaching assistants." *Research in Higher Education*, 33(4), 511-531. https://doi.org/10.1007/BF00973770
 - Smiljanić, R., & Bradlow, A. R. (2009). "Speaking and hearing clearly: Talker and listener factors in speaking style changes." *Language and Linguistics Compass*, 3(1), 236-264. https://doi.org/10.1111/j.1749-818X.2008.00112.x
+- Tan, Y. Y. (2014). "English as a 'mother tongue' in Singapore." *World Englishes*, 33(3), 319-339. https://doi.org/10.1111/weng.12093
+- Wells, J. C. (2008). *Longman Pronunciation Dictionary* (3rd ed.). Pearson Education.

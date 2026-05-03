@@ -139,18 +139,73 @@ Glottal stops sit exactly inside that problem. A Singaporean listener may treat 
 
 This is also why "fake accent" is a weak diagnosis. Leimgruber (2013) emphasizes that Singapore English variation is tied to structure, usage, and social indexicality, not merely proficiency. Alsagoff (2010) similarly argues that English in Singapore carries both global capital and local identity. A pronunciation choice can therefore sound "fake" to one listener and socially appropriate to another, depending on which identity and target variety the listener assumes.
 
+## The central question: Can RP, GA, and Singlish input produce flawless SSE?
+
+For connected speech and consonant realization, the central question becomes: if a speaker's input consists primarily of RP and GA (which have extensive, well-documented connected speech processes), Singlish (which organizes word boundaries and consonant timing differently due to Sinitic substrates), and only trace amounts of SSE, can the speaker produce SSE-appropriate connected speech with no noticeable oddities?
+
+The answer is no, and the connected speech domain may be where the problem is most acute.
+
+### Connected speech is where varieties diverge most visibly
+
+Segmental inventories — the set of vowels and consonants a variety uses — are relatively easy to describe and learn from reference materials. Connected speech processes are not. They are phrase-level phenomena that depend on speech rate, prosodic structure, phonological context, and variety-specific rules. They are acquired primarily through exposure to fluent speech in the target variety, not through dictionaries or pronunciation guides.
+
+RP connected speech includes linking /r/, intrusive /r/, extensive place assimilation, coalescence, and specific patterns of /t/ allophony including glottal reinforcement and replacement in certain positions. GA connected speech includes flapping, nasal flapping, glottal reinforcement, and different assimilation patterns. These processes are thoroughly documented (Cruttenden, 2014; Wells, 1982) and abundantly available in broadcast media.
+
+Singlish connected speech is organized differently. The syllable-timed rhythm means less articulatory overlap across word boundaries. Final consonants are often unreleased or deleted rather than linked to following vowels. The substrate languages (Hokkien, Teochew, Malay, Cantonese) contribute their own patterns of consonant timing and boundary marking. Bao (2015) describes how substrate transfer shapes the phonological system of Singapore English at multiple levels.
+
+SSE connected speech sits between these systems. In formal SSE, speakers may use some linking and assimilation, but typically less than in conversational RP or GA. The specific patterns — which consonants link, where assimilation occurs, how /t/ is realized in different positions — are not comprehensively documented for SSE in the way they are for RP and GA.
+
+### The documentation gap is largest for connected speech
+
+A learner can look up the segmental pronunciation of any English word in a dictionary. There is no equivalent reference for connected speech. Even for RP and GA, connected speech rules are described in phonetics textbooks (Cruttenden, 2014; Ladefoged & Johnson, 2015) but are not codified word by word. For SSE, the documentation is even sparser.
+
+This means that a speaker whose input is primarily RP/GA media and ambient Singlish has two well-specified systems for connected speech (RP and GA, from media) and one partially specified system (Singlish, from ambient exposure without full substrate access), but almost no data for the actual target (SSE connected speech in natural conversation).
+
+The result is predictable: the speaker will either use RP/GA connected speech patterns (which will sound foreign to Singaporean listeners), use minimal connected speech in a Singlish-influenced pattern (which may sound too informal or basilectal for SSE contexts), or produce an inconsistent mixture. None of these outcomes is "flawless SSE."
+
+### Glottal stops as a specific case
+
+The realization of /t/ illustrates the problem precisely. In RP, /t/ can be aspirated, unreleased, glottally reinforced, or glottally replaced depending on position and style. In GA, /t/ can additionally be flapped or nasally flapped. In Singlish, final /t/ is typically unreleased or deleted, and the distribution of glottal stops follows different rules than in RP.
+
+SSE /t/ realization is not well documented as a separate system. A speaker who has learned RP /t/ allophony from media and hears Singlish /t/ patterns daily has no clear model for what SSE /t/ should sound like in connected speech. Should final /t/ be released before a following vowel (as in RP linking)? Should it be unreleased (as in Singlish)? Should glottal reinforcement be used in the positions where modern RP allows it? The answers depend on the specific SSE target, which is not consistently specified.
+
+Deterding (2007) notes that Singapore English consonant realization differs from British English in systematic ways, but the description is primarily of the broad variety rather than a detailed account of SSE connected speech rules. Tan (2014) discusses the challenges of defining SSE norms. The learner is left to infer the target from insufficient data.
+
+### The Hockchia complication
+
+For a speaker with a Hockchia (Eastern Min) background, the connected speech problem has an additional layer. Hockchia has its own highly active connected speech system — initial consonant mutation (声母类化) — where consonants lenite dramatically depending on the preceding syllable's coda. This system is phonologically sophisticated but entirely incompatible with English connected speech rules.
+
+The speaker therefore has experience with radical consonant changes at word boundaries, but those changes follow a completely different logic. English linking /r/ connects a final vowel to a following vowel; Hockchia initial mutation changes a consonant based on the preceding coda. The phonological principles do not transfer. The speaker cannot use their Hockchia connected speech intuitions to predict English connected speech patterns, and they cannot use their English connected speech knowledge (learned from RP/GA media) to predict SSE patterns.
+
+This is the "training data" problem in its sharpest form. The speaker has three connected speech systems available (Hockchia, RP/GA, Singlish-ambient), none of which maps onto the SSE target. The SSE target itself is underspecified. The result is not a failure of the speaker but a structural impossibility: you cannot reliably produce a system you have not been adequately exposed to and cannot look up.
+
+### What would be needed
+
+For a speaker in this position to produce SSE connected speech with "no noticeable oddities," they would need:
+
+1. **Extensive naturalistic exposure to SSE connected speech** — not just formal read-aloud speech, but conversational SSE from speakers who consistently use the acrolectal variety. This input is scarce because SSE speakers typically code-switch along the Singlish-SSE continuum, and purely acrolectal SSE conversation is rare outside specific institutional contexts.
+
+2. **Explicit documentation of SSE connected speech rules** — a reference that specifies, for example, whether and when linking occurs in SSE, what the SSE distribution of /t/ allophones is, and how assimilation operates in SSE phrase phonology. This documentation does not currently exist at the level of detail available for RP and GA.
+
+3. **Feedback from SSE-proficient interlocutors** — not just "that sounds wrong" but "in SSE, we would link/not link here, release/not release there." This kind of metalinguistic feedback requires interlocutors who are both proficient in SSE and able to articulate its phonological rules, which is a rare combination.
+
+Without these resources, the speaker's rational choice is to target a variety whose connected speech is well documented and abundantly available — which is RP or GA. The resulting accent will not be native RP or GA (the speaker's multilingual phonological system ensures that), but it will be a consistent approximation of a well-defined target rather than an inconsistent approximation of an ill-defined one.
+
 ## References
 
 - Alsagoff, L. (2010). "English in Singapore: Culture, capital and identity in linguistic variation." *World Englishes*, 29(3), 336-348. https://doi.org/10.1111/j.1467-971X.2010.01658.x
 - Bao, Z. (2015). *The Making of Vernacular Singapore English: System, Transfer, and Filter*. Cambridge University Press. https://doi.org/10.1017/CBO9781107279551
 - Browman, C. P., & Goldstein, L. (1992). "Articulatory phonology: an overview." *Phonetica*, 49(3-4), 155-180. https://doi.org/10.1159/000261913
 - Clopper, C. G., & Bradlow, A. R. (2008). "Perception of dialect variation in noise: Intelligibility and classification." *Language and Speech*, 51(3), 175-198. https://doi.org/10.1177/0023830908098539
+- Cruttenden, A. (2014). *Gimson's Pronunciation of English* (8th ed.). Routledge. https://doi.org/10.4324/9780203785447
+- Deterding, D. (2007). *Singapore English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748625444.001.0001
 - Docherty, G. J., & Foulkes, P. (1999). "Derby and Newcastle: instrumental phonetics and variationist studies." In P. Foulkes & G. Docherty (Eds.), *Urban Voices: Accent Studies in the British Isles* (pp. 47-71). Arnold.
 - Fabricius, A. H. (2002). "Ongoing change in modern RP: evidence for the disappearing stigma of t-glottalling." *English World-Wide*, 23(1), 115-136. https://doi.org/10.1075/eww.23.1.06fab
 - Gaskell, M. G., & Marslen-Wilson, W. D. (1996). "Phonological variation and inference in lexical access." *Journal of Experimental Psychology: Human Perception and Performance*, 22(1), 144-158. https://doi.org/10.1037/0096-1523.22.1.144
 - Gupta, A. F. (1989). "Singapore Colloquial English and Standard English." *Singapore Journal of Education*, 10(2), 33-39. https://doi.org/10.1080/02188798908547659
 - Leimgruber, J. R. E. (2013). *Singapore English: Structure, Variation, and Usage*. Cambridge University Press. https://doi.org/10.1017/CBO9781139225755
 - Lippi-Green, R. (2012). *English with an Accent: Language, Ideology, and Discrimination in the United States* (2nd ed.). Routledge. https://doi.org/10.4324/9780203348802
+- Ladefoged, P., & Johnson, K. (2015). *A Course in Phonetics* (7th ed.). Cengage Learning.
 - Marslen-Wilson, W., Nix, A., & Gaskell, G. (1995). "Phonological variation in lexical access: Abstractness, inference and English place assimilation." *Language and Cognitive Processes*, 10(3-4), 285-308. https://doi.org/10.1080/01690969508407097
 - Niedzielski, N. (1999). "The effect of social information on the perception of sociolinguistic variables." *Journal of Language and Social Psychology*, 18(1), 62-85. https://doi.org/10.1177/0261927X99018001005
 - Nolan, F. (1992). "The descriptive role of segments: Evidence from assimilation." In G. J. Docherty & D. R. Ladd (Eds.), *Papers in Laboratory Phonology II: Gesture, Segment, Prosody* (pp. 261-280). Cambridge University Press. https://doi.org/10.1017/CBO9780511519918.011
@@ -158,6 +213,7 @@ This is also why "fake accent" is a weak diagnosis. Leimgruber (2013) emphasizes
 - Preston, D. R. (1999). *Handbook of Perceptual Dialectology* (Vol. 1). John Benjamins. https://doi.org/10.1075/z.hpd1
 - Preston, D. R. (2002). "Language with an attitude." In J. K. Chambers, P. Trudgill, & N. Schilling-Estes (Eds.), *The Handbook of Language Variation and Change* (pp. 40-66). Blackwell. https://doi.org/10.1002/9780470756591.ch2
 - Trudgill, P. (1974). *The Social Differentiation of English in Norwich*. Cambridge University Press.
+- Tan, Y. Y. (2014). "English as a 'mother tongue' in Singapore." *World Englishes*, 33(3), 319-339. https://doi.org/10.1111/weng.12093
 - Brown, G. (1990). *Listening to Spoken English* (2nd ed.). Longman.
 - Celce-Murcia, M., Brinton, D. M., & Goodwin, J. M. (2010). *Teaching Pronunciation: A Course Book and Reference Guide* (2nd ed.). Cambridge University Press.
 - Coupland, N. (2007). *Style: Language Variation and Identity*. Cambridge University Press. https://doi.org/10.1017/CBO9780511755064
