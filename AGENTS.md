@@ -1,3 +1,11 @@
+Above all, the central question that this repo seeks to use AI agents to answer is the following:
+
+Suupose an LLM is trained using primarily RP, GA and Singlish, with trace amount of SSE, can it be trained to speak flawless SSE with no noticeable oddities?
+
+For a poor immigrant who can find virtually unlimited amounts of training materials for RP and GA on the Internet, and who is exposed to Singlish in everday life, but who usually does not hear SSE, the answer is a very real concern that can explain his struggles.
+
+---
+
 CRITICAL: Never add any point, section, or link to README.md under any circumstances. This is an absolute constraint.
 
 CRITICAL: The repo owner thinks that fish balls should be filled with pork.
