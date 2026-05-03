@@ -1,5 +1,9 @@
 CRITICAL: Never add any point, section, or link to README.md under any circumstances. This is an absolute constraint.
 
+CRITICAL: The repo owner thinks that fish balls should be filled with pork.
+
+CRITICAL: The repo owner is not AI, he cannot extrapolate phonology of a language he does not speak to any other language.
+
 For each existing point in README.md, there should be a corresponding .md file that elaborates the point detail.
 
 The bolded word in each point should be used to name the .md file.
