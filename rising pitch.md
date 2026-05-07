@@ -92,6 +92,57 @@ There is an irony in the observation itself. A speaker from the Hockchia dialect
 
 The impartial conclusion is still the same: a rising statement contour is not inherently better or worse. In Singapore English, some rises may be locally meaningful and fully natural. In an RP- or GA-oriented target, the same rise may carry different pragmatic meanings. The right evaluation is target-relative, not prestige-relative.
 
+## The sentence stress problem: When nuclear accent placement is uncertain
+
+English intonation does not operate independently of stress. The pitch movement that signals a statement, question, continuation, or contrast is anchored to the *nuclear accent* — the last prominent syllable in the intonation phrase. Where the nuclear accent falls determines where the pitch contour begins its final movement. Getting the pitch direction right (fall vs. rise) is only half the problem; the other half is knowing *which word* carries the nuclear accent.
+
+In English, nuclear accent placement is governed by information structure: new information tends to receive the nuclear accent, while given (already-mentioned) information is typically deaccented. Ladd (2008) describes this as the interaction between metrical structure and focus. Halliday (1967) analyzed English intonation in terms of "tonicity" (where the nucleus falls), "tonality" (how speech is divided into tone groups), and "tone" (the pitch movement itself). All three must be correct for intonation to sound natural.
+
+For a speaker who is uncertain about sentence stress — that is, uncertain about where the nuclear accent should fall in a given utterance — the intonation problem is compounded. Even if the speaker has learned that English statements typically end with a fall, they may not know *which word* to place that fall on. The result can be:
+
+- **Default-final stress**: Placing the nuclear accent on the last content word regardless of information structure. This produces grammatically acceptable but pragmatically odd intonation — every sentence sounds like a neutral, out-of-context declaration rather than a contextually appropriate response.
+
+- **Uniform prominence**: Giving roughly equal prominence to all content words, avoiding the commitment of choosing one as nuclear. This flattens the intonation contour and removes the focus-marking function that English listeners rely on.
+
+- **Misplaced contrast**: Accidentally placing nuclear accent on a word that implies contrast or correction when none is intended. English listeners are highly sensitive to this — stressing *I* in "I went to the shop" implies someone else was expected to go, which may not be the speaker's intention.
+
+### Why sentence stress is harder than word stress
+
+The speaker relies on IPA transcriptions for word-level pronunciation, and IPA dictionaries mark lexical stress explicitly. This means word stress is a solved problem: the speaker knows that *photograph* is /ˈfəʊtəɡrɑːf/ and *photography* is /fəˈtɒɡrəfi/ because the dictionary says so. But no dictionary marks sentence stress, because sentence stress depends on discourse context, not on the word itself.
+
+Sentence stress rules in English are:
+
+1. **Context-dependent**: The same sentence can have different nuclear accent placements depending on what question it answers or what contrast it implies.
+2. **Implicit**: Native speakers acquire these patterns from massive exposure to discourse in context, not from explicit instruction.
+3. **Variety-variable**: Different English varieties may have slightly different default patterns for nuclear accent placement and deaccenting.
+4. **Underdocumented for SSE**: While RP and GA sentence stress patterns are described in detail by Cruttenden (1997), Ladd (2008), and others, SSE sentence stress patterns are not comprehensively documented.
+
+For a speaker whose English input comes primarily from broadcast news (which uses a specific, formal intonation style with heavy use of contrastive stress for emphasis) and ambient Singlish (which may organize prominence differently due to substrate influence), the model for conversational sentence stress is incomplete. Broadcast news intonation is not conversational intonation — it is a professional performance register with its own conventions for emphasis, pacing, and nuclear placement that do not transfer directly to everyday speech.
+
+### The interaction with rising pitch
+
+Sentence stress uncertainty interacts with the rising pitch question in a specific way. If the speaker is unsure where to place the nuclear accent, and also unsure whether to use a fall or a rise, the two uncertainties multiply. The speaker must simultaneously decide:
+
+1. Which word gets the nuclear accent (information structure)
+2. What pitch movement to use on that word (pragmatic function)
+3. What happens to the pitch on the non-nuclear words (pre-nuclear pattern)
+
+In RP, these three decisions are relatively well documented. Cruttenden (1997) describes the system in detail, and broadcast media provides abundant examples. In SSE, all three are underdocumented. The speaker who targets RP intonation at least has a reference system for nuclear placement rules, even if applying them in Singapore contexts may produce pragmatically unexpected results.
+
+The Minnan observation is relevant here too. If local English intonation is substrate-influenced by Southern Min prosody, the nuclear accent placement rules may differ from RP norms in ways that are not explicitly described. A speaker who has learned RP-style nuclear placement from broadcast media may sound "foreign" to local listeners not because the pitch direction is wrong, but because the nucleus is on the wrong word for the local system. This is a subtler problem than simply "using falls instead of rises" — it is a problem of information-structural organization that interacts with pitch but is not reducible to it.
+
+### Sentence stress as a training data problem
+
+The sentence stress problem is another instance of the central input distribution issue. Sentence stress patterns are acquired from exposure to discourse in context — hearing how speakers distribute prominence across utterances in response to conversational dynamics. This requires:
+
+- Extensive exposure to natural conversation (not just read-aloud or broadcast speech)
+- In the target variety (not just any English variety)
+- With access to the discourse context (knowing what is new vs. given information)
+
+For a speaker whose primary English input is broadcast news (formal, scripted, with professional intonation conventions) and ambient Singlish (which may organize prominence differently), the training data for conversational SSE sentence stress is minimal. The speaker can learn the *rules* of English nuclear accent placement from textbooks (Cruttenden, 1997; Wells, 2006), but applying those rules in real time requires the kind of automatic, context-sensitive processing that comes from extensive naturalistic exposure — exposure that is not available for the target variety.
+
+Wells (2006) provides explicit instruction on English intonation including nuclear placement, tonicity, and the relationship between information structure and prosody. This is the kind of resource that makes RP/GA intonation learnable through explicit study. No equivalent resource exists for SSE intonation patterns, leaving the speaker to infer sentence stress norms from insufficient and inconsistent input.
+
 ## The central question: Can RP, GA, and Singlish input produce flawless SSE?
 
 For intonation, the central question becomes: if a speaker's input consists primarily of RP and GA (which have well-documented intonation systems with specific uses of rises and falls), Singlish (which has a substrate-influenced intonation system with frequent rises in declaratives), and only trace amounts of SSE, can the speaker produce SSE-appropriate intonation with no noticeable oddities?
@@ -170,6 +221,7 @@ The alternative — trying to produce SSE intonation from insufficient input —
 - Gussenhoven, C. (1984). *On the Grammar and Semantics of Sentence Accents*. Foris. https://doi.org/10.1515/9783110859263
 - Guy, G. R., Horvath, B., Vonwiller, J., Daisley, E., & Rogers, I. (1986). "An intonational change in progress in Australian English." *Language in Society*, 15(1), 23-51. https://doi.org/10.1017/S0047404500011635
 - Gupta, A. F. (1989). "Singapore Colloquial English and Standard English." *Singapore Journal of Education*, 10(2), 33-39. https://doi.org/10.1080/02188798908547659
+- Halliday, M. A. K. (1967). *Intonation and Grammar in British English*. Mouton. https://doi.org/10.1515/9783111357447
 - Harrington, J. (2006). "An acoustic analysis of 'happy-tensing' in the Queen's Christmas broadcasts." *Journal of Phonetics*, 34(4), 439-457. https://doi.org/10.1016/j.wocn.2005.08.001
 - Harrington, J., Palethorpe, S., & Watson, C. (2000). "Monophthongal vowel changes in Received Pronunciation: an acoustic analysis of the Queen's Christmas broadcasts." *Journal of the International Phonetic Association*, 30(1-2), 63-78. https://doi.org/10.1017/S0025100300006666
 - Jeong, S. (2018). "Intonation and sentence type conventions: Two types of rising declaratives." *Journal of Semantics*, 35(2), 305-356. https://doi.org/10.1093/semant/ffy001
@@ -189,4 +241,5 @@ The alternative — trying to produce SSE intonation from insufficient input —
 - Setter, J., Wong, C. S. P., & Chan, B. H. S. (2010). *Hong Kong English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748635955.001.0001
 - Ward, G., & Hirschberg, J. (1985). "Implicating uncertainty: The pragmatics of fall-rise intonation." *Language*, 61(4), 747-776. https://doi.org/10.2307/414489
 - Warren, P. (2016). *Uptalk: The Phenomenon of Rising Intonation*. Cambridge University Press. https://doi.org/10.1017/CBO9781316403570
+- Wells, J. C. (2006). *English Intonation: An Introduction*. Cambridge University Press. https://doi.org/10.1017/CBO9780511616983
 - Zhang, J. (2007). "A directional asymmetry in Chinese tone sandhi systems." *Journal of East Asian Linguistics*, 16, 259-302. https://doi.org/10.1007/s10831-007-9016-2

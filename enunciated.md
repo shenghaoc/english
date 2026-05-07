@@ -46,6 +46,38 @@ Using the strong form of every function word in fluent connected speech would pr
 
 This connects directly to the personal-bias problem. Everybody has an accent, and everybody uses weak forms. When a listener encounters unfamiliar reduction patterns (e.g., a different set of vowel qualities in weak syllables, or reduction in environments where the listener's variety keeps a stronger vowel), they may label the speech "mumbled" or "unclear." But the same listener's own weak forms are invisible to them. The feeling that one's own accent is simpler and more enunciated is an illusion produced by automatic processing of familiar patterns, not a reflection of objective phonetic clarity.
 
+## The vowel length problem: When the target contrast is not perceptually available
+
+A specific difficulty that compounds the stress-timing problem is the inability to reliably distinguish long and short vowels in English. This is not an unusual problem cross-linguistically. English vowel contrasts like /iː/ vs. /ɪ/, /uː/ vs. /ʊ/, and /ɑː/ vs. /ʌ/ involve both quality and duration differences, but the relative weighting of these cues varies across varieties and listeners. For a speaker whose linguistic background does not include a robust length distinction — and whose ambient variety (Singapore English) neutralizes many of these contrasts — the perceptual categories may never have been firmly established.
+
+Flege (1995) proposed the Speech Learning Model, which predicts that L2 sounds that are perceptually "similar" to L1 categories are harder to acquire than sounds that are entirely "new," because the learner assimilates them to existing categories rather than forming new ones. For a speaker whose early phonological input includes Hockchia (which has a tense/lax rime distinction driven by tone, not duration), Mandarin (which does not use vowel length contrastively), and Singapore English (which tends to neutralize RP length distinctions), the English long/short contrast falls into the "similar but different" category — close enough to existing vowel categories to resist re-categorization, but different enough to cause persistent confusion.
+
+Bohn (1995) found that duration and spectral quality contribute differently to vowel identification depending on the listener's L1. Listeners from languages without contrastive vowel length tend to rely more on spectral (quality) cues and less on durational cues when perceiving English vowels. This means the speaker may be attending to the wrong dimension of the contrast, or weighting the cues differently from native RP/GA listeners.
+
+This has a direct consequence for stress perception and production. In English, stressed syllables are typically longer, louder, and have fuller vowel quality than unstressed syllables. If the speaker cannot reliably perceive the duration component of the stressed/unstressed contrast, they are working with a reduced cue set. They may perceive stress primarily through pitch and intensity, missing the durational signal that native listeners weight heavily.
+
+### IPA reliance as a compensatory strategy
+
+The repo owner relies on IPA transcriptions for pronunciation. This is a rational compensatory strategy: if the auditory signal does not reliably distinguish long from short vowels, the written IPA transcription provides an explicit, unambiguous representation of the target. The length mark /ː/ in IPA makes the contrast visible even when it is not reliably audible to the learner.
+
+However, IPA reliance creates its own characteristic pattern. A speaker who learns pronunciation primarily from transcriptions will be highly sensitive to *which syllable is stressed* (because dictionaries mark stress explicitly with /ˈ/ and /ˌ/), but may produce the stress contrast with a different phonetic profile than a speaker who acquired it from ambient input. Specifically:
+
+- **Stress placement will be correct** — the speaker knows from the transcription which syllable carries primary stress.
+- **Stress realization may differ** — the phonetic correlates of stress (duration, intensity, vowel quality, pitch) may be weighted differently because the speaker's perceptual system does not fully resolve the durational contrast.
+- **Wrong stress in others' speech is immediately noticeable** — because the speaker has memorized stress patterns from IPA, hearing a word stressed on the wrong syllable creates a sharp mismatch with the stored representation. This is why the speaker "immediately notices when English is spoken as stress-timed but with the wrong syllables stressed."
+
+This last point is important. The speaker's reliance on IPA means they have an explicit, categorical representation of stress patterns that many native speakers have only implicitly. A native speaker may not notice a stress error in a low-frequency word because their representation is probabilistic and context-dependent. The IPA-reliant speaker notices it immediately because their representation is categorical and dictionary-derived. This is not a deficiency — it is a different mode of phonological knowledge, one that is more explicit and less gradient.
+
+### The interaction with vowel reduction
+
+The inability to reliably distinguish long and short vowels interacts with vowel reduction in a specific way. In RP and GA, unstressed vowels reduce toward schwa /ə/ — a short, centralized vowel. Stressed vowels maintain their full quality and length. If the speaker cannot reliably perceive the length difference between stressed and unstressed vowels, the reduction contrast is partially opaque to them.
+
+This creates a paradox: the speaker knows from IPA that unstressed vowels should reduce (because dictionaries transcribe them as /ə/ or /ɪ/), but may not fully perceive the reduction when listening to natural speech. The result is that reduction must be produced as a learned rule rather than as an imitation of perceived input. The speaker reduces because the transcription says to reduce, not because they clearly hear the difference between reduced and unreduced vowels in running speech.
+
+This is another instance of the central problem: the speaker is asked to produce contrasts that are not fully available to their perceptual system. The IPA provides a workaround for production (you can produce what you cannot fully hear, if you have an explicit representation), but it does not solve the perceptual problem. The speaker may produce acceptable reduction in careful speech (following the transcription) but struggle to monitor their own reduction in spontaneous speech (where the perceptual feedback loop is unreliable).
+
+Escudero (2005) discusses how L2 learners may develop new perceptual categories over time with sufficient input, but the process is slow and requires consistent exposure to the target contrast in meaningful contexts. For a speaker whose ambient variety (Singapore English) does not consistently maintain the RP long/short distinction, the perceptual training signal is weak. The IPA compensates for production but cannot substitute for perceptual reorganization.
+
 ## Clear speech is not full enunciation
 
 Research on "clear speech"—the style speakers adopt when they know they need to be maximally intelligible—shows that even deliberately clear English does not involve fully enunciating every vowel from spelling. Smiljanić and Bradlow (2009) reviewed the acoustic-phonetic characteristics of clear speech and found that speakers make targeted adjustments: they expand their pitch range, slow their speaking rate, increase the distinctiveness of vowel contrasts, and produce more released final stops. Crucially, they do not eliminate vowel reduction altogether. Unstressed vowels in clear speech remain reduced relative to stressed vowels; the strong-weak contrast is maintained, just made more salient.
@@ -152,6 +184,7 @@ This analysis has direct implications for the kind of pronunciation advice that 
 
 ## References
 
+- Bohn, O.-S. (1995). "Cross-language speech perception in adults: First language transfer doesn't tell it all." In W. Strange (Ed.), *Speech Perception and Linguistic Experience: Issues in Cross-Language Research* (pp. 279-304). York Press.
 - Bradlow, A. R., & Bent, T. (2008). "Perceptual adaptation to non-native speech." *Cognition*, 106(2), 707-729. https://doi.org/10.1016/j.cognition.2007.04.005
 - Benmamoun, E., Montrul, S., & Polinsky, M. (2013). "Heritage languages and their speakers: Opportunities and challenges for linguistics." *Theoretical Linguistics*, 39(3-4), 129-181. https://doi.org/10.1515/tl-2013-0009
 - Carney, E. (1994). *A Survey of English Spelling*. Routledge. https://doi.org/10.4324/9780203192696
@@ -162,6 +195,8 @@ This analysis has direct implications for the kind of pronunciation advice that 
 - Dauer, R. M. (1983). "Stress-timing and syllable-timing reanalyzed." *Journal of Phonetics*, 11(1), 51-62. https://doi.org/10.1016/S0095-4470(19)30776-4
 - Deterding, D. (2007). *Singapore English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748625444.001.0001
 - Ernestus, M., & Warner, N. (2011). "An introduction to reduced pronunciation variants." *Journal of Phonetics*, 39(3), 253-260. https://doi.org/10.1016/S0095-4470(11)00055-6
+- Escudero, P. (2005). *Linguistic Perception and Second Language Acquisition: Explaining the Attainment of Optimal Phonological Categorization*. LOT Dissertation Series 113. Utrecht University.
+- Flege, J. E. (1995). "Second language speech learning: Theory, findings, and problems." In W. Strange (Ed.), *Speech Perception and Linguistic Experience: Issues in Cross-Language Research* (pp. 233-277). York Press.
 - Flemming, E., & Johnson, S. (2007). "Rosa's roses: reduced vowels in American English." *Journal of the International Phonetic Association*, 37(1), 83-96. https://doi.org/10.1017/S0025100306002817
 - Flack, K. (2007). "The sources of phonological markedness." PhD dissertation, University of Massachusetts Amherst.
 - Fuchs, R. (2016). *Speech Rhythm in Varieties of English: Evidence from Educated Indian English and British English*. Springer. https://doi.org/10.1007/978-3-662-47818-9

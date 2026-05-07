@@ -91,6 +91,42 @@ Hockchia (Eastern Min) is a tone language with complex tone sandhi and a highly 
 
 The Hockchia background does not make the speaker worse at English. It makes the specific task of producing SSE harder, because the speaker's phonological toolkit includes sophisticated systems that are incompatible with the SSE target, and the SSE target itself is not specified well enough to guide the necessary recalibration.
 
+## The perceptual gaps: When the input is not just insufficient but partially opaque
+
+Beyond the input distribution problem and the Hockchia complication, the speaker faces specific perceptual difficulties that make the acquisition task harder in ways that are independent of motivation or exposure quantity. These are not failures of attention — they are consequences of how perceptual categories form (or fail to form) given a specific linguistic history.
+
+### Long vs. short vowels
+
+The speaker cannot reliably distinguish long and short vowels in English. In RP, contrasts like /iː/ vs. /ɪ/ (as in *beat* vs. *bit*), /uː/ vs. /ʊ/ (as in *pool* vs. *pull*), and /ɑː/ vs. /ʌ/ (as in *cart* vs. *cut*) involve both spectral quality and duration. Flege's (1995) Speech Learning Model predicts that sounds perceptually "similar" to existing L1 categories are harder to acquire than entirely "new" sounds, because the learner assimilates them to existing categories. For a speaker whose phonological background includes Hockchia (tense/lax rime alternation driven by tone), Mandarin (no contrastive vowel length), and Singapore English (which tends to neutralize many RP length distinctions), the English long/short contrast is precisely the kind of "similar but different" category that resists perceptual reorganization.
+
+This has cascading consequences. English stress is realized partly through vowel duration — stressed syllables are longer. If the durational component of the stress contrast is perceptually weak for this speaker, they are working with a reduced cue set for stress perception. They compensate through IPA reliance: because dictionaries mark stress explicitly, the speaker has categorical knowledge of stress patterns that is more explicit (and in some ways more reliable) than the gradient, probabilistic knowledge of many native speakers. This is why wrong stress placement in others' speech is immediately noticeable — it violates a stored categorical representation.
+
+### Pre- and post-nasal consonants
+
+The speaker cannot reliably distinguish pre- and post-nasal consonants in Mandarin Chinese (e.g., the /n/ vs. /ŋ/ coda distinction in pairs like *bān* 班 vs. *bāng* 帮). This reflects a perceptual category boundary that was never firmly established, likely because the speaker's earliest phonological input (Hockchia) organizes nasal codas differently from Mandarin.
+
+For English, this matters because place assimilation in connected speech frequently targets nasals: *ten boys* → [tem bɔɪz], *ten girls* → [teŋ ɡɜːlz]. If the speaker does not reliably perceive nasal place distinctions, these assimilations are partially opaque — the speaker may not clearly hear that a place change has occurred, and may not reliably monitor their own production. Connected speech processes that depend on fine-grained consonant perception become rules to be applied consciously rather than habits acquired from perceptual feedback.
+
+### Sentence stress
+
+The speaker is uncertain about sentence stress (nuclear accent placement) in English. Unlike word stress, which is marked in dictionaries and can be memorized, sentence stress depends on information structure — what is new, given, contrastive, or focused in a particular discourse context. No dictionary marks it. No reference work specifies it for every possible utterance. It must be acquired from extensive exposure to natural discourse in context.
+
+For a speaker whose primary English input is broadcast news (which uses a specific, professional intonation style) and ambient Singlish (which may organize prominence differently), the training data for conversational sentence stress is inadequate. The speaker can learn the *rules* from textbooks (Cruttenden, 1997; Wells, 2006), but applying them in real time requires automatic, context-sensitive processing that comes from naturalistic exposure — exposure that is not available for the target variety.
+
+### The compound effect
+
+These three perceptual difficulties are not independent. They interact:
+
+- **Vowel length × stress**: If long/short vowels are hard to distinguish, and stress is partly realized through duration, then stress perception is degraded, which makes rhythm acquisition harder, which makes vowel reduction patterns harder to calibrate.
+
+- **Nasal place × connected speech**: If nasal place distinctions are perceptually fragile, then place assimilation in connected speech is partially opaque, which makes the connected speech system harder to acquire from ambient input alone.
+
+- **Sentence stress × intonation**: If nuclear accent placement is uncertain, then the pitch contour is anchored to the wrong word, which makes the entire intonation pattern sound wrong even if the pitch direction (fall vs. rise) is correct.
+
+The compound effect means that the speaker's difficulties are not a list of independent problems to be solved one by one. They form a system of interacting constraints that collectively make the acquisition of SSE suprasegmental patterns structurally harder than the acquisition of RP or GA patterns — not because SSE is inherently harder, but because the speaker's perceptual system is better calibrated for the contrasts that RP and GA documentation makes explicit.
+
+This is the deepest version of the "training data" argument. It is not just that the speaker lacks sufficient SSE input. It is that even the input they do receive is partially opaque to their perceptual system. An LLM with a noisy input channel would face the same problem: even if you increase the quantity of target data, if the model cannot reliably parse the relevant features of that data, the learning signal remains weak.
+
 ## What this means for pronunciation advice
 
 Most pronunciation advice assumes that the learner has a stable native baseline and is trying to approximate a well-defined target. Neither assumption holds here.
@@ -135,6 +171,7 @@ No. Not because the speaker is inadequate, but because:
 2. **The available inputs conflict.** RP/GA and Singlish pull in opposite directions, and SSE is not their midpoint.
 3. **The target is underdocumented.** You cannot look up what has not been written down.
 4. **The target is not a fixed point.** SSE is a sociolinguistic range, not a single system, so "flawless" may not be well-defined.
+5. **The available input is partially opaque.** Specific perceptual gaps — vowel length, nasal place, sentence stress — mean that even the input the speaker does receive is not fully parsed by their perceptual system. Increasing exposure quantity cannot fully compensate for reduced perceptual resolution.
 
 The speaker's preference for RP or GA is not cultural cringe. It is the rational response of a learner who has been given abundant data for some targets and almost none for the target he is expected to hit. The resulting accent — an RP/GA-leaning approximation shaped by a multilingual Hockchia-Mandarin-Singlish-English history — is not a failure. It is the authentic phonological output of a specific human experience, and it is no less legitimate than any other accent.
 
@@ -147,9 +184,11 @@ Everybody has an accent. This is his.
 - Bradlow, A. R., & Bent, T. (2008). "Perceptual adaptation to non-native speech." *Cognition*, 106(2), 707-729. https://doi.org/10.1016/j.cognition.2007.04.005
 - Cook, V. J. (1992). "Evidence for multicompetence." *Language Learning*, 42(4), 557-591. https://doi.org/10.1111/j.1467-1770.1992.tb01044.x
 - Cruttenden, A. (2014). *Gimson's Pronunciation of English* (8th ed.). Routledge. https://doi.org/10.4324/9780203785447
+- Cruttenden, A. (1997). *Intonation* (2nd ed.). Cambridge University Press. https://doi.org/10.1017/CBO9781139524711
 - Deterding, D. (1994). "The intonation of Singapore English." *Journal of the International Phonetic Association*, 24(2), 61-72. https://doi.org/10.1017/S0025100300005077
 - Deterding, D. (2007). *Singapore English*. Edinburgh University Press. https://doi.org/10.3366/edinburgh/9780748625444.001.0001
 - Dragojevic, M., & Giles, H. (2016). "I don't like you because you're hard to understand: The role of processing fluency in the language attitudes process." *Human Communication Research*, 42(3), 396-420. https://doi.org/10.1111/hcre.12079
+- Flege, J. E. (1995). "Second language speech learning: Theory, findings, and problems." In W. Strange (Ed.), *Speech Perception and Linguistic Experience: Issues in Cross-Language Research* (pp. 233-277). York Press.
 - Grosjean, F. (1989). "Neurolinguists, beware! The bilingual is not two monolinguals in one person." *Brain and Language*, 36(1), 3-15. https://doi.org/10.1016/0093-934X(89)90048-5
 - Gupta, A. F. (1994). *The Step-Tongue: Children's English in Singapore*. Multilingual Matters.
 - Jones, D., Roach, P., Setter, J., & Esling, J. (2011). *Cambridge English Pronouncing Dictionary* (18th ed.). Cambridge University Press.
@@ -158,4 +197,5 @@ Everybody has an accent. This is his.
 - Platt, J. T. (1975). "The Singapore English speech continuum and its basilect 'Singlish' as a 'creoloid'." *Anthropological Linguistics*, 17(7), 363-374.
 - Preston, D. R. (1999). *Handbook of Perceptual Dialectology* (Vol. 1). John Benjamins. https://doi.org/10.1075/z.hpd1
 - Tan, Y. Y. (2014). "English as a 'mother tongue' in Singapore." *World Englishes*, 33(3), 319-339. https://doi.org/10.1111/weng.12093
+- Wells, J. C. (2006). *English Intonation: An Introduction*. Cambridge University Press. https://doi.org/10.1017/CBO9780511616983
 - Wells, J. C. (2008). *Longman Pronunciation Dictionary* (3rd ed.). Pearson Education.

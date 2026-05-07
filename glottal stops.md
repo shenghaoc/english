@@ -179,6 +179,20 @@ The speaker therefore has experience with radical consonant changes at word boun
 
 This is the "training data" problem in its sharpest form. The speaker has three connected speech systems available (Hockchia, RP/GA, Singlish-ambient), none of which maps onto the SSE target. The SSE target itself is underspecified. The result is not a failure of the speaker but a structural impossibility: you cannot reliably produce a system you have not been adequately exposed to and cannot look up.
 
+### The nasal consonant problem: When place of articulation is perceptually fragile
+
+A further complication is that the speaker cannot reliably distinguish pre- and post-nasal consonants in Mandarin Chinese. This difficulty is revealing because it demonstrates that consonant perception problems are not limited to English — they reflect deeper issues with how place-of-articulation contrasts are processed when the phonological system does not robustly support them.
+
+Mandarin distinguishes /n/ and /ŋ/ in coda position (e.g., *bān* 班 vs. *bāng* 帮), and also distinguishes /n/ and /l/ in onset position in standard Putonghua. However, many southern Chinese varieties — including Eastern Min — either merge these contrasts or distribute them differently. In Hockchia, the nasal coda system is organized around a different set of contrasts than Mandarin, and the onset /n/-/l/ distinction is not maintained in the same way. A speaker whose earliest phonological categories were formed in this system may never have established robust perceptual boundaries for the Mandarin nasal contrasts, even after years of Mandarin use.
+
+This is directly relevant to English connected speech because English place assimilation frequently targets nasals. In phrases like *ten boys* → [tem bɔɪz] or *ten girls* → [teŋ ɡɜːlz], the alveolar nasal /n/ assimilates to the place of the following consonant. For a listener who does not reliably distinguish [n], [m], and [ŋ] in all positions, these assimilations may be partially opaque — the speaker may not clearly perceive that a place change has occurred, or may not notice when their own production fails to match the target pattern.
+
+Ohala (1996) argues that sound change often originates in perceptual ambiguity: when listeners cannot reliably recover the speaker's intended category, they may reinterpret the signal, leading to systematic shifts over time. For an individual learner, the same mechanism operates at the level of acquisition: if the perceptual system does not clearly distinguish [n] from [ŋ] in connected speech, the learner cannot reliably acquire the assimilation rules that depend on that distinction.
+
+This does not mean the speaker produces random nasals. It means that the connected speech processes involving nasal place assimilation — which are a core part of natural English phrase phonology — may be acquired as explicit rules (from phonetics textbooks or IPA transcriptions) rather than as automatic perceptual-motor habits. The speaker may know that *ten boys* should have [m] because they have read about place assimilation, but may not reliably hear the difference in fast speech or monitor their own production in real time.
+
+Importantly, this is not a problem unique to this speaker. Nasal place assimilation is one of the connected speech processes that many L2 English learners struggle with, precisely because it requires fine-grained place-of-articulation perception in environments where the acoustic cues are weak (Marslen-Wilson, Nix, & Gaskell, 1995). The difference is that for this speaker, the difficulty is compounded by an existing perceptual fragility in the L1/heritage language system, not just unfamiliarity with English-specific rules.
+
 ### What would be needed
 
 For a speaker in this position to produce SSE connected speech with "no noticeable oddities," they would need:
@@ -209,6 +223,7 @@ Without these resources, the speaker's rational choice is to target a variety wh
 - Marslen-Wilson, W., Nix, A., & Gaskell, G. (1995). "Phonological variation in lexical access: Abstractness, inference and English place assimilation." *Language and Cognitive Processes*, 10(3-4), 285-308. https://doi.org/10.1080/01690969508407097
 - Niedzielski, N. (1999). "The effect of social information on the perception of sociolinguistic variables." *Journal of Language and Social Psychology*, 18(1), 62-85. https://doi.org/10.1177/0261927X99018001005
 - Nolan, F. (1992). "The descriptive role of segments: Evidence from assimilation." In G. J. Docherty & D. R. Ladd (Eds.), *Papers in Laboratory Phonology II: Gesture, Segment, Prosody* (pp. 261-280). Cambridge University Press. https://doi.org/10.1017/CBO9780511519918.011
+- Ohala, J. J. (1996). "Speech perception is hearing sounds, not tongues." *Journal of the Acoustical Society of America*, 99(3), 1718-1725. https://doi.org/10.1121/1.414696
 - Platt, J. T. (1975). "The Singapore English speech continuum and its basilect 'Singlish' as a 'creoloid'." *Anthropological Linguistics*, 17(7), 363-374.
 - Preston, D. R. (1999). *Handbook of Perceptual Dialectology* (Vol. 1). John Benjamins. https://doi.org/10.1075/z.hpd1
 - Preston, D. R. (2002). "Language with an attitude." In J. K. Chambers, P. Trudgill, & N. Schilling-Estes (Eds.), *The Handbook of Language Variation and Change* (pp. 40-66). Blackwell. https://doi.org/10.1002/9780470756591.ch2
