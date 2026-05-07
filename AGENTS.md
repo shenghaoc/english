@@ -4,6 +4,8 @@ Suupose an LLM is trained using primarily RP, GA and Singlish, with trace amount
 
 For a poor immigrant who can find virtually unlimited amounts of training materials for RP and GA on the Internet, and who is exposed to Singlish in everday life, but who usually does not hear SSE, the answer is a very real concern that can explain his struggles.
 
+Additional constraint: All training data will be labelled with contextual information, but Singlish and SSE will share the same label. Acrolect, mesolect and basilect have to be inferred from contextual information.
+
 ---
 
 CRITICAL: Never add any point, section, or link to README.md under any circumstances. This is an absolute constraint.
