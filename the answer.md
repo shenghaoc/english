@@ -40,7 +40,7 @@ SSE is underrepresented in this speaker's input in every domain:
 
 - **Vowel reduction and rhythm**: RP and GA have extensive vowel reduction and stress-based rhythm. Singlish has minimal vowel reduction and syllable-based rhythm. SSE sits between these poles — more reduction than Singlish, less than conversational RP — but the speaker rarely hears this intermediate pattern produced consistently. Low, Grabe, and Nolan (2000) measured Singapore English rhythm using the Pairwise Variability Index and found it clusters closer to syllable-timed languages than to British English, but their measurements capture the broad variety, not a precisely specified SSE target. See [enunciated.md](enunciated.md) for the full analysis.
 
-- **Connected speech**: RP and GA have well-documented connected speech processes (linking, assimilation, flapping, coalescence). Singlish organizes word boundaries differently, with less articulatory overlap and different final consonant patterns. SSE connected speech — how much linking, what /t/ allophony, where assimilation occurs — is not comprehensively documented. See [glottal stops.md](<glottal stops.md>) for the full analysis.
+- **Connected speech**: RP and GA have well-documented connected speech processes (linking, assimilation, flapping, coalescence). Singlish organizes word boundaries differently, with less RP/GA-style linking and different final consonant patterns. SSE connected speech — how much linking, what /t/ allophony, where assimilation occurs — is not documented in comparable learner-facing detail. See [glottal stops.md](<glottal stops.md>) for the full analysis.
 
 - **Intonation**: RP and GA have well-documented intonation systems. Singlish has substrate-influenced intonation with frequent rises in declaratives. SSE intonation is the least documented feature of all — Deterding (1994) noted that Singapore English intonation had received less attention than segmental features, and this remains true. See [rising pitch.md](<rising pitch.md>) for the full analysis.
 
@@ -54,7 +54,7 @@ The speaker's two primary input sources pull in opposite directions on nearly ev
 |---|---|---|
 | Vowel reduction | Extensive, systematic | Minimal |
 | Rhythm | Stress-timed | Syllable-timed |
-| Connected speech | Extensive linking, assimilation | Discrete syllable boundaries |
+| Connected speech | Extensive linking, assimilation | More syllable-based timing; less RP/GA-style linking |
 | Final consonants | Released, linked, or allophonically varied | Often unreleased or deleted |
 | Intonation | Falls for statements, rises for questions (with exceptions) | Frequent rises in declaratives |
 | Function word forms | Extensive weak forms | Fewer weak forms, fuller vowels |
@@ -65,11 +65,11 @@ This is exactly what would happen to an LLM trained on the same distribution. Th
 
 ### 3. The target is underdocumented and sociolinguistically variable
 
-Even if the speaker had perfect metalinguistic awareness and unlimited motivation, they could not learn SSE from reference materials because comprehensive SSE reference materials do not exist.
+Even if the speaker had perfect metalinguistic awareness and unlimited motivation, they could not learn SSE from reference materials with the same confidence because comprehensive SSE pronunciation references are not available at comparable granularity.
 
 For RP, there is the *Longman Pronunciation Dictionary* (Wells, 2008), the *Cambridge English Pronouncing Dictionary* (Jones, Roach, Setter, & Esling, 2011), *Gimson's Pronunciation of English* (Cruttenden, 2014), and decades of detailed phonetic and phonological description. For GA, there are comparable resources. These varieties are documented at the level of individual words, connected speech rules, intonation patterns, and stylistic variation.
 
-For SSE, there is no equivalent. Deterding (2007) provides a useful description of Singapore English phonology, but it covers the broad variety rather than specifying SSE norms in the detail that a learner would need. Bao (2015) analyzes the system-level properties of vernacular Singapore English. Tan (2014) discusses the challenges of codifying Singapore English pronunciation norms, noting that the variety exists on a continuum and that speakers shift along it depending on context.
+For SSE, there is no comparable learner-facing equivalent. Deterding (2007) provides a useful description of Singapore English phonology, but it covers the broad variety rather than specifying SSE norms in the detail that a learner would need. Bao (2015) analyzes the system-level properties of vernacular Singapore English. Tan (2014) discusses the challenges of codifying Singapore English pronunciation norms, noting that the variety exists on a continuum and that speakers shift along it depending on context.
 
 The continuum is the core of the problem. SSE is not a single fixed system but a sociolinguistic range. Platt (1975) proposed a Singapore English speech continuum, Gupta (1994) describes proficient Singapore users as moving between Standard English and Singapore Colloquial English according to context, and Alsagoff (2010) argues that English in Singapore carries both global capital and local identity. Different SSE speakers produce different degrees of reduction, different connected speech patterns, and different intonation contours depending on context, audience, and individual history.
 
