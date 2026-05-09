@@ -10,10 +10,24 @@ Everybody has an accent. The feeling that one's own accent is clearer, simpler, 
 
 When learning a language, some unfamiliar features have to be learned through approximation. The harder problem is being asked to approximate someone else's approximation while being told that the result is "natural" or "clear" without a phonetic account of what is actually happening.
 
+A sentence like `You need to sort out the evil spirits today` illustrates the problem.
+
+In an RP- or GA-like connected reading, it may be pronounced approximately as:
+
+> /juː ˈniːtə ˈsɔːɹtaʊt ði ˈiːvəl ˈspɪɹəts təˈdeɪ/
+
+Here, `need to` may reduce toward /ˈniːtə/, `sort out` may link across the word boundary, `spirits` may reduce toward /ˈspɪɹəts/, and the first syllable of `today` may use the weak form /tə-/.
+
+In a more Singaporean English or Singlish-like reading, it may be closer to:
+
+> /ju nit.tu sɔt̚ ʔaʊt ði iːvəl spi.rits tu.deɪ/
+
+Here, `to` is more likely to remain /tu/, `out` may receive a glottal onset so that `sort out` stays more boundary-marked, and `spirits` may keep a clearer second vowel. That is not simply "more enunciated English"; it is a different pattern of rhythm, reduction, word-boundary marking, and pitch.
+
 ---
 
 I will write only the main points and leave the details to AI.
 
 1. For English-like stress rhythm, unstressed syllables are often reduced rather than fully **[enunciated](enunciated.md)** from the spelling.
-2. Connected speech is not slurring; it is regular coarticulation, linking, assimilation, and reduction across word boundaries. Word-final **[glottal stops](<glottal stops.md>)** are one possible accent feature, not the whole explanation.
+2. Connected speech is not slurring; it is regular coarticulation, linking, assimilation, reduction, and word-boundary marking across phrases. Word-final **[glottal stops](<glottal stops.md>)** are one possible accent feature, while vowel-initial glottal onsets can also affect whether words feel linked or separated.
 3. A final **[rising pitch](<rising pitch.md>)** can be meaningful in English, but it is not inherently clearer, simpler, or better for statements.
