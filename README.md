@@ -43,9 +43,9 @@ Dialect groups in Singapore that have existed since independence, in order of de
 
 Hokchia (Fuqing, Futsing, Hokchiang) is an exonym that refers to the dialect of Fuqing county, you can tell that it is an exonym from the name of the Singapore Futsing Association. It differs from Foochow mostly in terms of accent. Many Foochow people in Southeast Asia actually originate from outside the core Min and Houguan counties, so they would have had to accommodate multiple accents. Meanwhile, most of Fuqing and neighbouring Pingtan basically sound the same.
 
-Hokkien (literally the name of the entire province) is an exonym that refers to the dialect of Quanzhou (including Xiamen) and Zhangzhou. It has significant mutual intelligibility with Teochew, which is spoken in the neighboring part of Guangdong. Together, they dwarf all other dialect groups except Cantonese.
+Hokkien (literally the name of the entire province) is an exonym that refers to the dialect of Quanzhou (including Xiamen) and Zhangzhou. It has significant mutual intelligibility with Teochew, which is spoken in the neighboring part of Guangdong. Together, they dwarf all other dialect groups except Cantonese. Certainly, despite mutual intelligibility, there are lots of different accents for Hokkien in Quanzhou and Zhangzhou, and this is not considering the emigrants along the coasts of neighboring provinces and overseas.
 
-Hokkien and Teochow have no mutual intelligibilty with Foochow and Hokchia.
+Hokkien and Teochew have no mutual intelligibilty with Foochow and Hokchia. This is despite the shared tendency to claim ancestry from Gushi County in modern day Henan province.
 
 According to the NLB's article on the Speak Mandarin Campaign, it came about because English was being used as the lingua franca among Chinese Singaporeans instead of Mandarin while each dialect group continued to use their own dialects among themselves. To me, logicially, most people would only want to hold on to their native tongue and whatever is the lingua franca, a sub lingua franca is silly.
 
