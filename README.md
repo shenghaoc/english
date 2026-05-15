@@ -50,3 +50,23 @@ Hokkien and Teochew have no mutual intelligibilty with Foochow and Hokchia. This
 According to the NLB's article on the Speak Mandarin Campaign, it came about because English was being used as the lingua franca among Chinese Singaporeans instead of Mandarin while each dialect group continued to use their own dialects among themselves. To me, logicially, most people would only want to hold on to their native tongue and whatever is the lingua franca, a sub lingua franca is silly.
 
 The death of Chinese dialects however creates a situation whereby the majority-dialect-influenced accent has become a symbol of national identity. Resisting it as an immigrant can now be seen as refusal to assimilate. It is as though only the first 3 or 5 dialect groups are local.
+
+---
+
+## Tonal character of three Fujian varieties
+
+Based on my observation, each variety has a characteristic dominant contour
+that maps loosely onto Mandarin tones:
+
+| Variety | Also known as | Dominant contour | Mandarin analogue |
+|---|---|---|---|
+| Minnan | Hokkien | High level | Tone 1 (阴平) |
+| Fuzhou | Foochow / Hokchew | Rising | Tone 2 (阳平) |
+| Fuqing | Hokchia / Hockchia | Falling | Tone 4 (去声) |
+
+## On imitating Singapore English
+
+The only feature of Singlish prosody I attempted to imitate was its
+characteristic rising pitch, and deliberately no more than that — it is
+not a feature of standard English, and as a Fuqing speaker it runs
+directly counter to my natural pitch tendencies.
