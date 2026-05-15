@@ -28,45 +28,6 @@ Here, `to` is more likely to remain /tu/, `out` may receive a glottal onset so t
 
 I will write only the main points and leave the details to AI.
 
-1. For English-like stress rhythm, unstressed syllables are often reduced rather than fully **[enunciated](enunciated.md)** from the spelling.
-2. Connected speech is not slurring; it is regular coarticulation, linking, assimilation, reduction, and word-boundary marking across phrases. Word-final **[glottal stops](<glottal stops.md>)** are one possible accent feature, while vowel-initial glottal onsets can also affect whether words feel linked or separated.
-3. A final **[rising pitch](<rising pitch.md>)** can be meaningful in English, but it is not inherently clearer, simpler, or better for statements.
-
----
-
-Dialect groups in Singapore that have existed since independence, in order of descending population size, where each row represents a significant change in magnitude:
-1. Hokkien, Teochew, Cantonese
-1. Hainanese, Hakka
-1. **Foochow**
-1. Henghua, Shanghainese, **Hokchia**
-1. Mandarin
-
-Hokchia (Fuqing, Futsing, Hokchiang) is an exonym that refers to the dialect of Fuqing county, you can tell that it is an exonym from the name of the Singapore Futsing Association. It differs from Foochow mostly in terms of accent. Many Foochow people in Southeast Asia actually originate from outside the core Min and Houguan counties, so they would have had to accommodate multiple accents. Meanwhile, most of Fuqing and neighbouring Pingtan basically sound the same.
-
-Hokkien (literally the name of the entire province) is an exonym that refers to the dialect of Quanzhou (including Xiamen) and Zhangzhou. It has significant mutual intelligibility with Teochew, which is spoken in the neighboring part of Guangdong. Together, they dwarf all other dialect groups except Cantonese. Certainly, despite mutual intelligibility, there are lots of different accents for Hokkien in Quanzhou and Zhangzhou, and this is not considering the emigrants along the coasts of neighboring provinces and overseas.
-
-Hokkien and Teochew have no mutual intelligibilty with Foochow and Hokchia. This is despite the shared tendency to claim ancestry from Gushi County in modern day Henan province.
-
-According to the NLB's article on the Speak Mandarin Campaign, it came about because English was being used as the lingua franca among Chinese Singaporeans instead of Mandarin while each dialect group continued to use their own dialects among themselves. To me, logicially, most people would only want to hold on to their native tongue and whatever is the lingua franca, a sub lingua franca is silly.
-
-The death of Chinese dialects however creates a situation whereby the majority-dialect-influenced accent has become a symbol of national identity. Resisting it as an immigrant can now be seen as refusal to assimilate. It is as though only the first 3 or 5 dialect groups are local.
-
----
-
-## Tonal character of three Fujian varieties
-
-Based on my observation, each variety has a characteristic dominant contour
-that maps loosely onto Mandarin tones:
-
-| Variety | Also known as | Dominant contour | Mandarin analogue |
-|---|---|---|---|
-| Minnan | Hokkien | High level | Tone 1 (阴平) |
-| Fuzhou | Foochow / Hokchew | Rising | Tone 2 (阳平) |
-| Fuqing | Hokchia / Hockchia | Falling | Tone 4 (去声) |
-
-## On imitating Singapore English
-
-The only feature of Singlish prosody I attempted to imitate was its
-characteristic rising pitch, and deliberately no more than that — it is
-not a feature of standard English, and as a Fuqing speaker it runs
-directly counter to my natural pitch tendencies.
+1. For English-like stress rhythm, unstressed syllables are often reduced rather than fully **[enunciated](pronunciation/enunciated.md)** from the spelling.
+2. Connected speech is not slurring; it is regular coarticulation, linking, assimilation, reduction, and word-boundary marking across phrases. Word-final **[glottal stops](<pronunciation/glottal stops.md>)** are one possible accent feature, while vowel-initial glottal onsets can also affect whether words feel linked or separated.
+3. A final **[rising pitch](<pronunciation/rising pitch.md>)** can be meaningful in English, but it is not inherently clearer, simpler, or better for statements.

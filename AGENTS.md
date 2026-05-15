@@ -18,6 +18,14 @@ For each existing point in README.md, there should be a corresponding .md file t
 
 The bolded word in each point should be used to name the .md file.
 
+Repo layout:
+
+- `README.md` — main points only; do not add points, sections, or links
+- `thick accent.md` — synthesis: why the three README features are Min substrate markers, not RP/GA norms
+- `the answer.md` — central question (RP/GA/Singlish input → flawless SSE?)
+- `pronunciation/` — one elaboration file per README bolded term (`enunciated.md`, `glottal stops.md`, `rising pitch.md`)
+- `context/` — background not in README points: `dialect groups.md`, `tonal character.md`, `imitating Singapore English.md`
+
 You are to be impartial and correct the points made in README.md if they are wrong.
 
 Cite studies and published papers wherever possible.

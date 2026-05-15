@@ -1,5 +1,7 @@
 # glottal stops
 
+> **Navigation:** [thick accent](<../thick accent.md>) (synthesis) · [enunciated](enunciated.md) · [rising pitch](<rising pitch.md>) · [the answer](<../the answer.md>)
+
 Connected speech is not slurring. It is the normal result of planning words in phrases rather than as isolated dictionary items. In fluent speech, articulatory gestures overlap: the tongue, lips, velum, and larynx are already preparing for nearby sounds while the current sound is being produced. Browman and Goldstein's work on articulatory phonology is a standard account of why coarticulation, assimilation, allophonic variation, and fluent-speech alternations are expected parts of speech rather than defects.
 
 The original point needs correction because connected speech is not mainly a byproduct of avoiding word-final glottal stops. English connected speech includes linking /r/, intrusive /r/ in some non-rhotic accents, assimilation as in `green park` sounding closer to `greem park`, elision in high-frequency phrases, vowel reduction, flapping in many North American varieties, and changes in release across word boundaries. Glottal stops are only one part of the story.
@@ -13,6 +15,12 @@ The key distinction is between systematic accent features and loss of contrast. 
 ## Practical correction
 
 Treat connected speech as phrase-level pronunciation, not as carelessness. Learn the target variety's patterns for linking, reduction, assimilation, and /t/ realization. Do not replace every final consonant with a glottal stop, but also do not assume that every glottal stop is substandard.
+
+## Liaison and the "slurring" mislabel
+
+Consonant-to-vowel linking (liaison) is the default in RP and GA fluent speech: a word-final consonant resyllabifies as the onset of the following vowel-initial word (`find it` → /faɪn.dɪt/, not /faɪnd/ + /ɪt/). Suppressing liaison — by deleting codas or inserting glottal boundaries — marks every word edge and destroys the continuous flow listeners use for parsing. That suppression is systematic in Singapore English contact speech and reflects Min open-syllable preferences transferred into English (Bao, 2015). Listeners calibrated on boundary-marked speech often mishear liaison as "slurring" when the consonant is in fact present in the resyllabified form.
+
+For the argument that boundary separation is a substrate marker reframed as clear English, see [thick accent](<../thick accent.md>).
 
 ## The social life of glottal stops: Prestige and change
 
@@ -52,6 +60,46 @@ It's important to distinguish between glottal reinforcement (where a glottal clo
 Docherty and Foulkes (1999) studied glottal variants of /t/ in Tyneside English and found a range of realizations from full oral closure to full glottal replacement, with many intermediate forms. The choice among variants was conditioned by phonological position, speech style, and social factors. Importantly, listeners familiar with the variety had no difficulty processing any of these variants.
 
 The practical implication is that learners should aim to match the target variety's pattern, not to avoid glottal stops entirely. If the target is a variety that uses glottal reinforcement or replacement in certain positions, using it appropriately is part of sounding natural in that variety.
+
+## Vowel-initial glottal onsets and word-boundary marking
+
+Most discussion of glottal stops in English focuses on /t/-glottalling — what happens to a consonant. But glottal stops also appear at the *beginning* of vowel-initial words, and this use has a different phonological function: it marks word boundaries.
+
+In German, vowel-initial glottal onsets are obligatory in careful speech: *ein Apfel* is [ʔaɪn ʔapfəl], with a glottal closure before each vowel-initial word. English is not as strict, but the phenomenon exists on a continuum across varieties. Kohler (1994) describes the German pattern as prosodically conditioned; in English, the conditioning is more variable and variety-dependent.
+
+### How it works in the README example
+
+The sentence `You need to sort out the evil spirits today` contains a critical test case at `sort out`. In RP/GA-style connected speech, *sort* and *out* tend to link smoothly across the word boundary — the /ɹ/ of *sort* (or linking /r/ in non-rhotic RP) connects directly into the /aʊ/ of *out*, making the two words flow as a single articulatory gesture:
+
+> /ˈsɔːɹtaʊt/
+
+In Singaporean English, the same boundary is handled differently. The final /t/ of *sort* is unreleased [t̚], and *out* begins with a glottal onset [ʔ], producing a perceptible break between the two words:
+
+> /sɔt̚ ʔaʊt/
+
+The glottal onset before *out* is not an error or a sign of choppy speech. It is a systematic boundary-marking strategy: it signals where one word ends and the next begins. In a variety with less cross-word linking, glottal onsets on vowel-initial words serve the same structural role that linking processes serve in RP/GA — they manage the transition between words. The strategies are different, but both are phonologically principled.
+
+### Why this matters for the linking/separation distinction
+
+The README's updated point 2 notes that "vowel-initial glottal onsets can also affect whether words feel linked or separated." This is the key insight. English varieties differ not just in *which consonants they glottalise* (the /t/-replacement question) but in *how they handle transitions into vowel-initial words* (the onset question). These are two independent dimensions of glottal-stop use:
+
+| Dimension | RP tendency | Singapore English tendency |
+|---|---|---|
+| Word-final /t/ | Released, linked, or glottally reinforced | Often unreleased [t̚] |
+| Vowel-initial word onset | Usually smooth linking, sometimes glottal in emphatic or prosodically strong positions | More frequent glottal onset [ʔ], preserving word boundaries |
+
+A learner who has been told only about /t/-glottalling may not realise that the "separated" quality of Singapore English connected speech also comes from what happens *before* the next word, not just what happens *at the end of* the previous one. Dilley, Shattuck-Hufnagel, and Ostendorf (1996) found that glottalization in American English is prosodically conditioned and occurs at phrase boundaries, which is consistent with the broader principle: glottal closures at word edges serve structural functions in speech parsing.
+
+### Cross-variety comparison
+
+The distribution of vowel-initial glottal onsets varies systematically:
+
+- **German**: Nearly obligatory before stressed vowel-initial words in careful speech.
+- **RP/GA**: Optional, more common in emphatic or prosodically prominent positions, rare in fluent connected speech where linking is preferred.
+- **Singapore English**: More frequent than in conversational RP/GA, contributing to the perception of more discrete word boundaries.
+- **Hockchia (Eastern Min)**: Initial consonant mutation (声母类化) operates at word boundaries but involves lenition of oral consonants rather than glottal insertion. The phonological instinct to mark boundaries is present, but the mechanism is entirely different.
+
+For the learner described in this repo, the practical consequence is that smooth RP/GA-style linking across vowel-initial words may feel unnatural (because the ambient variety marks those boundaries differently), while the local boundary-marking pattern may sound "choppy" to RP/GA-attuned listeners (because they expect linking in those positions). Neither judgment reflects an objective acoustic fact about clarity; both reflect the listener's own expectations about how word boundaries should be managed.
 
 ## Pedagogical implications: Teaching connected speech
 
@@ -139,71 +187,9 @@ Glottal stops sit exactly inside that problem. A Singaporean listener may treat 
 
 This is also why "fake accent" is a weak diagnosis. Leimgruber (2013) emphasizes that Singapore English variation is tied to structure, usage, and social indexicality, not merely proficiency. Alsagoff (2010) similarly argues that English in Singapore carries both global capital and local identity. A pronunciation choice can therefore sound "fake" to one listener and socially appropriate to another, depending on which identity and target variety the listener assumes.
 
-## The central question: Can RP, GA, and Singlish input produce flawless SSE?
+## Relation to the central question
 
-For connected speech and consonant realization, the central question becomes: if a speaker's input consists primarily of RP and GA (which have extensive, well-documented connected speech processes), Singlish (which organizes word boundaries and consonant timing differently due to Sinitic substrates), and only trace amounts of SSE, can the speaker produce SSE-appropriate connected speech with no noticeable oddities?
-
-The answer is no, and the connected speech domain may be where the problem is most acute.
-
-### Connected speech is where varieties diverge most visibly
-
-Segmental inventories — the set of vowels and consonants a variety uses — are relatively easy to describe and learn from reference materials. Connected speech processes are not. They are phrase-level phenomena that depend on speech rate, prosodic structure, phonological context, and variety-specific rules. They are acquired primarily through exposure to fluent speech in the target variety, not through dictionaries or pronunciation guides.
-
-RP connected speech includes linking /r/, intrusive /r/, extensive place assimilation, coalescence, and specific patterns of /t/ allophony including glottal reinforcement and replacement in certain positions. GA connected speech includes flapping, nasal flapping, glottal reinforcement, and different assimilation patterns. These processes are thoroughly documented (Cruttenden, 2014; Wells, 1982) and abundantly available in broadcast media.
-
-Singlish connected speech is organized differently from conversational RP and GA. Its more syllable-timed rhythm tends to reduce the amount of RP/GA-style linking across word boundaries, and final consonant realizations may include unreleased stops, simplification, deletion, or glottalization depending on segment, style, and speaker. The substrate languages (Hokkien, Teochew, Malay, Cantonese) contribute their own patterns of consonant timing and boundary marking. Bao (2015) describes how substrate transfer shapes the phonological system of Singapore English at multiple levels.
-
-SSE connected speech should not be treated as a simple midpoint between those systems. In formal SSE, speakers may draw on Standard English norms in some contexts while retaining local timing and final-consonant patterns in others. The specific patterns — which consonants link, where assimilation occurs, how /t/ is realized in different positions — are not codified for SSE at the same learner-facing granularity as RP and GA.
-
-### The documentation gap is largest for connected speech
-
-A learner can look up the segmental pronunciation of any English word in a dictionary. There is no equivalent reference for connected speech. Even for RP and GA, connected speech rules are described in phonetics textbooks (Cruttenden, 2014; Ladefoged & Johnson, 2015) but are not codified word by word. For SSE, the documentation is even sparser.
-
-This means that a speaker whose input is primarily RP/GA media and ambient Singlish has two well-specified systems for connected speech (RP and GA, from media) and one partially specified system (Singlish, from ambient exposure without full substrate access), but almost no data for the actual target (SSE connected speech in natural conversation).
-
-The result is predictable: the speaker will either use RP/GA connected speech patterns (which may sound foreign to Singaporean listeners), use a Singlish-influenced boundary pattern (which may sound too informal or basilectal for SSE contexts), or produce an inconsistent mixture. None of these outcomes is "flawless SSE."
-
-### Glottal stops as a specific case
-
-The realization of /t/ illustrates the problem precisely. In RP, /t/ can be aspirated, unreleased, glottally reinforced, or glottally replaced depending on position and style. In GA, /t/ can additionally be flapped or nasally flapped. In Singlish, final /t/ may be unreleased, reduced, deleted, or glottalized in patterns that do not simply reproduce RP allophony.
-
-SSE /t/ realization is not well codified as a separate learner target. A speaker who has learned RP /t/ allophony from media and hears Singlish /t/ patterns daily has no clear model for what SSE /t/ should sound like in connected speech. Should final /t/ be released before a following vowel (as in RP linking)? Should it be unreleased in a local pattern? Should glottal reinforcement be used in the positions where modern RP allows it? The answers depend on the specific SSE target, which is not consistently specified.
-
-Deterding (2007) notes that Singapore English consonant realization differs from British English in systematic ways, but the description is primarily of the broad variety rather than a detailed account of SSE connected speech rules. Tan (2014) discusses the challenges of defining SSE norms. The learner is left to infer the target from insufficient data.
-
-### The Hockchia complication
-
-For a speaker with a Hockchia (Eastern Min) background, the connected speech problem has an additional layer. Hockchia has its own highly active connected speech system — initial consonant mutation (声母类化) — where consonants lenite dramatically depending on the preceding syllable's coda. This system is phonologically sophisticated but entirely incompatible with English connected speech rules.
-
-The speaker therefore has experience with radical consonant changes at word boundaries, but those changes follow a completely different logic. English linking /r/ connects a final vowel to a following vowel; Hockchia initial mutation changes a consonant based on the preceding coda. The phonological principles do not transfer. The speaker cannot use their Hockchia connected speech intuitions to predict English connected speech patterns, and they cannot use their English connected speech knowledge (learned from RP/GA media) to predict SSE patterns.
-
-This is the "training data" problem in its sharpest form. The speaker has three connected speech systems available (Hockchia, RP/GA, Singlish-ambient), none of which maps onto the SSE target. The SSE target itself is underspecified. The result is not a failure of the speaker but a structural impossibility: you cannot reliably produce a system you have not been adequately exposed to and cannot look up.
-
-### The nasal consonant problem: When place of articulation is perceptually fragile
-
-A further complication is that the speaker cannot reliably distinguish pre- and post-nasal consonants in Mandarin Chinese. This difficulty is revealing because it demonstrates that consonant perception problems are not limited to English — they reflect deeper issues with how place-of-articulation contrasts are processed when the phonological system does not robustly support them.
-
-Mandarin distinguishes /n/ and /ŋ/ in coda position (e.g., *bān* 班 vs. *bāng* 帮), and also distinguishes /n/ and /l/ in onset position in standard Putonghua. However, many southern Chinese varieties — including Eastern Min — either merge these contrasts or distribute them differently. In Hockchia, the nasal coda system is organized around a different set of contrasts than Mandarin, and the onset /n/-/l/ distinction is not maintained in the same way. A speaker whose earliest phonological categories were formed in this system may never have established robust perceptual boundaries for the Mandarin nasal contrasts, even after years of Mandarin use.
-
-This is directly relevant to English connected speech because English place assimilation frequently targets nasals. In phrases like *ten boys* → [tem bɔɪz] or *ten girls* → [teŋ ɡɜːlz], the alveolar nasal /n/ assimilates to the place of the following consonant. For a listener who does not reliably distinguish [n], [m], and [ŋ] in all positions, these assimilations may be partially opaque — the speaker may not clearly perceive that a place change has occurred, or may not notice when their own production fails to match the target pattern.
-
-Ohala (1996) argues that sound change often originates in perceptual ambiguity: when listeners cannot reliably recover the speaker's intended category, they may reinterpret the signal, leading to systematic shifts over time. For an individual learner, the same mechanism operates at the level of acquisition: if the perceptual system does not clearly distinguish [n] from [ŋ] in connected speech, the learner cannot reliably acquire the assimilation rules that depend on that distinction.
-
-This does not mean the speaker produces random nasals. It means that the connected speech processes involving nasal place assimilation — which are a core part of natural English phrase phonology — may be acquired as explicit rules (from phonetics textbooks or IPA transcriptions) rather than as automatic perceptual-motor habits. The speaker may know that *ten boys* should have [m] because they have read about place assimilation, but may not reliably hear the difference in fast speech or monitor their own production in real time.
-
-Importantly, this is not a problem unique to this speaker. Nasal place assimilation is one of the connected speech processes that many L2 English learners struggle with, precisely because it requires fine-grained place-of-articulation perception in environments where the acoustic cues are weak (Marslen-Wilson, Nix, & Gaskell, 1995). The difference is that for this speaker, the difficulty is compounded by an existing perceptual fragility in the L1/heritage language system, not just unfamiliarity with English-specific rules.
-
-### What would be needed
-
-For a speaker in this position to produce SSE connected speech with "no noticeable oddities," they would need:
-
-1. **Extensive naturalistic exposure to SSE connected speech** — not just formal read-aloud speech, but conversational SSE from speakers who consistently use the acrolectal variety. This input is scarce because SSE speakers typically code-switch along the Singlish-SSE continuum, and purely acrolectal SSE conversation is rare outside specific institutional contexts.
-
-2. **Explicit documentation of SSE connected speech rules** — a reference that specifies, for example, whether and when linking occurs in SSE, what the SSE distribution of /t/ allophones is, and how assimilation operates in SSE phrase phonology. This documentation is not readily available at the level of detail available for RP and GA.
-
-3. **Feedback from SSE-proficient interlocutors** — not just "that sounds wrong" but "in SSE, we would link/not link here, release/not release there." This kind of metalinguistic feedback requires interlocutors who are both proficient in SSE and able to articulate its phonological rules, which is a rare combination.
-
-Without these resources, the speaker's rational choice is to target a variety whose connected speech is well documented and abundantly available — which is RP or GA. The resulting accent will not be native RP or GA (the speaker's multilingual phonological system ensures that), but it will be a consistent approximation of a well-defined target rather than an inconsistent approximation of an ill-defined one.
+Connected speech is where varieties diverge most visibly: phrase-level linking, assimilation, and /t/ allophony cannot be looked up word by word, and SSE rules for them are not codified at RP/GA learner-facing granularity (Cruttenden, 2014; Tan, 2014). A speaker with RP/GA media input and ambient Singlish boundary patterns has no stable SSE model for whether to link *sort out* or mark it /sɔt̚ ʔaʊt/. Nasal place assimilation (*ten boys* → [tem bɔɪz]) may be learned as an explicit rule rather than a perceptual habit when Mandarin nasal categories are fragile — see [the answer](<../the answer.md>) on perceptual opacity. Hockchia initial mutation (声母类化) does not transfer to English linking rules; the full argument is there.
 
 ## References
 

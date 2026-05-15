@@ -1,5 +1,7 @@
 # The Answer
 
+> **Navigation:** [thick accent](<thick accent.md>) · [enunciated](pronunciation/enunciated.md) · [glottal stops](<pronunciation/glottal stops.md>) · [rising pitch](<pronunciation/rising pitch.md>) · [dialect groups](<context/dialect groups.md>) · [tonal character](<context/tonal character.md>) · [imitating Singapore English](<context/imitating Singapore English.md>)
+
 **Can a speaker whose input is primarily Received Pronunciation, General American, and Singlish — with only trace exposure to Standard Singapore English — learn to produce flawless SSE with no noticeable oddities?**
 
 No.
@@ -38,11 +40,11 @@ Phonological learning — whether in first language acquisition, second language
 
 SSE is underrepresented in this speaker's input in every domain:
 
-- **Vowel reduction and rhythm**: RP and GA have extensive vowel reduction and stress-based rhythm. Singlish has minimal vowel reduction and syllable-based rhythm. SSE sits between these poles — more reduction than Singlish, less than conversational RP — but the speaker rarely hears this intermediate pattern produced consistently. Low, Grabe, and Nolan (2000) measured Singapore English rhythm using the Pairwise Variability Index and found it clusters closer to syllable-timed languages than to British English, but their measurements capture the broad variety, not a precisely specified SSE target. See [enunciated.md](enunciated.md) for the full analysis.
+- **Vowel reduction and rhythm**: RP and GA have extensive vowel reduction and stress-based rhythm. Singlish has minimal vowel reduction and syllable-based rhythm. SSE sits between these poles — more reduction than Singlish, less than conversational RP — but the speaker rarely hears this intermediate pattern produced consistently. Low, Grabe, and Nolan (2000) measured Singapore English rhythm using the Pairwise Variability Index and found it clusters closer to syllable-timed languages than to British English, but their measurements capture the broad variety, not a precisely specified SSE target. See [enunciated](pronunciation/enunciated.md) for the full analysis. For why full enunciation, boundary separation, and rising statements are structurally opposed to RP/GA, see [thick accent](<thick accent.md>).
 
-- **Connected speech**: RP and GA have well-documented connected speech processes (linking, assimilation, flapping, coalescence). Singlish organizes word boundaries differently, with less RP/GA-style linking and different final consonant patterns. SSE connected speech — how much linking, what /t/ allophony, where assimilation occurs — is not documented in comparable learner-facing detail. See [glottal stops.md](<glottal stops.md>) for the full analysis.
+- **Connected speech**: RP and GA have well-documented connected speech processes (linking, assimilation, flapping, coalescence). Singlish organizes word boundaries differently, with less RP/GA-style linking and different final consonant patterns. SSE connected speech — how much linking, what /t/ allophony, where assimilation occurs — is not documented in comparable learner-facing detail. See [glottal stops](<pronunciation/glottal stops.md>) for the full analysis.
 
-- **Intonation**: RP and GA have well-documented intonation systems. Singlish has substrate-influenced intonation with frequent rises in declaratives. SSE intonation is the least documented feature of all — Deterding (1994) noted that Singapore English intonation had received less attention than segmental features, and this remains true. See [rising pitch.md](<rising pitch.md>) for the full analysis.
+- **Intonation**: RP and GA have well-documented intonation systems. Singlish has substrate-influenced intonation with frequent rises in declaratives. SSE intonation is the least documented feature of all — Deterding (1994) noted that Singapore English intonation had received less attention than segmental features, and this remains true. See [rising pitch](<pronunciation/rising pitch.md>) for the full analysis.
 
 The input distribution problem is not that the speaker lacks exposure to English. It is that the specific variety he is expected to produce — SSE — is the one he has the least exposure to, the least documentation for, and the least ability to verify against a stable reference.
 

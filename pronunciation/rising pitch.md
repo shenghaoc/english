@@ -1,5 +1,7 @@
 # rising pitch
 
+> **Navigation:** [thick accent](<../thick accent.md>) (synthesis) · [enunciated](enunciated.md) · [glottal stops](<glottal stops.md>) · [the answer](<../the answer.md>)
+
 A final rising pitch is not inherently clearer, simpler, or more down-to-earth than a final fall. In many English varieties, unmarked statements often end with a falling nuclear contour, but English also has meaningful rises in declaratives. Rising declaratives, continuation rises, fall-rises, list intonation, and politeness or engagement contours all exist. The issue is not whether a rise is "allowed"; the issue is what a rise signals in the target variety and context.
 
 The original point is too strong if it means that rising pitch is never natural in statements. Uptalk, for example, is a documented pattern in English declaratives, especially in varieties such as Australian and New Zealand English and in some North American and British varieties. Warren (2016) treats uptalk as a systematic phenomenon, not random incompetence. Jeong (2018) argues experimentally that English has different types of rising declaratives with different forms and functions.
@@ -15,6 +17,38 @@ Prestige does not freeze a variety in an older or more conservative state either
 ## Practical correction
 
 Use rising pitch when it matches the intended English function: continuation, list structure, checking, politeness, engagement, or a variety where rising declaratives are ordinary. For plain statements in a variety where final falls are expected, do not assume that a rise makes the statement clearer.
+
+## A worked example: pitch on one sentence
+
+The sentence `You need to sort out the evil spirits today` appears in the README with IPA transcriptions showing segmental and rhythmic differences between RP/GA and Singaporean English. But those transcriptions leave out a crucial dimension: the pitch contour that rides on top of them.
+
+### RP / GA–style declarative
+
+In a neutral, out-of-context declarative, RP typically places the nuclear accent on the last lexical item that introduces new information — here, likely *today* — and uses a falling nuclear tone:
+
+> ˈYou need to ˈsort out the ˈevil ˈspirits toˈ**day** ↘
+
+Pre-nuclear stressed syllables receive pitch accents (small rises or level prominences), but the melodic shape resolves downward on *today*. The fall signals finality: the speaker is asserting, not asking or hedging. Cruttenden (1997) describes this as the unmarked declarative contour in RP, and Wells (2006) uses similar examples to teach English nuclear placement.
+
+If the speaker instead wanted to contrast *spirits* with some other noun already in the conversation, the nucleus would shift:
+
+> You need to sort out the evil ˈ**spirits** ↘ today
+
+The pitch fall now lands earlier, and *today* is deaccented. This nuclear-placement flexibility is what makes English intonation information-structural, not just melodic decoration.
+
+### Singaporean English declarative
+
+In a Singlish-influenced reading of the same sentence, the pitch pattern may differ in at least two respects. First, the overall pitch range may be narrower across the pre-nuclear material, reflecting the more syllable-timed rhythm: without strong compression of unstressed syllables, there is less need for large pitch excursions on stressed ones. Second, the final contour may be a rise or a level tone rather than a clear fall, particularly if the speaker is using the declarative rise that Deterding (2007) describes as common in Singapore English.
+
+> ˈYou ˈneed to ˈsort ˈout the ˈevil ˈspirits toˈ**day** → or ↗
+
+To a listener attuned to RP intonation, this may sound like a question or like the speaker is unsure. To a listener attuned to Singapore English, it sounds like an ordinary statement — possibly with a discourse function of engagement or checking. The pitch direction is different, but neither is wrong for its own system.
+
+### Why this belongs here
+
+The README describes the difference between the two readings as "a different pattern of rhythm, reduction, word-boundary marking, **and pitch**." The segmental and rhythmic differences are analysed in [enunciated](enunciated.md); the word-boundary differences are analysed in [glottal stops](<glottal stops.md>). The pitch dimension is this file's territory. What the example shows is that even a single declarative sentence can carry different prosodic intentions depending on which intonation system the speaker is using — and that the listener's judgment of whether the pitch sounds "right" depends entirely on which system they expect. The same final rise that signals engagement in Singapore English can signal uncertainty in RP, and the same final fall that signals finality in RP can signal abruptness in a context where a rise is locally expected.
+
+For a learner caught between these systems, the pitch problem cannot be solved by a simple rule like "use falls for statements." The rule works for RP. It may sound foreign in Singapore. And the SSE-appropriate pattern — whatever it is — is not documented well enough to serve as an explicit target.
 
 ## Intonational meaning is variety-specific
 
@@ -143,67 +177,9 @@ For a speaker whose primary English input is broadcast news (formal, scripted, w
 
 Wells (2006) provides explicit instruction on English intonation including nuclear placement, tonicity, and the relationship between information structure and prosody. This is the kind of resource that makes RP/GA intonation learnable through explicit study. No equivalent resource exists for SSE intonation patterns, leaving the speaker to infer sentence stress norms from insufficient and inconsistent input.
 
-## The central question: Can RP, GA, and Singlish input produce flawless SSE?
+## Relation to the central question
 
-For intonation, the central question becomes: if a speaker's input consists primarily of RP and GA (which have well-documented intonation systems with specific uses of rises and falls), Singlish (which has a substrate-influenced intonation system with frequent rises in declaratives), and only trace amounts of SSE, can the speaker produce SSE-appropriate intonation with no noticeable oddities?
-
-The answer is no, and intonation may be the single hardest domain in which to achieve this.
-
-### Why intonation is the hardest transfer problem
-
-Segmental features (vowels and consonants) can be described in isolation and looked up in dictionaries. Vowel reduction patterns can be partially inferred from stress rules. Connected speech processes, while harder, follow phonological rules that can be stated explicitly. Intonation is different. It is gradient, context-dependent, interacts with discourse structure, and carries pragmatic meaning that varies across varieties. It is also the feature that listeners are most sensitive to when judging whether someone "sounds local" or "sounds foreign."
-
-Mennen (2015) identifies four dimensions of cross-linguistic intonational difference: inventory (which pitch accents and boundary tones exist), distribution (where they occur), phonetic realization (the exact F0 contours), and function (what they mean). Two varieties can share the same inventory but differ in distribution and function, making the differences subtle and hard to learn from explicit instruction alone.
-
-For SSE intonation, the problem is compounded by the fact that the system is not well described. Deterding (1994) noted that Singapore English intonation had received less attention than segmental features. Deterding (2007) provides some description, and Low and Grabe (1999) discuss rhythm, but there is no comprehensive intonational phonology of SSE comparable to Ladd (2008) for English generally or Gussenhoven (1984) for British English.
-
-### The three-way mismatch
-
-The speaker has three intonation systems available as input, and none of them is SSE:
-
-**RP/GA intonation** (from broadcast media): Well-documented, with specific patterns for statements (typically falling nuclear tone), questions (rising for yes/no, falling for wh-), continuation (rise or fall-rise), and various pragmatic functions. The speaker has extensive exposure to this system in its careful, broadcast register — which is itself a specific style, not conversational RP/GA intonation.
-
-**Singlish intonation** (from ambient exposure): Characterized by frequent rises in declaratives, substrate-influenced pitch patterns, and discourse particles that interact with intonation in ways that have no English equivalent. The speaker hears this daily but does not have native access to the substrate languages (Hokkien, Teochew, Malay, Cantonese) that motivate many of the patterns.
-
-**SSE intonation** (the target): Somewhere between RP/GA and Singlish, but where exactly? In formal SSE, speakers may use more RP-like falling patterns for statements, but the degree of convergence with RP varies by speaker, context, and generation. The specific SSE patterns for continuation, listing, politeness, and engagement are not codified.
-
-The speaker cannot interpolate between RP/GA and Singlish to find SSE. Intonation is not a linear continuum where the midpoint between two systems gives you a third. The systems differ in categorical ways — different pitch accent types, different boundary tone distributions, different alignment patterns — and the SSE system has its own categorical structure that must be learned from SSE input.
-
-### The pragmatic minefield
-
-Intonation carries pragmatic meaning, and pragmatic meanings are variety-specific. A rising declarative in Australian English signals engagement or floor-holding (Warren, 2016). A rising declarative in RP may signal uncertainty or incompleteness (Ward & Hirschberg, 1985). A rising declarative in Singlish may be a substrate-influenced default that carries no special pragmatic marking for local listeners.
-
-A speaker who uses RP-style falling intonation for all statements in Singapore may sound cold, abrupt, or overly formal to local listeners. A speaker who uses Singlish-style rising intonation for statements in an RP-targeting context may sound uncertain or questioning to RP-attuned listeners. The pragmatic consequences of getting intonation wrong are more severe than the consequences of getting a vowel wrong, because intonation affects how the speaker's *attitude and intention* are perceived, not just their accent.
-
-For SSE, the pragmatic system is not documented well enough for a learner to know which rises are locally appropriate in which contexts. The speaker who has learned RP pragmatic intonation from news broadcasts has a system that works for formal, declarative, information-delivering speech — but that is only one register. Conversational SSE intonation, with its own patterns for engagement, hedging, turn-taking, and politeness, is not available from broadcast media in any variety.
-
-### The Hockchia dimension
-
-For a speaker with a Hockchia (Eastern Min) background, the intonation problem has a specific additional complication. Hockchia is a tone language with complex tone sandhi, where the pitch pattern of each syllable is lexically specified and changes in predictable ways in connected speech. The speaker's earliest pitch-processing experience is organized around lexical tone, not intonational melody.
-
-This does not mean the speaker cannot learn English intonation — clearly they can, since they have been using English for most of their life. But it means that the mapping between pitch and meaning is organized differently at a deep level. In Hockchia, pitch distinguishes words. In English, pitch distinguishes discourse functions. The speaker must maintain both systems, and when producing English intonation, they must suppress the tendency to treat pitch as lexical and instead use it as intonational.
-
-The observation in AGENTS.md that Singlish intonation sounds strikingly similar to Minnan is relevant here. If the local English intonation is substrate-influenced by Southern Min (Hokkien), and the speaker's own Chinese variety is Eastern Min (Hockchia), the speaker is hearing a pitch system that is *similar enough to be salient but different enough to be non-native*. The speaker notices the Minnan-like melody precisely because it partially overlaps with but does not match their own tonal system. This is a specific case of the perceptual dialectology finding that we are most aware of features that are close to but not identical to our own (Preston, 1999).
-
-For SSE intonation, this means the speaker faces a three-way interference problem: Hockchia tone patterns, Singlish substrate-influenced intonation, and RP/GA intonational phonology all compete for control of pitch production. The SSE target, which would resolve this competition by specifying the locally appropriate pitch patterns, is not available in sufficient quantity or detail.
-
-### The honest conclusion
-
-The central question asks whether RP, GA, and Singlish input can produce flawless SSE. For intonation, the answer is the clearest no of any phonological domain. Intonation is:
-
-1. **The least documented feature of SSE** — segmental descriptions exist (Deterding, 2007; Bao, 2015), rhythm has been measured (Low, Grabe, & Nolan, 2000), but intonational phonology remains underspecified.
-
-2. **The most variety-specific feature** — two varieties can share most of their segmental inventory but differ dramatically in intonation. SSE intonation is not simply "RP intonation with less reduction."
-
-3. **The most pragmatically loaded feature** — getting intonation wrong does not just make you sound foreign; it makes you sound rude, uncertain, aggressive, or disengaged, depending on the mismatch.
-
-4. **The hardest feature to learn from explicit instruction** — you cannot look up intonation in a dictionary. It must be acquired from extensive exposure to natural speech in the target variety.
-
-5. **The feature most affected by substrate transfer** — the speaker's Hockchia tone system and the ambient Singlish substrate-influenced intonation both create interference patterns that SSE-specific input would be needed to override.
-
-The speaker's preference for RP or GA as an intonation target is therefore not just rational but may be the only viable strategy. RP and GA intonation are extensively documented (Cruttenden, 1997; Ladd, 2008; Pierrehumbert & Hirschberg, 1990), abundantly available in media, and learnable through explicit study combined with exposure. The result will not be native RP or GA intonation — the speaker's multilingual pitch system will produce its own characteristic patterns — but it will be a consistent approximation of a well-defined target.
-
-The alternative — trying to produce SSE intonation from insufficient input — risks producing an inconsistent mixture that sounds odd to everyone: too RP for Singaporean listeners, too Singlish for RP-attuned listeners, and not quite SSE for anyone. That is not a failure of the speaker. It is the predictable outcome of a training data distribution that does not contain enough of the target.
+Intonation may be the hardest domain for achieving flawless SSE: it is gradient, pragmatically loaded, variety-specific in function, and the least documented part of Singapore English (Deterding, 1994; Mennen, 2015). RP/GA and Singlish cannot be averaged into SSE — inventory, distribution, and meaning differ categorically. A rising declarative signals engagement locally but uncertainty in RP; a fall signals finality in RP but abruptness where a rise is expected. See [tonal character](<../context/tonal character.md>) for Hockchia vs Minnan pitch habits and [the answer](<../the answer.md>) for the full input-distribution argument.
 
 ## References
 
