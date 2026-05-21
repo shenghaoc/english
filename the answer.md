@@ -81,7 +81,7 @@ The "flawless SSE" in the question may not correspond to a single coherent phono
 
 The speaker's specific linguistic background adds a layer that makes the problem harder, not easier.
 
-Hockchia (Eastern Min) is a tone language with complex tone sandhi and a highly active system of initial consonant mutation (声母类化), where consonants like /p/, /t/, or /k/ lenite significantly (e.g., to [β], [l], or [w]) depending on the coda of the preceding syllable. The speaker's earliest phonological experience is organized around systems that have no parallel in English:
+Hockchia (Eastern Min, east Fujian) is a tone language with complex tone sandhi and a highly active system of initial consonant mutation (声母类化), where consonants like /p/, /t/, or /k/ lenite significantly (e.g., to [β], [l], or [w]) depending on the coda of the preceding syllable. The speaker's earliest phonological experience is organized around systems that have no parallel in English:
 
 - **Tone vs. intonation**: In Hockchia, pitch distinguishes words. In English, pitch distinguishes discourse functions. The speaker must maintain both mappings and suppress the lexical-tone mapping when producing English intonation.
 
@@ -89,7 +89,7 @@ Hockchia (Eastern Min) is a tone language with complex tone sandhi and a highly 
 
 - **Close/Open rime alternation (松紧韵) vs. vowel reduction**: Hockchia vowel quality shifts drastically depending on the tonal environment. English vowel quality shifts depending on stress. The mechanisms are different, and the Hockchia intuition does not map onto English stress-based reduction.
 
-- **Minnan resemblance**: The speaker has noticed that Singlish intonation sounds strikingly similar to the Minnan (Southern Min/Hokkien) dialect. This observation is positionally specific — a speaker from the dominant Hokkien substrate might not notice the pattern because it matches their own prosodic habits and is therefore transparent. A Hockchia speaker, standing outside the dominant substrate, hears the Minnan-like melody as a marked, distinctive feature. This is a specific case of the perceptual dialectology finding that we are most aware of features we are not attuned to (Preston, 1999). The observation is valid, but it also means the local intonation system is *salient without being native* — the speaker can hear it but cannot produce it from the inside.
+- **Minnan resemblance**: The speaker has noticed that Singlish intonation sounds strikingly similar to Minnan (south Fujian, not the province as a whole). This observation is positionally specific — a speaker from the dominant Hokkien substrate might not notice the pattern because it matches their own prosodic habits and is therefore transparent. A Hockchia (Eastern Min) speaker, standing outside the dominant substrate, hears the Minnan-like melody as a marked, distinctive feature. This is a specific case of the perceptual dialectology finding that we are most aware of features we are not attuned to (Preston, 1999). The observation is valid, but it also means the local intonation system is *salient without being native* — the speaker can hear it but cannot produce it from the inside.
 
 The Hockchia background does not make the speaker worse at English. It makes the specific task of producing SSE harder, because the speaker's phonological toolkit includes sophisticated systems that are incompatible with the SSE target, and the SSE target itself is not specified well enough to guide the necessary recalibration.
 

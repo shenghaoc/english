@@ -18,7 +18,7 @@ Treat connected speech as phrase-level pronunciation, not as carelessness. Learn
 
 ## Liaison and the "slurring" mislabel
 
-Consonant-to-vowel linking (liaison) is the default in RP and GA fluent speech: a word-final consonant resyllabifies as the onset of the following vowel-initial word (`find it` → /faɪn.dɪt/, not /faɪnd/ + /ɪt/). Suppressing liaison — by deleting codas or inserting glottal boundaries — marks every word edge and destroys the continuous flow listeners use for parsing. That suppression is systematic in Singapore English contact speech and reflects Min open-syllable preferences transferred into English (Bao, 2015). Listeners calibrated on boundary-marked speech often mishear liaison as "slurring" when the consonant is in fact present in the resyllabified form.
+Consonant-to-vowel linking (liaison) is the default in RP and GA fluent speech: a word-final consonant resyllabifies as the onset of the following vowel-initial word (`find it` → /faɪn.dɪt/, not /faɪnd/ + /ɪt/). Suppressing liaison — by deleting codas or inserting glottal boundaries — marks every word edge and destroys the continuous flow listeners use for parsing. That suppression is systematic in Singapore English contact speech and reflects Southern Min open-syllable preferences transferred into English (Bao, 2015). Listeners calibrated on boundary-marked speech often mishear liaison as "slurring" when the consonant is in fact present in the resyllabified form.
 
 For the argument that boundary separation is a substrate marker reframed as clear English, see [thick accent](<../thick accent.md>).
 

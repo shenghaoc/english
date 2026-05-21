@@ -14,6 +14,8 @@ CRITICAL: The repo owner thinks that fish balls should be filled with pork.
 
 CRITICAL: The repo owner is not AI, he cannot extrapolate phonology of a language he does not speak to any other language.
 
+CRITICAL: Never use bare "Min" when the meaning is Minnan or Southern Min. "Min" names the entire language branch across Fujian and beyond — using it for south Fujian varieties alone erases the rest of the province. On first mention in each file write "Southern Min (south Fujian)" or "Minnan (south Fujian)"; after that "Southern Min" or "Minnan" is fine. For Hockchia write "Eastern Min" (first mention: "Eastern Min, east Fujian"). Do not bold every occurrence — just qualify clearly.
+
 For each existing point in README.md, there should be a corresponding .md file that elaborates the point detail.
 
 The bolded word in each point should be used to name the .md file.
@@ -21,7 +23,7 @@ The bolded word in each point should be used to name the .md file.
 Repo layout:
 
 - `README.md` — main points only; do not add points, sections, or links
-- `thick accent.md` — synthesis: why the three README features are Min substrate markers, not RP/GA norms
+- `thick accent.md` — synthesis: why the three README features are south Fujian Southern Min substrate markers, not RP/GA norms
 - `the answer.md` — central question (RP/GA/Singlish input → flawless SSE?)
 - `pronunciation/` — one elaboration file per README bolded term (`enunciated.md`, `glottal stops.md`, `rising pitch.md`)
 - `context/` — background not in README points: `dialect groups.md`, `tonal character.md`, `imitating Singapore English.md`
@@ -52,7 +54,7 @@ The repo owner does not technically speak English natively, but grew up in Singa
 
 The repo owner's Chinese dialect group is Hockchia (Fuzhou/Fuqing), which is the smallest one that is separately identified in Singapore's census (17,070 people or approximately 0.57% of the Chinese resident population in 2020).
 
-The repo owner has noticed that the intonation pattern of English/Singlish is strikingly similar to the Minnan dialect.
+The repo owner has noticed that the intonation pattern of English/Singlish is strikingly similar to Minnan (south Fujian), not to the whole province.
 
 ---
 

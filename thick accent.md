@@ -1,6 +1,6 @@
 # thick accent
 
-The three features commonly presented as good English in Singapore — full enunciation of unstressed syllables, separation of words at consonant boundaries, and rising pitch on statements — are phonological substrate effects of Southern Min (Hokkien/Minnan), not properties of standard English. Each one is the opposite of what Received Pronunciation and General American do by default. Together they define what listeners trained on RP or GA hear as a thick accent: English vocabulary carried on a Min syllable-and-tone frame, then relabelled as careful or clear speech.
+The three features commonly presented as good English in Singapore — full enunciation of unstressed syllables, separation of words at consonant boundaries, and rising pitch on statements — are phonological substrate effects of Southern Min (south Fujian), the variety known by the exonyms Hokkien and Minnan and spoken on the Quanzhou–Zhangzhou coast, not across Fujian province as a whole. Each one is the opposite of what Received Pronunciation and General American do by default. Together they define what listeners trained on RP or GA hear as a thick accent: English vocabulary carried on a Southern Min syllable-and-tone frame, then relabelled as careful or clear speech.
 
 This page is the synthesis. Detailed treatment of each feature:
 
@@ -21,9 +21,9 @@ English is stress-timed in organization: stressed syllables are the rhythmic anc
 - `can` (unstressed) → /kən/, not /kæn/
 - `of` (unstressed) → /əv/ or /ə/, not /ɒv/
 
-Fully enunciating every syllable from its spelling produces a **syllable-timed** rhythm in which each syllable receives roughly equal weight and duration. That is exactly the rhythm measured for Singapore English relative to British English: Low, Grabe, and Nolan (2000) found Singapore English significantly closer to the syllable-timed pole on the Pairwise Variability Index. Southern Min languages lack the vowel-reduction system that drives English stress-timing; Bao (2015) documents how substrate transfer from Hokkien shapes Singapore English phonology at multiple levels, including rhythm.
+Fully enunciating every syllable from its spelling produces a **syllable-timed** rhythm in which each syllable receives roughly equal weight and duration. That is exactly the rhythm measured for Singapore English relative to British English: Low, Grabe, and Nolan (2000) found Singapore English significantly closer to the syllable-timed pole on the Pairwise Variability Index. Southern Min lacks the vowel-reduction system that drives English stress-timing; Bao (2015) documents how substrate transfer from Hokkien shapes Singapore English phonology at multiple levels, including rhythm.
 
-What is described as "clear" or "careful" English in Singapore is therefore often the rhythmic signature of a Min first language applied to English vocabulary — the textbook definition of substrate transfer, which listeners from RP- or GA-oriented backgrounds classify as a thick accent. See [enunciated](pronunciation/enunciated.md) for the full phonological and perceptual-dialectology argument.
+What is described as "clear" or "careful" English in Singapore is therefore often the rhythmic signature of a Southern Min first language applied to English vocabulary — the textbook definition of substrate transfer, which listeners from RP- or GA-oriented backgrounds classify as a thick accent. See [enunciated](pronunciation/enunciated.md) for the full phonological and perceptual-dialectology argument.
 
 ## 2. Separating words at consonant boundaries instead of linking
 
@@ -35,7 +35,7 @@ When a word ending in a consonant is followed by a word beginning with a vowel, 
 
 Preventing this linking requires either deleting the coda consonant entirely — so `find it` becomes /faɪn.ɪt/ — or inserting a glottal stop at the word boundary to force a hard reset. Both are substrate effects. Southern Min strongly prefers open syllables ending in a vowel or nasal; native speakers carry this preference into English and systematically suppress liaison (Bao, 2015).
 
-The result is that every word boundary is marked by a break or a missing consonant. Individual words become more salient, but the suprasegmental flow that native English listeners use to parse continuous speech is destroyed. It is not enunciation; it is the imposition of Min syllable structure onto English phonology.
+The result is that every word boundary is marked by a break or a missing consonant. Individual words become more salient, but the suprasegmental flow that native English listeners use to parse continuous speech is destroyed. It is not enunciation; it is the imposition of Southern Min syllable structure onto English phonology.
 
 The complaint that liaison is "slurring" is a listener-bias artefact: ears calibrated to an open-syllable, boundary-marked variety parse coda-to-onset transfer as a swallowed consonant, when the consonant is present and correctly placed in the resyllabified form. See [glottal stops](<pronunciation/glottal stops.md>) for vowel-initial glottal onsets, unreleased finals, and the worked example at `sort out`.
 
@@ -43,15 +43,15 @@ The complaint that liaison is "slurring" is a listener-bias artefact: ears calib
 
 In RP and GA, unmarked declarative statements end with a falling nuclear tone. Pitch falls on the last stressed syllable of the utterance and continues through the tail. That falling contour signals completion and assertion. A rising contour on a statement signals uncertainty, a question, or an invitation to respond (Cruttenden, 1997; Wells, 2006).
 
-Singlish uses a rising or level boundary tone on statements as a default. This is not an English intonation pattern in the RP/GA sense; it derives from the Southern Min tone-sandhi system, in which the final syllable of a prosodic phrase retains its citation tone and a disproportionate number of Min citation tones are high or high-level. Right-dominant sandhi domains produce a characteristic phrase-final rise or hold that transfers into Singapore English prosody (Chen, 1987; Zhang, 2007; Deterding, 1994, 2007).
+Singlish uses a rising or level boundary tone on statements as a default. This is not an English intonation pattern in the RP/GA sense; it derives from the Southern Min tone-sandhi system, in which the final syllable of a prosodic phrase retains its citation tone and a disproportionate number of Southern Min citation tones are high or high-level. Right-dominant sandhi domains produce a characteristic phrase-final rise or hold that transfers into Singapore English prosody (Chen, 1987; Zhang, 2007; Deterding, 1994, 2007).
 
-The consequence is that Singlish statements sound like questions or hedges to ears calibrated on RP or GA. The claim that rising pitch is inherently clearer or better for statements has no basis in English phonology or in any description of RP or GA. It reflects the intonational norm of a Min-substrate contact variety, not of English. See [rising pitch](<pronunciation/rising pitch.md>) for variety-specific intonation, uptalk, and the processing-fluency bias.
+The consequence is that Singlish statements sound like questions or hedges to ears calibrated on RP or GA. The claim that rising pitch is inherently clearer or better for statements has no basis in English phonology or in any description of RP or GA. It reflects the intonational norm of a Southern Min-substrate contact variety, not of English. See [rising pitch](<pronunciation/rising pitch.md>) for variety-specific intonation, uptalk, and the processing-fluency bias.
 
 ---
 
 ## Common structure
 
-All three features share the same structure: a phonological property of Southern Min is transferred to English and then reframed as correct or clear English, while the actual features of RP and GA — vowel reduction, liaison, falling declarative intonation — are reframed as errors. The accent being described as "good English" is not a variety of English at all; it is English vocabulary on a Min phonological frame.
+All three features share the same structure: a phonological property of Southern Min is transferred to English and then reframed as correct or clear English, while the actual features of RP and GA — vowel reduction, liaison, falling declarative intonation — are reframed as errors. The accent being described as "good English" is not a variety of English at all; it is English vocabulary on a Southern Min phonological frame.
 
 That reframing is sustained by the familiar bias documented in perceptual dialectology: listeners rate their own variety as clearer and more natural because it is familiar, not because it is acoustically superior (Preston, 1999; Dragojevic & Giles, 2016). Everybody has an accent. Prestige varieties are not accentless, and they are not linguistically conservative — they innovate and are socially reinterpreted over time (Fabricius, 2002; Harrington et al., 2000).
 
