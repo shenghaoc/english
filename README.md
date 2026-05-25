@@ -1,3 +1,9 @@
+Meeting my cousins who are 2nd gen immigrants reminded me that there's a straightforward explanation for my situation.
+I'm a 1st gen immigrant who was not a citizen of the country I grew up in until I could finally apply at the ripe old age of 21, after 2 years as a conscript.
+
+
+--
+
 # English
 
 This repo collects linguistics-based notes on English pronunciation advice, especially where advice confuses accent prestige with clarity.
