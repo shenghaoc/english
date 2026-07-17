@@ -1,8 +1,22 @@
+Maybe it's because I've been searching for relevant content too much, but when illustrating the difficulty for non-Chinese minorities to get Singapore citizenship, it's disingenuous to count years spent in Singapore as a minor.
+
+It was once possible to apply for citizenship as a Full-Time National Servicemen (NSF). However, by the time I enlisted in 2016, the scheme was no longer available.
+
+In late 2017, students became eligible but not NSFs. I applied after I finished my full-time service. It took me almost 15 years and that was longer than most people I met during the mandatory sharing session, except e.g. some older people who intentionally held on to their original citizenship.
+
+But it is generally the case that economic contributions are valued most highly for countries where there is no jus soli or jus sanguinis.
+
+Using my own example, I managed to obtain citizenship while being economically productive for 0 year while someone else at the Citizenship Journey sharing session would have probably been economically productive in Singapore for about 3 to 5 years. I shouldn't be inflating 0 to 15.
+
+Regardless of race, being able to obtain citizenship before contributing to the economy should be considered to be exceptionally fast and convenient, not a long arduous struggle.
+
+---
+
 Meeting my cousins who are 2nd gen immigrants reminded me that there's a straightforward explanation for my situation.
 I'm a 1st gen immigrant who was not a citizen of the country I grew up in until I could finally apply at the ripe old age of 21, after 2 years as a conscript.
 
 
---
+---
 
 # English
 
