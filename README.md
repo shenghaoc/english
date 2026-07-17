@@ -1,3 +1,25 @@
+The popularity of the "Dear You" movie exposed me to some Teochew vocabulary and made me realize that the underlying core vocabulary for Min dialects is much more stable than I thought even in neighbouring Guangdong, e.g. 批 means letters in my dialect too.
+
+A general pattern I observe is that intonation tends to be more similar for Min dialects that are geographically closer together, while vocabulary and pronunciation tend to follow administrative boundaries.
+
+The caveats for the above are that 
+1. China's southeast appears to be mostly mountains with small patches of plains along the coast, so neighbours are not as close as maps may suggest
+2. The provincial capital and major port cities have significant exposure to influence from other provinces or countries.
+
+As a Fuqing dialect speaker, the intonation of neighbouring Putian (Henghwa) is familiar but the vocabulary and pronunciation are mostly incomprehensible to me, while the prestige Fuzhou dialect has unfamiliar intonation and slightly different pronunciation with very similar vocabulary.
+
+To the south of Putian, the spoken form is impossible to understand, I need to trace the original Chinese characters of words to find similarities. But it is not the case that further necessarily means more different, Foochow 诸娘囝 and Teochew 姿娘囝 are obvious cognates while Hokkien 查某囡仔 indicates that although likely of common origin it is no longer analysed as a combination of the original Chinese characters.
+
+Intonation, pronunciation and vocabulary do drift even within the 2 historical prefectures of Fujian that speak Hokkien so terminology used by [CAPITAL 985's dialect news](https://www.melisten.sg/podcast/playlist/CAPITAL-958-%E6%96%B9%E8%A8%80%E6%96%B0%E9%97%BB-545761) is the most conservative, least controversial and most accurate that I've seen in Singapore. And Foochow is there! It's also what made me realize that the Foochow intonation is unfamiliar.
+
+Refer to this [Reddit post](https://www.reddit.com/r/singapore/comments/oroq24/language_groups_in_singapore_in_1957/) and the [NLB preview](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7b306d60-16c1-458d-a9ef-6be4cb6b1821) for historical Foochow and Hokchia presence in Singapore around the time of independence from the British.
+
+Widespread adoption of Mandarin was the result of the Republic of China's New Culture Movement that spread to the diaspora in Southeast Asia. Both the first Chinese high school and the first Chinese university in Southeast Asia taught in Mandarin. Mandarin replaced Classical Chinese as the written form even in Hong Kong. It would have been extremely strange for Singapore to try to teach the true mother tongues instead of Mandarin and come up with dialect education from scratch.
+
+My own dialect group is at 0.4% in the 1957 census and about 0.6% in the [2020 census](https://data.gov.sg/datasets/d_7a942ef799c7a66a78835245bc581980/view), so we grew but I've never heard it spoken anywhere in Singapore by strangers except people obviously dressed as labourers (who are almost certainly foreigners). If the major dialects are dying out, mine is already dead. I can't help but feel ambivalent about the dialect broadcast ban that restricts the number of "Dear You" screenings in the original Teochew.
+
+---
+
 Maybe it's because I've been searching for relevant content too much, but when illustrating the difficulty for non-Chinese minorities to get Singapore citizenship, it's disingenuous to count years spent in Singapore as a minor.
 
 It was once possible to apply for citizenship as a Full-Time National Servicemen (NSF). However, by the time I enlisted in 2016, the scheme was no longer available.
