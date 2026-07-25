@@ -1,3 +1,23 @@
+As mentioned somewhere below, Hokkien frequently ends with the high tone (1st tone in pinyin), Foochow frequently ends with the rising tone (2nd tone in pinyin) and Futsing/Hokchia/Hockchia frequently ends with the falling tone (4th tone in pinyin), sometimes it's flipped.
+
+1. 我共你講: last word is falling tone in Hokkien and high tone in Futsing
+
+I also have a list of Hokkien-origin Singlish expressions that I've heard or read passively but will never react in the expected way because the expression is unnatural in my own dialect.
+
+1. 無 (bo): 會𣍐 and 有無, attaching of 無 as a suffix to form questions is unnatural, there's a [paper on this](https://www.cl.ntu.edu.tw/uploads/root/%E8%87%BA%E5%A4%A7%E4%B8%AD%E6%96%87%E5%AD%B8%E5%A0%B1/%E7%AC%AC%E4%B8%83%E6%9C%9F/%E8%AB%96%E7%A6%8F%E5%B7%9E%E6%96%B9%E8%A8%80%E7%9A%84%E5%90%A6%E5%AE%9A%E8%A9%9E%E5%8F%8A%E6%AD%A3%E5%8F%8D%E5%95%8F%E5%8F%A5.pdf) but I have no time to read it
+1. 著無 (tio bo): unnatural to ask whether what I said is right, natural to ask whether there's anything wrong with what I said, 有無賺 where 賺 means something wrong or an error
+1. 爽 (song): 舒暢
+1. 痟 (siao): 癲
+
+And some Hokkien words sound more familiar with the literary readings
+1. 陳: https://sutian.moe.edu.tw/zh-hant/su/15907/
+
+I previously thought I could relax when imitating the local accent, but the reality is that I have to be extra careful and avoid thinking that I'm just intentionally stressing the syllables in a fixed pattern that is not strictly correct. They seem to expect unstressed vowels to be pronounced.
+
+Many locals have no lack of exposure to stress-timed intonation patterns but they seem to be hardwired to think that word stress is unnecessary information. It's jarring to hear the wrong syllable being stressed every 10 seconds or so when a local tries to adopt a stress-timed intonation pattern.
+
+---
+
 The popularity of the "Dear You" movie exposed me to some Teochew vocabulary and made me realize that the underlying core vocabulary for Min dialects is much more stable than I thought even in neighbouring Guangdong, e.g. 批 means letters in my dialect too.
 
 A general pattern I observe is that intonation tends to be more similar for Min dialects that are geographically closer together, while vocabulary and pronunciation tend to follow administrative boundaries.
