@@ -8,6 +8,8 @@ I also have a list of Hokkien-origin Singlish expressions that I've heard or rea
 1. 著無 (tio bo): unnatural to ask whether what I said is right, natural to ask whether there's anything wrong with what I said, 有無賺 where 賺 means something wrong or an error
 1. 爽 (song): 舒暢
 1. 痟 (siao): 癲
+1. 啉茶 (lim teh): 食茶, the alternative verb 啜 should have the same implication of taking small sips as in Mandarin
+1. 啉水 (lim zui): 食水, ditto
 
 And some Hokkien words sound more familiar with the literary readings
 1. 陳: https://sutian.moe.edu.tw/zh-hant/su/15907/
