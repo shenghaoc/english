@@ -1,3 +1,17 @@
+It took me watching [Juan's videos](https://www.youtube.com/shorts/nhqnvQt43o0) and [985 FM's Foochow news](bilibili.com/video/BV1Kf4y127gT/) to realize that Foochow intonation pattern is totally different from Futsing. But as with people everywhere, I think the accent of my hometown is totally normal no matter how different it is from the prestige variant that is appropriate for reference books and foreigners. The prestige variant sounds very weird to me.
+
+I'm not sure about the authencity of Juan's story but supposedly he's a Spanish American who learned the prestige variant from reference books and interaction with the diaspora in New York. 
+
+As a minority dialect, there is a need to actively resist influence from other variants of Chinese to avoid confusion, see this [commentary in Zaobao](https://www.zaobao.com.sg/forum/views/talk/story20210227-1127285) regarding bad vocabulary and pronunciation in 985 FM's Foochow news.
+
+Refer to [Lee Kuan Yew's 1979 speech](https://www.nas.gov.sg/archivesonline/lky100av2) and [transcript](https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19790907.pdf) for the Speak Mandarin Campaign, the natural outcome without the dialect ban would have been that Chinese people speak English with one another. This has come to pass even with the campaign.
+
+Mandarin as the common Chinese language taught in Singapore schools dates back to at least 1916 at [Tao Nan School](https://www.roots.gov.sg/places/places-landing/places/national-monuments/former-tao-nan-school-now-the-peranakan-museum) and it was an intentional decision by leaders of the Hokkien community to switch from Hokkien.
+
+Having a sub lingua franca when there is already a lingua franca unfortunately leads to confusion, leading many people to believe that Mandarin was somehow forced upon them even though it was an entirely voluntary decision by their own community leaders. And inevitably in many scenarios there's no room for a sub lingua franca.
+
+---
+
 As mentioned somewhere below, Hokkien frequently ends with the high tone (1st tone in pinyin), Foochow frequently ends with the rising tone (2nd tone in pinyin) and Futsing/Hokchia/Hockchia frequently ends with the falling tone (4th tone in pinyin), sometimes it's flipped.
 
 1. 我共你講: last word is falling tone in Hokkien and high tone in Futsing
