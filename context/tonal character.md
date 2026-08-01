@@ -10,17 +10,15 @@ Based on observation, each of three regional varieties within Fujian province (n
 | Fuzhou (east Fujian) | East | Foochow / Hokchew | Rising | Tone 2 (阳平) |
 | Fuqing (east Fujian) | East | Hokchia / Hockchia | Falling | Tone 4 (去声) |
 
-This table is a coarse map, not a phonological equivalence proof. Mandarin and the tone systems of these Fujian varieties are organized differently; the analogue column is a mnemonic for how each variety *sounds* relative to Putonghua, not a claim of shared tonogenesis.
-
-The pattern is a frequency claim about how phrases tend to end, and it sometimes flips. In 我共你講, the last word is falling tone in Hokkien and high tone in Futsing — the reverse of each variety's dominant contour.
+This table is a coarse map, not a phonological equivalence proof. Mandarin and the tone systems of these Fujian varieties are organized differently; the analogue column is a mnemonic for how each variety *sounds* relative to Putonghua, not a claim of shared tonogenesis. It is also a frequency claim about how phrases tend to end, not a rule, and it sometimes flips: in 我共你講, the last word carries a falling tone in Hokkien and a high tone in Futsing — the reverse of each variety's dominant contour.
 
 ## Foochow vs Futsing
 
-It took watching [Juan's videos](https://www.youtube.com/shorts/nhqnvQt43o0) and [Capital 958's Foochow news](https://bilibili.com/video/BV1Kf4y127gT/) for the repo owner to realize that the Foochow intonation pattern is totally different from Futsing. But as with people everywhere, he finds the accent of his hometown totally normal no matter how different it is from the prestige variant appropriate for reference books and foreigners — the prestige variant sounds very weird to him. This is the same self-bias this repo documents for English accents: nobody hears their own baseline as marked, whatever the size of their speech community.
+The difference between the two east Fujian rows is easy to underestimate from inside. It took watching [Juan's videos](https://www.youtube.com/shorts/nhqnvQt43o0) and [Capital 958's Foochow news](https://bilibili.com/video/BV1Kf4y127gT/) for the repo owner to realize that Foochow intonation is entirely different from Futsing. And, as with people everywhere, the hometown accent still feels totally normal no matter how far it sits from the prestige variant used in reference books and taught to foreigners — to him, it is the prestige variant that sounds weird. This is the same self-bias this repo documents for English accents: nobody hears their own baseline as marked, whatever the size of their speech community.
 
-The authenticity of Juan's story is unverified, but supposedly he is a Spanish American who learned the prestige variant from reference books and interaction with the diaspora in New York — incidentally the same strategy this repo describes for English: when you stand outside every local speech community, target the documented variety.
+Juan's story — supposedly a Spanish American who learned the prestige variant from reference books and from the diaspora in New York, though its authenticity is unverified — is incidentally the strategy this repo describes for English: when you stand outside every local speech community, target the documented variety.
 
-As a minority dialect, there is also a need to actively resist influence from other variants of Chinese to avoid confusion; see this [commentary in Zaobao](https://www.zaobao.com.sg/forum/views/talk/story20210227-1127285) regarding bad vocabulary and pronunciation in Capital 958's Foochow news.
+A small dialect also has to actively resist influence from other varieties of Chinese to avoid confusion; a [commentary in Zaobao](https://www.zaobao.com.sg/forum/views/talk/story20210227-1127285) criticises the vocabulary and pronunciation of Capital 958's Foochow news on exactly this ground.
 
 ## Why it matters for English
 
