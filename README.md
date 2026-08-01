@@ -1,3 +1,29 @@
+Foochow and Amoy were both treaty ports opened by the Treaty of Nanking, however Foochow was mostly dependent on the tea trade. When the British realized they could plant their own tea in their colonies, Foochow's significance was greatly diminished. Amoy, meanwhile, had ties to Taiwan and Southeast Asia.
+
+And that's not all, you can refer to Wikipedia to see how [Southern Min](https://en.wikipedia.org/wiki/Southern_Min) related or derived variants of Chinese stretch as far north as Wenzhou in Zhejiang and as far south as Hainan island, formerly in Guangdong. The dominance along China's southern coast is broken only in the regions surrounding Fujian and Guangdong's respective provincial capitals.
+
+Based on Lee Kuan Yew's [1984 speech](https://www.nas.gov.sg/archivesonline/data/pdfdoc/lky19840921a.pdf) for the Speak Mandarin Campaign, Amoy was seen as the prestige variant in Singapore as he contrasted it with "pidgin Hokkien". Wikipedia also suggests the same but the sentence has no citations. The CAPITAL 958 dialect broadcast specifies Amoy (厦语).
+
+For a long time in recent decades, the Minnan region had the prefecture-level city with the highest total GDP (Quanzhou) and they still have the prefecture-level city with the highest average GDP (Xiamen). Xiamen/Amoy was formerly a part of Quanzhou so internally Amoy is not always the prestige variant of Hokkien. For certain words Taiwan's Taiwanese dictionary specifies multiple Quanzhou, Zhangzhou and mixed variants of pronunciation, e.g. https://sutian.moe.edu.tw/zh-hant/su/11609/ and Xiamen is a mixed variant being formerly a part of Quanzhou that borders Zhangzhou.
+
+And of course Taiwan's importance and influence further cements the dominance of 闽南语 as the most well-known Fujian language.
+
+And the 3 prefecture cities combined do have approximately half the population of Fujian.
+
+Within Fujian province itself is perhaps the only place where most people will be well aware that there is no mutual intelligibility between spoken languages that have diverged for more than a thousand years. Note that there is a tendency for Chinese dialects (including Mandarin) to substitute characters based on pronunciation because the original characters have long been forgotten and you cannot associate the current pronunciation with the original characters.
+
+To quote the Wikisource articles below regarding the 2 treaty ports of Fujian, "Amoy is the port of foreign trade for South Fokien, a region which, though politically and administratively united with the northern half of the province of Fokien, is geographically and ethnologically distinct."
+
+To quote the the Singapore Chinese Cultural Centre, 'Nevertheless, even though Hokkien is, strictly speaking, not equivalent to Minnan dialect, it has become customary in Singapore to use “Hokkien” to refer to the Minnan dialect.'
+
+From my perspective as a member of a minority dialect group that was present when the country was founded, I have no doubt that promoting Mandarin was and is the right decision.
+
+https://en.wikisource.org/wiki/Twentieth_Century_Impressions_of_Hongkong,_Shanghai,_and_other_Treaty_Ports_of_China/Foochow
+https://en.wikisource.org/wiki/Twentieth_Century_Impressions_of_Hongkong,_Shanghai,_and_other_Treaty_Ports_of_China/Amoy
+https://culturepaedia.singaporeccc.org.sg/language-education/the-hokkien-dialect-in-singapore/
+
+---
+
 It took me watching [Juan's videos](https://www.youtube.com/shorts/nhqnvQt43o0) and [985 FM's Foochow news](bilibili.com/video/BV1Kf4y127gT/) to realize that Foochow intonation pattern is totally different from Futsing. But as with people everywhere, I think the accent of my hometown is totally normal no matter how different it is from the prestige variant that is appropriate for reference books and foreigners. The prestige variant sounds very weird to me.
 
 I'm not sure about the authencity of Juan's story but supposedly he's a Spanish American who learned the prestige variant from reference books and interaction with the diaspora in New York. 
