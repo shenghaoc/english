@@ -1,5 +1,7 @@
 # tonal character
 
+> **Navigation:** [thick accent](<../thick accent.md>) (synthesis) · [dialect groups](<dialect groups.md>) · [rising pitch](<../pronunciation/rising pitch.md>) · [the answer](<../the answer.md>)
+
 Based on observation, each of three regional varieties within Fujian province (not the province as a whole) has a characteristic dominant contour that maps loosely onto Mandarin tones:
 
 | Variety | Region | Also known as | Dominant contour | Mandarin analogue |

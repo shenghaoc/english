@@ -67,9 +67,9 @@ Most discussion of glottal stops in English focuses on /t/-glottalling — what 
 
 In German, vowel-initial glottal onsets are obligatory in careful speech: *ein Apfel* is [ʔaɪn ʔapfəl], with a glottal closure before each vowel-initial word. English is not as strict, but the phenomenon exists on a continuum across varieties. Kohler (1994) describes the German pattern as prosodically conditioned; in English, the conditioning is more variable and variety-dependent.
 
-### How it works in the README example
+### How it works in the worked example
 
-The sentence `You need to sort out the evil spirits today` contains a critical test case at `sort out`. In RP/GA-style connected speech, *sort* and *out* tend to link smoothly across the word boundary — the /ɹ/ of *sort* (or linking /r/ in non-rhotic RP) connects directly into the /aʊ/ of *out*, making the two words flow as a single articulatory gesture:
+The sentence `You need to sort out the evil spirits today` — transcribed in full in [enunciated](enunciated.md) — contains a critical test case at `sort out`. In RP/GA-style connected speech, *sort* and *out* tend to link smoothly across the word boundary — the /ɹ/ of *sort* (or linking /r/ in non-rhotic RP) connects directly into the /aʊ/ of *out*, making the two words flow as a single articulatory gesture:
 
 > /ˈsɔːɹtaʊt/
 
@@ -81,7 +81,7 @@ The glottal onset before *out* is not an error or a sign of choppy speech. It is
 
 ### Why this matters for the linking/separation distinction
 
-The README's updated point 2 notes that "vowel-initial glottal onsets can also affect whether words feel linked or separated." This is the key insight. English varieties differ not just in *which consonants they glottalise* (the /t/-replacement question) but in *how they handle transitions into vowel-initial words* (the onset question). These are two independent dimensions of glottal-stop use:
+The README's point 2 notes that "vowel-initial glottal onsets can also affect whether words feel linked or separated." This is the key insight. English varieties differ not just in *which consonants they glottalise* (the /t/-replacement question) but in *how they handle transitions into vowel-initial words* (the onset question). These are two independent dimensions of glottal-stop use:
 
 | Dimension | RP tendency | Singapore English tendency |
 |---|---|---|
@@ -97,7 +97,7 @@ The distribution of vowel-initial glottal onsets varies systematically:
 - **German**: Nearly obligatory before stressed vowel-initial words in careful speech.
 - **RP/GA**: Optional, more common in emphatic or prosodically prominent positions, rare in fluent connected speech where linking is preferred.
 - **Singapore English**: More frequent than in conversational RP/GA, contributing to the perception of more discrete word boundaries.
-- **Hockchia (Eastern Min)**: Initial consonant mutation (声母类化) operates at word boundaries but involves lenition of oral consonants rather than glottal insertion. The phonological instinct to mark boundaries is present, but the mechanism is entirely different.
+- **Hockchia (Eastern Min, east Fujian)**: Initial consonant mutation (声母类化) operates at word boundaries but involves lenition of oral consonants rather than glottal insertion. The phonological instinct to mark boundaries is present, but the mechanism is entirely different.
 
 For the learner described in this repo, the practical consequence is that smooth RP/GA-style linking across vowel-initial words may feel unnatural (because the ambient variety marks those boundaries differently), while the local boundary-marking pattern may sound "choppy" to RP/GA-attuned listeners (because they expect linking in those positions). Neither judgment reflects an objective acoustic fact about clarity; both reflect the listener's own expectations about how word boundaries should be managed.
 

@@ -1,5 +1,7 @@
 # imitating Singapore English
 
+> **Navigation:** [thick accent](<../thick accent.md>) (synthesis) · [dialect groups](<dialect groups.md>) · [tonal character](<tonal character.md>) · [the answer](<../the answer.md>)
+
 The only feature of Singlish prosody deliberately imitated was its characteristic rising pitch — and no more than that. Rising declarative contours are not a feature of standard English in the RP/GA sense; for a Fuqing (Hockchia) speaker they also run counter to natural pitch tendencies, where the dominant contour habit is falling rather than high-level.
 
 ## What was avoided
@@ -7,6 +9,8 @@ The only feature of Singlish prosody deliberately imitated was its characteristi
 Other Singlish features — syllable-timed rhythm, full unstressed vowels, boundary-marked connected speech, discourse particles, substrate syntax — were not targets for imitation. They are systematic in their own variety but structurally opposed to documented RP/GA norms when presented as "clear English." See [thick accent](<../thick accent.md>).
 
 ## SSE as an ill-defined middle
+
+When there is no sharp boundary between a local creole, local English, and an imported prestige model, a learner can be asked to imitate a socially preferred target whose phonetic details are not always stated. That makes it easy for pronunciation advice to become advice about class, region, or identity while presenting itself as neutral clarity.
 
 Standard Singapore English is not a single documented phonological system. It sits on a continuum between acrolectal English and Colloquial Singapore English / Singlish (Platt, 1975; Gupta, 1989; Tan, 2014). A speaker who imitates only one salient feature (rising pitch) while being asked to produce "proper" SSE overall is being given an inconsistent specification: one visible local cue without the rest of the system that would make it coherent.
 

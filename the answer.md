@@ -23,7 +23,7 @@ A human learner is not an LLM, but the analogy holds at the level that matters: 
 This is not an abstract thought experiment. It describes the real situation of a specific learner:
 
 - Moved from China to Singapore in childhood.
-- Does not technically speak any language natively. Cannot consistently form proper sentences in his own Chinese dialect (Hockchia/Eastern Min) due to lack of contact and practice. Does not speak Mandarin natively, though was free to imitate it by virtue of holding a Chinese passport in his youth. Does not speak Singlish natively — hears it every day but does not share the substrate languages (Hokkien, Teochew, Malay, Cantonese) that contribute to its non-English features.
+- Does not technically speak any language natively. Cannot consistently form proper sentences in his own Chinese dialect (Hockchia — Eastern Min, east Fujian) due to lack of contact and practice. Does not speak Mandarin natively, though was free to imitate it by virtue of holding a Chinese passport in his youth. Does not speak Singlish natively — hears it every day but does not share the substrate languages (Hokkien, Teochew, Malay, Cantonese) that contribute to its non-English features.
 - Grew up in Singapore where English is the primary working language, medium of instruction, and administrative language.
 - Learned to understand RP and GA by watching Channel 4 News and PBS NewsHour, which have been freely available on the Internet for many years.
 - Finds RP and GA easier to target because they are widely documented and used in the media, so there is no need for guesswork.
@@ -66,6 +66,8 @@ SSE is not the midpoint of these two systems. It is a separate system with its o
 This is exactly what would happen to an LLM trained on the same distribution. The model would generate output that reflects a weighted mixture of its training data, not a coherent representation of the underrepresented target. The mixture would be inconsistent because the model has no stable attractor for SSE — only strong attractors for RP/GA and Singlish, which pull in different directions.
 
 ### 3. The target is underdocumented and sociolinguistically variable
+
+English dictionaries are mainly descriptive rather than prescriptive. The varieties that are best described in dictionaries, pronunciation guides, and teaching materials are not inherently clearer, simpler, or more correct; they are easier to teach because documentation, prestige institutions, and classroom norms concentrate on them. This matters here because the asymmetry runs entirely against SSE.
 
 Even if the speaker had perfect metalinguistic awareness and unlimited motivation, they could not learn SSE from reference materials with the same confidence because comprehensive SSE pronunciation references are not available at comparable granularity.
 
@@ -132,6 +134,8 @@ This is the deepest version of the "training data" argument. It is not just that
 ## What this means for pronunciation advice
 
 Most pronunciation advice assumes that the learner has a stable native baseline and is trying to approximate a well-defined target. Neither assumption holds here.
+
+When learning a language, some unfamiliar features have to be learned through approximation. The harder problem is being asked to approximate someone else's approximation while being told that the result is "natural" or "clear" without a phonetic account of what is actually happening.
 
 ### Advice that is harmful
 
