@@ -8,6 +8,27 @@ The only feature of Singlish prosody deliberately imitated was its characteristi
 
 Other Singlish features — syllable-timed rhythm, full unstressed vowels, boundary-marked connected speech, discourse particles, substrate syntax — were not targets for imitation. They are systematic in their own variety but structurally opposed to documented RP/GA norms when presented as "clear English." See [thick accent](<../thick accent.md>).
 
+## What imitation actually demands
+
+The repo owner previously thought he could relax when imitating the local accent. The reality is the opposite: he has to be extra careful, and has to avoid thinking of it as merely stressing syllables intentionally in a fixed pattern that is not strictly correct. Local listeners seem to expect unstressed vowels to be pronounced in full — the syllable-timed norm analysed in [enunciated](<../pronunciation/enunciated.md>) is a genuine target with its own expectations, not a relaxation of the stress-timed one.
+
+The asymmetry runs the other way too. Many locals have no lack of exposure to stress-timed intonation patterns, yet seem hardwired to treat word stress as unnecessary information. For a listener who relies on IPA transcriptions, and therefore carries explicit categorical stress representations, it is jarring to hear the wrong syllable stressed every ten seconds or so when a local tries to adopt a stress-timed intonation pattern.
+
+## Hokkien-origin Singlish expressions
+
+The non-English core of Singlish comes from dialects the repo owner does not understand. These Hokkien-origin expressions have been heard or read passively, but he will never react to them in the expected way, because each is unnatural in his own dialect (Hockchia counterparts and notes after the colon):
+
+1. 無 (bo): 會𣍐 and 有無 — attaching 無 as a suffix to form questions is unnatural; there is a [paper on this](https://www.cl.ntu.edu.tw/uploads/root/%E8%87%BA%E5%A4%A7%E4%B8%AD%E6%96%87%E5%AD%B8%E5%A0%B1/%E7%AC%AC%E4%B8%83%E6%9C%9F/%E8%AB%96%E7%A6%8F%E5%B7%9E%E6%96%B9%E8%A8%80%E7%9A%84%E5%90%A6%E5%AE%9A%E8%A9%9E%E5%8F%8A%E6%AD%A3%E5%8F%8D%E5%95%8F%E5%8F%A5.pdf) (unread for lack of time)
+2. 著無 (tio bo): unnatural to ask whether what was said is right; natural instead to ask whether there is anything wrong with it — 有無賺, where 賺 means something wrong or an error
+3. 爽 (song): 舒暢
+4. 痟 (siao): 癲
+5. 啉茶 (lim teh): 食茶 — the alternative verb 啜 should carry the same implication of taking small sips as in Mandarin
+6. 啉水 (lim zui): 食水, ditto
+
+Some Hokkien words sound more familiar in their literary readings:
+
+1. 陳: https://sutian.moe.edu.tw/zh-hant/su/15907/
+
 ## SSE as an ill-defined middle
 
 When there is no sharp boundary between a local creole, local English, and an imported prestige model, a learner can be asked to imitate a socially preferred target whose phonetic details are not always stated. That makes it easy for pronunciation advice to become advice about class, region, or identity while presenting itself as neutral clarity.
